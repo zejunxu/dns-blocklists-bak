@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 12 Jun 2025 12:51 UTC
-! Version: 2025.0612.1251.47
+! Last modified: 12 Jun 2025 17:52 UTC
+! Version: 2025.0612.1752.26
 ! Syntax: AdBlock
-! Number of entries: 98015
+! Number of entries: 97994
 !
 ||0-bdmbet.com^
 ||0-betsixty.com^
@@ -6215,7 +6215,6 @@
 ||1xbet348.casino^
 ||1xbet35.com^
 ||1xbet351.casino^
-||1xbet352.casino^
 ||1xbet36.casino^
 ||1xbet36.com^
 ||1xbet37.casino^
@@ -12018,7 +12017,6 @@
 ||7k946.casino^
 ||7k947.casino^
 ||7k949.casino^
-||7k950.casino^
 ||7k956.casino^
 ||7k965.casino^
 ||7k991.casino^
@@ -16321,7 +16319,6 @@
 ||apk-1win-casino.ru^
 ||apk-77drg.xyz^
 ||apk-casino-bn.com^
-||apk-casino-x-avtomati.ru^
 ||apk-casino-xbet.ru^
 ||apk-j.online^
 ||apk-mostbet-casino.ru^
@@ -28654,7 +28651,6 @@
 ||casinogratuitenligne1.com^
 ||casinogratuitfrancais.com^
 ||casinograz.top^
-||casinogreeceinfo.online^
 ||casinogreen.co^
 ||casinogrey.com^
 ||casinogrid.io^
@@ -30194,7 +30190,6 @@
 ||casinorechnung.com^
 ||casinoredez.online^
 ||casinoredkings.com^
-||casinoredstar.ru^
 ||casinorefs.click^
 ||casinorefs.com^
 ||casinorefs.forum^
@@ -30228,7 +30223,6 @@
 ||casinoreviewer.org^
 ||casinoreviewers.com^
 ||casinoreviewhub.site^
-||casinoreviewru.top^
 ||casinoreviewru4.top^
 ||casinoreviews.com^
 ||casinoreviews.net^
@@ -30449,7 +30443,6 @@
 ||casinosantafe.top^
 ||casinosapproved.info^
 ||casinosarabia.com^
-||casinosathens.online^
 ||casinosatta.com^
 ||casinosau.net^
 ||casinosaustralasia.com^
@@ -35980,7 +35973,6 @@
 ||daddycasino.pro^
 ||daddycasino.promo^
 ||daddycasino.store^
-||daddycasino.top^
 ||daddycasino-003.top^
 ||daddycasino-110.top^
 ||daddycasino-284.top^
@@ -41847,7 +41839,6 @@
 ||floridacasino.online^
 ||floridalottery.forum^
 ||floridalottery.guide^
-||floridapokerscollegebaseball.org^
 ||flormk.bet^
 ||flormk2.com^
 ||flowjackpot.com^
@@ -54102,7 +54093,6 @@
 ||kedaicasino.xyz^
 ||kedaifuji188.xyz^
 ||kedaikopi123.com^
-||kedaitogel.space^
 ||kedaitua.com^
 ||kedaiwebs.com^
 ||kedaiwla.xyz^
@@ -54585,7 +54575,6 @@
 ||kentcasino315.com^
 ||kentcasino4783.top^
 ||kentcasino553.buzz^
-||kentcasino567.casino^
 ||kentcasino758.com^
 ||kentcasino777.site^
 ||kentcasino881.top^
@@ -59295,7 +59284,6 @@
 ||ludoslotsdeals.com^
 ||lueodng.poker^
 ||lugano-casino.ch^
-||luhoplay-casino.com^
 ||luidaobets.online^
 ||lujocasino.live^
 ||lujocasinogir.com^
@@ -59770,7 +59758,6 @@
 ||maco4d1.site^
 ||maco4dtoto.store^
 ||macopolartp.website^
-||macromgt.com^
 ||macropuspg.com^
 ||mad.bet^
 ||madaboutlivecasino.com^
@@ -60329,7 +60316,6 @@
 ||mapcasino.info^
 ||maplebets.org^
 ||maplecasino.ca^
-||mapunity.org^
 ||mar.casino^
 ||marafonbet-casino.site^
 ||maranhaoloterias.com^
@@ -76492,7 +76478,6 @@
 ||r7-149.casino^
 ||r7-150.casino^
 ||r7-1937.casino^
-||r7-267.casino^
 ||r7-2982.casino^
 ||r7-338.casino^
 ||r7-339.casino^
@@ -76534,7 +76519,6 @@
 ||r7-649.casino^
 ||r7-674.casino^
 ||r7-675.casino^
-||r7-716.casino^
 ||r7-720.casino^
 ||r7-727.casino^
 ||r7-729.casino^
@@ -77979,7 +77963,6 @@
 ||refpaasxufov.top^
 ||refpabei.top^
 ||refpabjgth.top^
-||refpabmflm.space^
 ||refpacto.top^
 ||refpadewok.com^
 ||refpadkrf.top^
@@ -77988,7 +77971,6 @@
 ||refpaffkansb.top^
 ||refpagertsf.top^
 ||refpahroql.top^
-||refpaicctvtm.top^
 ||refpaiglbwkv.top^
 ||refpaikgai.top^
 ||refpajqhsd.top^
@@ -85730,7 +85712,6 @@
 ||sportbetting.ng^
 ||sportbetting.ph^
 ||sportbettingindia.com^
-||sportbettingtips.se^
 ||sportbook.com^
 ||sportbrasil.bet^
 ||sportbrasil.net^
@@ -89901,7 +89882,6 @@
 ||tripokerpasti.asia^
 ||tripokerseru.asia^
 ||trisportclub.com^
-||tristatepokerevents.com^
 ||triton.casino^
 ||triton-slots.si^
 ||tritononepoker.com^
@@ -92574,7 +92554,6 @@
 ||victoriabet4d.site^
 ||victoriabets.com^
 ||victoriacasinogambling.com^
-||victoriousbets.com^
 ||victorwin555.com^
 ||victory-77.xyz^
 ||victory22.com^

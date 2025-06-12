@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Jun 2025 12:46 UTC
-# Version: 2025.0612.1246.33
+# Last modified: 12 Jun 2025 17:59 UTC
+# Version: 2025.0612.1759.19
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 178
 #
@@ -82,47 +82,47 @@
 0.0.0.0 opennic1.eth-services.de arashi.eu.org armorrush.eu.org dns.fullaccesstointernet.jp.eu.org dns.mayx.eu.org arashi.net.eu.org sukidayo.eu.org dns.extrawdw.net fra1.eyecay.xyz
 0.0.0.0 dns.f4a.fun jp1.f7b6h9.tk dns.f97.xyz pdns.faelix.net rdns.faelix.net dns.faked.org dns.falkenthal.org dnsvps.familiamv.net dns.fancyorg.at
 0.0.0.0 farewellkou.click dns.farshidhakimy.de ns0.fdn.fr ns1.fdn.fr dns.fehlsprache.de fezgate.ovh ag.ff0x.ca 2.dnscrypt-cert.ffmuc.net doh.ffmuc.net
-0.0.0.0 dot.ffmuc.net dns.ffnw.de fidelius.top dns.filipccz.eu dns.fizz.studio dns.flatuslifir.is dns.flightspace.net dns01.flm9.net ns1.flodns.net
-0.0.0.0 ns2.flodns.net resolv.flokinet.net dns.floriantinney.de agh.fltn.us dns.flwagners.com dns.flymc.cc biying.flymlc.com gateway.fomichev.cloud dns.freopc.fr
-0.0.0.0 dns.freyja.pw dns.froth.zone doh.funil.de doh.funtopia.tv dns.furrydns.de doh.futa.app doh.futa.gg cluster-0.gac.edu cluster-1.gac.edu
-0.0.0.0 dns.gamban.com adguard.gambini.org dns.beta.gandi.net adg.geili.me geshido.vpn.geshido.ru getdnsapi.net gibblets.top adguard.maison.gifino.fr dns.ginovs.nl
-0.0.0.0 dns.girino.org h.gjrick.tw sdns22.gkonuralp.com glacius.top dns.glf.wtf dns.api.globus.org dns.api.preview.globus.org dns.api.integration.globuscs.info dns.api.sandbox.globuscs.info
-0.0.0.0 dns.api.staging.globuscs.info dns.api.test.globuscs.info agh.gloom.nexus dns.gnb09.id privacydns.go6lab.si dns.goldplate.org doh-primary-pool.goodbyegambling.com dns.google.com google-public-dns-a.google.com
-0.0.0.0 google-public-dns-b.google.com performance.gosami.xyz dnsblock.grisumedia.de dns.grqu.de dns.guard.io dns.guardmydns.com dns2.guidocioni.it dns.gutwe.in gztech.me
-0.0.0.0 dns.hahnjo.de dns.haka.se dns.hakim.one dns.hanahira.dev adguard.haneulo.com dns.hanmey.de dns.hannielzhang.com resolver-eu.haringstad.com adguard.hartley.cloud
-0.0.0.0 query.hdns.io ordns.he.net us-ny-alula.heliumcloud.cc dns.hellozhao.com dns.henek.ovh httpdns-push.heytapmobile.com himedns.com dns.hinet.net hitian.me
-0.0.0.0 pihole1.hoerli.net pihole2.hoerli.net pihole3.hoerli.net pihole4.hoerli.net home-server.store dns.hoody.com keithchung.hopto.org dns.horcrux.vip dns.internal.hosmatic.com
-0.0.0.0 dns.hostux.net dns.hotta.page doh.hottis.de hshh.org dns.hujiayucc.cn ads.hunga1k47.com doth.huque.com dns.huseynov.work ad.huyct.net
-0.0.0.0 dns.huyhoangit.net dns.hypercute.eu opennic.i2pd.xyz opennic2.i2pd.xyz vd.i81.ru dns.iamanuragh.in dns.iamninja.ru mask.icloud.com mask-h2.icloud.com
-0.0.0.0 tienpham.id.vn adguard.shuting.idv.tw dns.ihaveacloud.com iij.jp public.dns.iij.jp ikarosalpha.xyz dns.ikataruto.com dns.imaicool.com noads.imbuffering.com
-0.0.0.0 dns.imchristian.de dns.immanuelschaffer.de doh.immerda.ch http-dns.imoim.net imperio.top dns1.in-berlin.de dns2.in-berlin.de dns.inclusioproject.com adblock.indianets.net
-0.0.0.0 dns.indust.me dns.indybanipal.com dns.inforlogia.com doh.infracell.net inpssh.online www.inpssh.online qlf-doh.inria.fr dns.interhub.cc dns1.irumatech.com
-0.0.0.0 dns.is0mino.com mickedi.isgood.host dns.ishan.pw dns.islandnet.com pdns.itxe.net ivnkn.xyz jabber-germany.de www.jabber-germany.de jackyes.ovh
-0.0.0.0 tj.jamesxue.xyz dns.janl.eu jcdns.fun doh.jeroenhd.nl adguard.jfchenier.ca dns.jhangy.us dns.jichi.io dns.jinwoo.dev dns.jiyi.eu
-0.0.0.0 jkdns.me adg.jnorton.us green2.jnraptor.net dns.joey01245.nl adguard.johanliebert.top johneldenring.lol child.joindns4.eu child-noads.joindns4.eu noads.joindns4.eu
-0.0.0.0 protective.joindns4.eu unfiltered.joindns4.eu opencdn.jomodns.com adguard1.jsanagustin.net dns.jstockley.com dns.jundev.org dns.jupitrdns.com ad.justincounts.com dns.justinnetworkingsolutions.com
-0.0.0.0 dns.k3nny.fr kaiwu.xyz dns.kamilszczepanski.com adguard.kantinyoyok.xyz dns.kapite.in dns.karadag.me dns.karfamily.net dns.karl.one adguard.kasbot.net
-0.0.0.0 dns.kastner-online.de kavkaz.monster dns.kawa.tf dns.kebree.fr dns.keke125.com doh.kel.pe dns.kerekes.xyz dns.kernel-error.de dns.kescher.at
-0.0.0.0 pihole.aws.ketan.dev dns.keviland.com dns.keweon.center adg.khon.dev adguard.kiboko.it doh.kidzonet.io kilabit.info doh.killtw.im blog.kimiblock.top
-0.0.0.0 dns1.klcd.eu dns2.klcd.eu ko-18948-tr.xyz adguard.konikoni428.com doh.kooman.org korzhov.dev dns.kosan.moe dart.kpsn.org adblock.krctech.dev
-0.0.0.0 xray.krnl.eu dns.kugoapps.com dns.kukal.cz dns.kusoneko.moe dns.kuuhaku.moe kx-97795-tr.xyz dns.kxy.ink agh.kyusang.win dns.l337.site
-0.0.0.0 doh.lacontrevoie.fr dns.lars-lehmann.net dns.lashes-brow.ru lastentarvike.fi eu1.dns.lavate.ch us1.dns.lavate.ch iterator.lazada.com adguard1.leadmon.net adguard.leadseason.eu
-0.0.0.0 adblock.leenit.kr yarp.lefolgoc.net br.servers.legat.ml externalmobiel.lekdijk.online lelux.fi dns.lepilleur.com dns.lermer.nl lesuo.top dns.levonet.sk
-0.0.0.0 lewsha.lol dns2.lezainski.com dns.lgprk.com dns.liberador.net doh.libredns.gr dot.libredns.gr lifeisa.live dns.lihj.me dns.linkr.ninja
-0.0.0.0 africadns1.liquidtelecom.net africadns2.liquidtelecom.net dns.listo.click loadlow.me dns.lobbygod.com adguard.londonwebnerd.cloud doh.dns1.lonet.org doh.phdns1.lonet.org doh.phdns2.lonet.org
-0.0.0.0 doh.phdns3.lonet.org doh.phdns4.lonet.org doh.phdns5.lonet.org n5.lsasss.com lukscasino-479-tr.xyz lukscasino-542-tr.xyz lukscasino-929-tr.xyz dns.luma-medien.com orau.lz0724.com
-0.0.0.0 addns1.m-it.ro mabuktogel.builders mabuktogel.business mabuktogel.cards mabuktogel.creditcard mabuktogel.degree mabuktogel.directory mabuktogel.enterprises mabuktogel.immobilien
-0.0.0.0 mabuktogel.limited mabuktogel.ltd mabuktogel.marketing mabuktogel.properties mabuktogel.solutions mailkyb.co dns.maitrekuc.fr dns.mandre.dev dns.maolaohei.xyz
-0.0.0.0 maqgie.xyz dns.marasov.id dns.marbledfennec.net multi.dns.marbledfennec.net ag.marschi.de adguard.marto.si doh.maskab.com masters-of-cloud.de www.masters-of-cloud.de
-0.0.0.0 dns.mateo.ovh dns.mathewakhil.online maxfong.cc www.maxfong.cc dns.maybe.icu dns.mbrjun.cn mc-sft.cn adguard.meddy94.de dns.meeo.win
-0.0.0.0 testguard.meexx.de meganerd.nl httpdns.meituan.com dns.melvin2204.nl mendozasdelivery.com testaghome.meshkov.info dns.mestdag.fr dns.mh4ckt3mh4ckt1c4s.xyz esel.stusta.mhn.de
-0.0.0.0 muli.stusta.mhn.de securenet.mhsystems.net dns.michelo.cl doh.micronets.in dns.mihanentalpo.me dns.mikeliu.org mikezhang.xyz dns.milkpie.one netcup.mismat.ch
-0.0.0.0 doh.mmmalia.com dns.mnet-online.de dns.mo0on15.com dnstls.mobik.com ps1.modr.club dns.molinero.dev naganohara-yoimiya.momokko.moe dns.momou.ch zrh1-ns01.monzoon.net
-0.0.0.0 dns.moonssif.com morbitzer.de www.morbitzer.de dns.mrkaran.dev msr177.com dns.msxnet.ru dns.mtoo.vip ns.mtsoln.com dns.mullvad.net
-0.0.0.0 adblock.dns.mullvad.net all.dns.mullvad.net base.dns.mullvad.net extended.dns.mullvad.net family.dns.mullvad.net doh.mullvad.net adblock.doh.mullvad.net blockerads.multimediaconcept.fr dns.murgi.de
-0.0.0.0 dns.muxinghe.cn muxyuji.ru www.muxyuji.ru d.apemlegit.my.id dns.iki.my.id dns.lista.my.id dns.mikrotikrumahan.my.id dns.pnh.my.id dns.repinger.my.id
-0.0.0.0 dns.velyn.my.id dns.vmath.my.id myatris.sbs adblock.mydns.network family.mydns.network freedom.mydns.network paranoia.mydns.network blackhole.myon.lu area51.mywire.org
-0.0.0.0 fwgw.orangepipc.mywire.org dns.mzrme.cn n0.eu dns.n23.io doh-ca.naftalie.net najiakeji.top dns.nako.kr www.chungocoai.name.vn adguard.quydang.name.vn
+0.0.0.0 dot.ffmuc.net dns.ffnw.de fidelius.top dns.filipccz.eu dns.flatuslifir.is dns.flightspace.net dns01.flm9.net ns1.flodns.net ns2.flodns.net
+0.0.0.0 resolv.flokinet.net dns.floriantinney.de agh.fltn.us dns.flwagners.com dns.flymc.cc biying.flymlc.com gateway.fomichev.cloud dns.freopc.fr dns.freyja.pw
+0.0.0.0 dns.froth.zone doh.funil.de doh.funtopia.tv dns.furrydns.de doh.futa.app doh.futa.gg cluster-0.gac.edu cluster-1.gac.edu dns.gamban.com
+0.0.0.0 adguard.gambini.org dns.beta.gandi.net adg.geili.me geshido.vpn.geshido.ru getdnsapi.net gibblets.top adguard.maison.gifino.fr dns.ginovs.nl dns.girino.org
+0.0.0.0 h.gjrick.tw sdns22.gkonuralp.com glacius.top dns.glf.wtf dns.api.globus.org dns.api.preview.globus.org dns.api.integration.globuscs.info dns.api.sandbox.globuscs.info dns.api.staging.globuscs.info
+0.0.0.0 dns.api.test.globuscs.info agh.gloom.nexus dns.gnb09.id privacydns.go6lab.si dns.goldplate.org doh-primary-pool.goodbyegambling.com dns.google.com google-public-dns-a.google.com google-public-dns-b.google.com
+0.0.0.0 performance.gosami.xyz dnsblock.grisumedia.de dns.grqu.de dns.guard.io dns.guardmydns.com dns2.guidocioni.it dns.gutwe.in gztech.me dns.hahnjo.de
+0.0.0.0 dns.haka.se dns.hakim.one dns.hanahira.dev adguard.haneulo.com dns.hanmey.de dns.hannielzhang.com resolver-eu.haringstad.com adguard.hartley.cloud query.hdns.io
+0.0.0.0 ordns.he.net us-ny-alula.heliumcloud.cc dns.hellozhao.com dns.henek.ovh httpdns-push.heytapmobile.com himedns.com dns.hinet.net hitian.me pihole1.hoerli.net
+0.0.0.0 pihole2.hoerli.net pihole3.hoerli.net pihole4.hoerli.net home-server.store dns.hoody.com keithchung.hopto.org dns.horcrux.vip dns.internal.hosmatic.com dns.hostux.net
+0.0.0.0 dns.hotta.page doh.hottis.de hshh.org dns.hujiayucc.cn ads.hunga1k47.com doth.huque.com dns.huseynov.work ad.huyct.net dns.huyhoangit.net
+0.0.0.0 dns.hypercute.eu opennic.i2pd.xyz opennic2.i2pd.xyz vd.i81.ru dns.iamanuragh.in dns.iamninja.ru mask.icloud.com mask-h2.icloud.com tienpham.id.vn
+0.0.0.0 adguard.shuting.idv.tw dns.ihaveacloud.com iij.jp public.dns.iij.jp ikarosalpha.xyz dns.ikataruto.com dns.imaicool.com noads.imbuffering.com dns.imchristian.de
+0.0.0.0 dns.immanuelschaffer.de doh.immerda.ch http-dns.imoim.net imperio.top dns1.in-berlin.de dns2.in-berlin.de dns.inclusioproject.com adblock.indianets.net dns.indust.me
+0.0.0.0 dns.indybanipal.com dns.inforlogia.com doh.infracell.net inpssh.online www.inpssh.online qlf-doh.inria.fr dns.interhub.cc dns1.irumatech.com dns.is0mino.com
+0.0.0.0 mickedi.isgood.host dns.ishan.pw dns.islandnet.com pdns.itxe.net ivnkn.xyz jabber-germany.de www.jabber-germany.de jackyes.ovh tj.jamesxue.xyz
+0.0.0.0 dns.janl.eu jcdns.fun doh.jeroenhd.nl adguard.jfchenier.ca dns.jhangy.us dns.jichi.io dns.jinwoo.dev dns.jiyi.eu jkdns.me
+0.0.0.0 adg.jnorton.us green2.jnraptor.net dns.joey01245.nl adguard.johanliebert.top johneldenring.lol child.joindns4.eu child-noads.joindns4.eu noads.joindns4.eu protective.joindns4.eu
+0.0.0.0 unfiltered.joindns4.eu opencdn.jomodns.com adguard1.jsanagustin.net dns.jstockley.com dns.jundev.org dns.jupitrdns.com ad.justincounts.com dns.justinnetworkingsolutions.com dns.k3nny.fr
+0.0.0.0 kaiwu.xyz dns.kamilszczepanski.com adguard.kantinyoyok.xyz dns.kapite.in dns.karadag.me dns.karfamily.net dns.karl.one adguard.kasbot.net dns.kastner-online.de
+0.0.0.0 kavkaz.monster dns.kawa.tf dns.kebree.fr dns.keke125.com doh.kel.pe dns.kerekes.xyz dns.kernel-error.de dns.kescher.at pihole.aws.ketan.dev
+0.0.0.0 dns.keviland.com dns.keweon.center adg.khon.dev adguard.kiboko.it doh.kidzonet.io kilabit.info doh.killtw.im blog.kimiblock.top dns1.klcd.eu
+0.0.0.0 dns2.klcd.eu ko-18948-tr.xyz adguard.konikoni428.com doh.kooman.org korzhov.dev dns.kosan.moe dart.kpsn.org adblock.krctech.dev xray.krnl.eu
+0.0.0.0 dns.kugoapps.com dns.kukal.cz dns.kusoneko.moe dns.kuuhaku.moe kx-97795-tr.xyz dns.kxy.ink agh.kyusang.win dns.l337.site doh.lacontrevoie.fr
+0.0.0.0 dns.lars-lehmann.net dns.lashes-brow.ru lastentarvike.fi eu1.dns.lavate.ch us1.dns.lavate.ch iterator.lazada.com adguard1.leadmon.net adguard.leadseason.eu adblock.leenit.kr
+0.0.0.0 yarp.lefolgoc.net br.servers.legat.ml externalmobiel.lekdijk.online lelux.fi dns.lepilleur.com dns.lermer.nl lesuo.top dns.levonet.sk lewsha.lol
+0.0.0.0 dns2.lezainski.com dns.lgprk.com dns.liberador.net doh.libredns.gr dot.libredns.gr lifeisa.live dns.lihj.me dns.linkr.ninja africadns1.liquidtelecom.net
+0.0.0.0 africadns2.liquidtelecom.net dns.listo.click loadlow.me dns.lobbygod.com adguard.londonwebnerd.cloud doh.dns1.lonet.org doh.phdns1.lonet.org doh.phdns2.lonet.org doh.phdns3.lonet.org
+0.0.0.0 doh.phdns4.lonet.org doh.phdns5.lonet.org n5.lsasss.com lukscasino-479-tr.xyz lukscasino-542-tr.xyz lukscasino-929-tr.xyz dns.luma-medien.com orau.lz0724.com addns1.m-it.ro
+0.0.0.0 mabuktogel.builders mabuktogel.business mabuktogel.cards mabuktogel.creditcard mabuktogel.degree mabuktogel.directory mabuktogel.enterprises mabuktogel.immobilien mabuktogel.limited
+0.0.0.0 mabuktogel.ltd mabuktogel.marketing mabuktogel.properties mabuktogel.solutions mailkyb.co dns.maitrekuc.fr dns.mandre.dev dns.maolaohei.xyz maqgie.xyz
+0.0.0.0 dns.marasov.id dns.marbledfennec.net multi.dns.marbledfennec.net ag.marschi.de adguard.marto.si doh.maskab.com masters-of-cloud.de www.masters-of-cloud.de dns.mateo.ovh
+0.0.0.0 dns.mathewakhil.online maxfong.cc www.maxfong.cc dns.maybe.icu dns.mbrjun.cn mc-sft.cn adguard.meddy94.de dns.meeo.win testguard.meexx.de
+0.0.0.0 meganerd.nl httpdns.meituan.com dns.melvin2204.nl mendozasdelivery.com testaghome.meshkov.info dns.mestdag.fr dns.mh4ckt3mh4ckt1c4s.xyz esel.stusta.mhn.de muli.stusta.mhn.de
+0.0.0.0 securenet.mhsystems.net dns.michelo.cl doh.micronets.in dns.mihanentalpo.me dns.mikeliu.org mikezhang.xyz dns.milkpie.one netcup.mismat.ch doh.mmmalia.com
+0.0.0.0 dns.mnet-online.de dns.mo0on15.com dnstls.mobik.com ps1.modr.club dns.molinero.dev naganohara-yoimiya.momokko.moe dns.momou.ch zrh1-ns01.monzoon.net dns.moonssif.com
+0.0.0.0 morbitzer.de www.morbitzer.de dns.mrkaran.dev msr177.com dns.msxnet.ru dns.mtoo.vip ns.mtsoln.com dns.mullvad.net adblock.dns.mullvad.net
+0.0.0.0 all.dns.mullvad.net base.dns.mullvad.net extended.dns.mullvad.net family.dns.mullvad.net doh.mullvad.net adblock.doh.mullvad.net blockerads.multimediaconcept.fr dns.murgi.de dns.muxinghe.cn
+0.0.0.0 muxyuji.ru www.muxyuji.ru d.apemlegit.my.id dns.iki.my.id dns.lista.my.id dns.mikrotikrumahan.my.id dns.pnh.my.id dns.repinger.my.id dns.velyn.my.id
+0.0.0.0 dns.vmath.my.id myatris.sbs adblock.mydns.network family.mydns.network freedom.mydns.network paranoia.mydns.network blackhole.myon.lu area51.mywire.org fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com dns.mzrme.cn n0.eu dns.n23.io doh-ca.naftalie.net najiakeji.top dns.nako.kr www.chungocoai.name.vn adguard.quydang.name.vn
 0.0.0.0 dns.narl.app dns.nas-server.ru ae-fuj-w-p-1.nashkan.net ae-fuj-w-p-2.nashkan.net ae-fuj-w-p-3.nashkan.net at-wie-w-p-1.nashkan.net au-syd-w-f-1.nashkan.net de-fra-w-p-1.nashkan.net de-fsn-w-p-1.nashkan.net
 0.0.0.0 fi-hel-w-f-2.nashkan.net fr-gra-w-p-1.nashkan.net gb-cov-w-f-1.nashkan.net gb-cov-w-p-1.nashkan.net gb-lon-w-f-1.nashkan.net gb-lon-w-p-1.nashkan.net gb-lon-w-p-2.nashkan.net jp-tyo-w-p-1.nashkan.net kz-pav-w-p-1.nashkan.net
 0.0.0.0 nl-dro-w-f-1.nashkan.net nl-dro-w-p-1.nashkan.net ro-buc-w-f-1.nashkan.net ro-buc-w-p-1.nashkan.net sg-w-f-1.nashkan.net sg-w-p-1.nashkan.net us-chi-w-f-1.nashkan.net us-chi-w-p-1.nashkan.net us-hil-w-f-1.nashkan.net

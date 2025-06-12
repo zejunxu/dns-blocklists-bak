@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Jun 2025 12:46 UTC
-# Version: 2025.0612.1246.00
+# Last modified: 12 Jun 2025 17:59 UTC
+# Version: 2025.0612.1759.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4740
+# Number of entries: 4751
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -180,6 +180,7 @@ local=/acrea.cz/
 local=/activatevpn.com/
 local=/activpn.com/
 local=/actmobile.com/
+local=/i-hate-link-leakers-cyptopia-made-this.adaptor.cl/
 local=/schoolsucks.adaptor.cl/
 local=/adblockersite.com/
 local=/adblockluna.com/
@@ -335,6 +336,7 @@ local=/asheranztwitch.online/
 local=/dns.ashleyjackson.net/
 local=/terms.skill.asleepingturtle.com/
 local=/survey.aspdebugger.com/
+local=/task.major.assholetenants.com/
 local=/dns.asterimoon.com/
 local=/astrill.com/
 local=/astrill.org/
@@ -583,6 +585,7 @@ local=/dns.cahlen.com/
 local=/register.cakk.us/
 local=/calculusproblems.online/
 local=/solve.proof.california-red.com/
+local=/notes.sage.california-red.com/
 local=/dns.caliph.dev/
 local=/callies-online.site/
 local=/bananakun.camdvr.org/
@@ -631,12 +634,14 @@ local=/dismantled.charbel.cl/
 local=/dns.charraud.eu/
 local=/ougonokaze.cheftayebeh.ir/
 local=/dns.chenu.ch/
+local=/gooberman123.com.chickenkiller.com/
 local=/ilikefeet.chickenkiller.com/
 local=/freedns.kiuo-utopias.chickenkiller.com/
 local=/mathhomeworkplus.chickenkiller.com/
 local=/mathiseasy.chickenkiller.com/
 local=/nathanlikesgames.chickenkiller.com/
 local=/oluka.chickenkiller.com/
+local=/vamo.de.teste.chickenkiller.com/
 local=/whydidiask.chickenkiller.com/
 local=/dns.chilimac.net/
 local=/imisstheoldkanye.chillcrew.net/
@@ -1474,7 +1479,6 @@ local=/firstcontact.site/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2009,6 +2013,7 @@ local=/internetcloak.com/
 local=/interssh.com/
 local=/intervpn.com/
 local=/intl-alliance.com/
+local=/orbit.debate.invest.io/
 local=/invisv.com/
 local=/app.edu.iownyour.org/
 local=/use.edu.iownyour.org/
@@ -2210,6 +2215,7 @@ local=/kproxy.com/
 local=/kproxysite.com/
 local=/dart.kpsn.org/
 local=/adblock.krctech.dev/
+local=/recap.grade.kredytlinia.pl/
 local=/xray.krnl.eu/
 local=/kryptovpn.kryptotel.net/
 local=/dns.kugoapps.com/
@@ -2253,6 +2259,7 @@ local=/peoplewhosay67arecornballs.laviewddns.com/
 local=/taihenomatasesimasita.laviewddns.com/
 local=/useinterstellar.laviewddns.com/
 local=/iterator.lazada.com/
+local=/alumn.history.ldop.com/
 local=/le-vpn.com/
 local=/adguard1.leadmon.net/
 local=/adguard.leadseason.eu/
@@ -2573,6 +2580,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -2659,6 +2667,7 @@ local=/dns.neutopia.org/
 local=/newipnow.com/
 local=/newproxylist.net/
 local=/newshosting.com/
+local=/blud.nex.sh/
 local=/doh.luigi.nexific.it/
 local=/dns.nextdns.io/
 local=/dns1.nextdns.io/
@@ -3095,6 +3104,7 @@ local=/privacyprotector.eu/
 local=/privado.io/
 local=/orpi.privado.ovh/
 local=/privadovpn.com/
+local=/examccctestedd.privatedns.org/
 local=/privateinternetaccess.com/
 local=/privateproxy.me/
 local=/privatesurfforme.net/
@@ -3823,6 +3833,7 @@ local=/surprise.pics/
 local=/surtshark.com/
 local=/dns.sv-zauner.at/
 local=/dns.svoi.dev/
+local=/poptee-liawheufhwae-awef.swanndvr.net/
 local=/ramm-ume-pro.swanndvr.net/
 local=/rammerhead-10.swanndvr.net/
 local=/swapip.com/

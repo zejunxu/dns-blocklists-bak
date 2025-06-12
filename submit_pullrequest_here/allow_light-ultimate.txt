@@ -1,6 +1,12 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/hagezi/dns-blocklists/issues/6468
+ru.net
+
+# https://github.com/hagezi/dns-blocklists/issues/6467
+eporner.com
+
 # https://github.com/hagezi/dns-blocklists/issues/6429
 iris.mwbsys.com
 

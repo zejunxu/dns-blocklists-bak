@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749732360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749751140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 12 Jun 2025 12:46 UTC
-; Version: 2025.0612.1246.00
+; Last modified: 12 Jun 2025 17:59 UTC
+; Version: 2025.0612.1759.44
 ; Syntax: RPZ
-; Number of entries: 9480
+; Number of entries: 9502
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -594,6 +594,8 @@ onion.city CNAME .
 *.onion.city CNAME .
 s.abl.cl CNAME .
 *.s.abl.cl CNAME .
+i-hate-link-leakers-cyptopia-made-this.adaptor.cl CNAME .
+*.i-hate-link-leakers-cyptopia-made-this.adaptor.cl CNAME .
 schoolsucks.adaptor.cl CNAME .
 *.schoolsucks.adaptor.cl CNAME .
 search.alemanaactiva.cl CNAME .
@@ -1106,6 +1108,8 @@ terms.skill.asleepingturtle.com CNAME .
 *.terms.skill.asleepingturtle.com CNAME .
 survey.aspdebugger.com CNAME .
 *.survey.aspdebugger.com CNAME .
+task.major.assholetenants.com CNAME .
+*.task.major.assholetenants.com CNAME .
 dns.asterimoon.com CNAME .
 *.dns.asterimoon.com CNAME .
 astrill.com CNAME .
@@ -1330,6 +1334,8 @@ dns.cahlen.com CNAME .
 *.dns.cahlen.com CNAME .
 solve.proof.california-red.com CNAME .
 *.solve.proof.california-red.com CNAME .
+notes.sage.california-red.com CNAME .
+*.notes.sage.california-red.com CNAME .
 careproxy.com CNAME .
 *.careproxy.com CNAME .
 dns.carson-family.com CNAME .
@@ -1350,6 +1356,8 @@ core.goal.challengepursuit.com CNAME .
 *.core.goal.challengepursuit.com CNAME .
 changemyip.com CNAME .
 *.changemyip.com CNAME .
+gooberman123.com.chickenkiller.com CNAME .
+*.gooberman123.com.chickenkiller.com CNAME .
 ilikefeet.chickenkiller.com CNAME .
 *.ilikefeet.chickenkiller.com CNAME .
 freedns.kiuo-utopias.chickenkiller.com CNAME .
@@ -1362,6 +1370,8 @@ nathanlikesgames.chickenkiller.com CNAME .
 *.nathanlikesgames.chickenkiller.com CNAME .
 oluka.chickenkiller.com CNAME .
 *.oluka.chickenkiller.com CNAME .
+vamo.de.teste.chickenkiller.com CNAME .
+*.vamo.de.teste.chickenkiller.com CNAME .
 whydidiask.chickenkiller.com CNAME .
 *.whydidiask.chickenkiller.com CNAME .
 chillglobal.com CNAME .
@@ -2338,6 +2348,8 @@ useinterstellar.laviewddns.com CNAME .
 *.useinterstellar.laviewddns.com CNAME .
 iterator.lazada.com CNAME .
 *.iterator.lazada.com CNAME .
+alumn.history.ldop.com CNAME .
+*.alumn.history.ldop.com CNAME .
 le-vpn.com CNAME .
 *.le-vpn.com CNAME .
 dingaling.leasingindia.com CNAME .
@@ -2558,6 +2570,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -5292,6 +5306,8 @@ hidemy.io CNAME .
 *.hidemy.io CNAME .
 holax.io CNAME .
 *.holax.io CNAME .
+orbit.debate.invest.io CNAME .
+*.orbit.debate.invest.io CNAME .
 ipfreely.io CNAME .
 *.ipfreely.io CNAME .
 dns.jichi.io CNAME .
@@ -6886,6 +6902,8 @@ surfall.net CNAME .
 *.surfall.net CNAME .
 surfshark.net CNAME .
 *.surfshark.net CNAME .
+poptee-liawheufhwae-awef.swanndvr.net CNAME .
+*.poptee-liawheufhwae-awef.swanndvr.net CNAME .
 ramm-ume-pro.swanndvr.net CNAME .
 *.ramm-ume-pro.swanndvr.net CNAME .
 rammerhead-10.swanndvr.net CNAME .
@@ -7680,6 +7698,8 @@ ixl.potomacriversafetycommittee.org CNAME .
 *.ixl.potomacriversafetycommittee.org CNAME .
 doh.powerdns.org CNAME .
 *.doh.powerdns.org CNAME .
+examccctestedd.privatedns.org CNAME .
+*.examccctestedd.privatedns.org CNAME .
 privoxy.org CNAME .
 *.privoxy.org CNAME .
 prostovpn.org CNAME .
@@ -7964,6 +7984,8 @@ antycenzor.pl CNAME .
 *.antycenzor.pl CNAME .
 bramka-proxy.pl CNAME .
 *.bramka-proxy.pl CNAME .
+recap.grade.kredytlinia.pl CNAME .
+*.recap.grade.kredytlinia.pl CNAME .
 skills.field.cftc-devoteam.one.pl CNAME .
 *.skills.field.cftc-devoteam.one.pl CNAME .
 dns.panszelescik.pl CNAME .
@@ -8494,6 +8516,8 @@ surfshark.sg CNAME .
 *.surfshark.sg CNAME .
 schoolmath.hop.sh CNAME .
 *.schoolmath.hop.sh CNAME .
+blud.nex.sh CNAME .
+*.blud.nex.sh CNAME .
 onion.sh CNAME .
 *.onion.sh CNAME .
 proxy.sh CNAME .
@@ -8636,8 +8660,6 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .

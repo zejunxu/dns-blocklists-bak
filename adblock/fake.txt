@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 12 Jun 2025 13:02 UTC
-! Version: 2025.0612.1302.31
+! Last modified: 12 Jun 2025 16:50 UTC
+! Version: 2025.0612.1650.26
 ! Syntax: AdBlock
-! Number of entries: 14580
+! Number of entries: 14583
 !
 ||01crypto.com^
 ||1001clothing.eu^
@@ -3387,6 +3387,7 @@
 ||digital-starten.com^
 ||digitalakku.de^
 ||digitaldeptstore.com^
+||digitalheizer.de^
 ||digitalworldinnovations46.cc^
 ||digitec-holding.de^
 ||digitoption.com^
@@ -5822,6 +5823,7 @@
 ||haushaltskoenig.de^
 ||haushaltsproduktede.com^
 ||haushaltsreich.de^
+||hausheizer.de^
 ||hauslager.com^
 ||hausmobel-de.com^
 ||hausonline24.com^
@@ -11823,6 +11825,7 @@
 ||soelker.de^
 ||sofasundsessel.com^
 ||sofie-boutiques.de^
+||sofologic.de^
 ||sofort-kreditt.com^
 ||sofortfinanz.com^
 ||sofortheizoel.de^
