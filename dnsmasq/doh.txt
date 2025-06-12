@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Jun 2025 17:59 UTC
-# Version: 2025.0612.1759.19
+# Last modified: 12 Jun 2025 23:52 UTC
+# Version: 2025.0612.2352.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1441
+# Number of entries: 1440
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -509,7 +509,6 @@ local=/edgy-dns.com/
 local=/dns.editechstudio.com/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/adguard.ef67daisuki.club/
-local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/eliatofani.ovh/
@@ -527,7 +526,6 @@ local=/arashi.eu.org/
 local=/armorrush.eu.org/
 local=/dns.fullaccesstointernet.jp.eu.org/
 local=/dns.mayx.eu.org/
-local=/arashi.net.eu.org/
 local=/sukidayo.eu.org/
 local=/dns.extrawdw.net/
 local=/fra1.eyecay.xyz/
@@ -553,6 +551,7 @@ local=/dot.ffmuc.net/
 local=/dns.ffnw.de/
 local=/fidelius.top/
 local=/dns.filipccz.eu/
+local=/dns.fizz.studio/
 local=/dns.flatuslifir.is/
 local=/dns.flightspace.net/
 local=/dns01.flm9.net/
@@ -730,6 +729,7 @@ local=/kavkaz.monster/
 local=/dns.kawa.tf/
 local=/dns.kebree.fr/
 local=/dns.keke125.com/
+local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/dns.kerekes.xyz/
 local=/dns.kernel-error.de/
@@ -1438,7 +1438,6 @@ local=/net01.youcef.io/
 local=/your-dns.run/
 local=/yovbak.com/
 local=/dns.yuu-g.net/
-local=/yuvelirtut.website/
 local=/adg.yybyy.wiki/
 local=/dns.daemon.za.net/
 local=/adguard.zachitect.com/

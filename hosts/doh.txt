@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Jun 2025 17:59 UTC
-# Version: 2025.0612.1759.19
+# Last modified: 12 Jun 2025 23:52 UTC
+# Version: 2025.0612.2352.44
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1602
+# Number of entries: 1601
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -618,7 +618,6 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
-0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -636,7 +635,6 @@
 0.0.0.0 armorrush.eu.org
 0.0.0.0 dns.fullaccesstointernet.jp.eu.org
 0.0.0.0 dns.mayx.eu.org
-0.0.0.0 arashi.net.eu.org
 0.0.0.0 sukidayo.eu.org
 0.0.0.0 dns.extrawdw.net
 0.0.0.0 fra1.eyecay.xyz
@@ -662,6 +660,7 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
+0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
@@ -842,6 +841,7 @@
 0.0.0.0 dns.kawa.tf
 0.0.0.0 dns.kebree.fr
 0.0.0.0 dns.keke125.com
+0.0.0.0 doh.kekew.info
 0.0.0.0 doh.kel.pe
 0.0.0.0 dns.kerekes.xyz
 0.0.0.0 dns.kernel-error.de
@@ -1599,7 +1599,6 @@
 0.0.0.0 your-dns.run
 0.0.0.0 yovbak.com
 0.0.0.0 dns.yuu-g.net
-0.0.0.0 yuvelirtut.website
 0.0.0.0 adg.yybyy.wiki
 0.0.0.0 dns.daemon.za.net
 0.0.0.0 adguard.zachitect.com

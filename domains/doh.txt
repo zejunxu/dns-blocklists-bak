@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Jun 2025 17:59 UTC
-# Version: 2025.0612.1759.19
+# Last modified: 12 Jun 2025 23:52 UTC
+# Version: 2025.0612.2352.44
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1602
+# Number of entries: 1601
 #
 003153.xyz
 ns.00dani.me
@@ -618,7 +618,6 @@ edgy-dns.com
 dns.editechstudio.com
 dns.tuna.tsinghua.edu.cn
 adguard.ef67daisuki.club
-dns.efficientdocuments.com
 hole.elbschloss.xyz
 dns.elemental.software
 eliatofani.ovh
@@ -636,7 +635,6 @@ arashi.eu.org
 armorrush.eu.org
 dns.fullaccesstointernet.jp.eu.org
 dns.mayx.eu.org
-arashi.net.eu.org
 sukidayo.eu.org
 dns.extrawdw.net
 fra1.eyecay.xyz
@@ -662,6 +660,7 @@ dot.ffmuc.net
 dns.ffnw.de
 fidelius.top
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns01.flm9.net
@@ -842,6 +841,7 @@ kavkaz.monster
 dns.kawa.tf
 dns.kebree.fr
 dns.keke125.com
+doh.kekew.info
 doh.kel.pe
 dns.kerekes.xyz
 dns.kernel-error.de
@@ -1599,7 +1599,6 @@ net01.youcef.io
 your-dns.run
 yovbak.com
 dns.yuu-g.net
-yuvelirtut.website
 adg.yybyy.wiki
 dns.daemon.za.net
 adguard.zachitect.com

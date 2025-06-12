@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749751140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749772380 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 12 Jun 2025 17:59 UTC
-; Version: 2025.0612.1759.44
+; Last modified: 12 Jun 2025 23:53 UTC
+; Version: 2025.0612.2353.04
 ; Syntax: RPZ
-; Number of entries: 9502
+; Number of entries: 9496
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1370,8 +1370,6 @@ nathanlikesgames.chickenkiller.com CNAME .
 *.nathanlikesgames.chickenkiller.com CNAME .
 oluka.chickenkiller.com CNAME .
 *.oluka.chickenkiller.com CNAME .
-vamo.de.teste.chickenkiller.com CNAME .
-*.vamo.de.teste.chickenkiller.com CNAME .
 whydidiask.chickenkiller.com CNAME .
 *.whydidiask.chickenkiller.com CNAME .
 chillglobal.com CNAME .
@@ -1646,8 +1644,6 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -5112,6 +5108,8 @@ interncloud.info CNAME .
 *.interncloud.info CNAME .
 iweb365.info CNAME .
 *.iweb365.info CNAME .
+doh.kekew.info CNAME .
+*.doh.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
 legalweb.info CNAME .
@@ -7492,8 +7490,6 @@ dns.fullaccesstointernet.jp.eu.org CNAME .
 *.dns.fullaccesstointernet.jp.eu.org CNAME .
 dns.mayx.eu.org CNAME .
 *.dns.mayx.eu.org CNAME .
-arashi.net.eu.org CNAME .
-*.arashi.net.eu.org CNAME .
 rammerhead.eu.org CNAME .
 *.rammerhead.eu.org CNAME .
 sukidayo.eu.org CNAME .
@@ -8516,8 +8512,6 @@ surfshark.sg CNAME .
 *.surfshark.sg CNAME .
 schoolmath.hop.sh CNAME .
 *.schoolmath.hop.sh CNAME .
-blud.nex.sh CNAME .
-*.blud.nex.sh CNAME .
 onion.sh CNAME .
 *.onion.sh CNAME .
 proxy.sh CNAME .
@@ -8660,6 +8654,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -9168,8 +9164,6 @@ siteunblocked.website CNAME .
 *.siteunblocked.website CNAME .
 unblock2.website CNAME .
 *.unblock2.website CNAME .
-yuvelirtut.website CNAME .
-*.yuvelirtut.website CNAME .
 zakaria.website CNAME .
 *.zakaria.website CNAME .
 www-proxy.bettercallghaith.wiki CNAME .

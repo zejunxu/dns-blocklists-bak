@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Jun 2025 17:59 UTC
-# Version: 2025.0612.1759.44
+# Last modified: 12 Jun 2025 23:53 UTC
+# Version: 2025.0612.2353.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4751
+# Number of entries: 4748
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -641,7 +641,6 @@ local=/mathhomeworkplus.chickenkiller.com/
 local=/mathiseasy.chickenkiller.com/
 local=/nathanlikesgames.chickenkiller.com/
 local=/oluka.chickenkiller.com/
-local=/vamo.de.teste.chickenkiller.com/
 local=/whydidiask.chickenkiller.com/
 local=/dns.chilimac.net/
 local=/imisstheoldkanye.chillcrew.net/
@@ -1328,7 +1327,6 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1375,7 +1373,6 @@ local=/arashi.eu.org/
 local=/armorrush.eu.org/
 local=/dns.fullaccesstointernet.jp.eu.org/
 local=/dns.mayx.eu.org/
-local=/arashi.net.eu.org/
 local=/rammerhead.eu.org/
 local=/sukidayo.eu.org/
 local=/eurproxy.com/
@@ -1479,6 +1476,7 @@ local=/firstcontact.site/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2168,6 +2166,7 @@ local=/dns.kebree.fr/
 local=/keenow.com/
 local=/keepanonymous.com/
 local=/dns.keke125.com/
+local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/kepard.com/
 local=/dns.kerekes.xyz/
@@ -2667,7 +2666,6 @@ local=/dns.neutopia.org/
 local=/newipnow.com/
 local=/newproxylist.net/
 local=/newshosting.com/
-local=/blud.nex.sh/
 local=/doh.luigi.nexific.it/
 local=/dns.nextdns.io/
 local=/dns1.nextdns.io/
@@ -4713,7 +4711,6 @@ local=/ytcroxyproxy.com/
 local=/yui.cat/
 local=/friends-are.awesome.yukon.ar/
 local=/dns.yuu-g.net/
-local=/yuvelirtut.website/
 local=/yuyuproxy.com/
 local=/yxorproxy.com/
 local=/adg.yybyy.wiki/
