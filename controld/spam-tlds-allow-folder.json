@@ -2990,6 +2990,13 @@
       }
     },
     {
+      "PK": "survivors.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "swedish-supplements.shop",
       "action": {
         "do": 1,

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Jun 2025 11:02 UTC
-# Version: 2025.0613.1102.54
+# Last modified: 13 Jun 2025 19:21 UTC
+# Version: 2025.0613.1921.47
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 94848
+# Number of entries: 94791
 #
 *.0-38.com
 *.000free.us
@@ -2292,7 +2292,6 @@
 *.t.881903.com
 *.882201.com
 *.8845-78899-78855-998965.site
-*.884963coinbase.com
 *.88635324-65754671111.online
 *.886521-coinbase.com
 *.8866.org
@@ -3196,7 +3195,6 @@
 *.spotlight.accuweather.com
 *.acdcdn.com
 *.ace-live.com
-*.ace-live.net
 *.ace-project.org
 *.ace-telegram.com
 *.ace-telegram.top
@@ -4008,7 +4006,6 @@
 *.adition.com
 *.aditude.cloud
 *.aditude.io
-*.ad.adityabirlafinancelimited.in
 *.adityask.com
 *.adivery.com
 *.adivery.ir
@@ -7094,13 +7091,6 @@
 *.mads.amazon.com
 *.mads-eu.amazon.com
 *.mads-fe.amazon.com
-*.msh.amazon.ca
-*.msh.amazon.com
-*.msh.amazon.de
-*.msh.amazon.es
-*.msh.amazon.fr
-*.msh.amazon.in
-*.msh.amazon.it
 *.events.app-performance.music.amazon.dev
 *.trace.app-performance.music.amazon.dev
 *.bugs.firebat.prime-video.amazon.dev
@@ -8723,7 +8713,6 @@
 *.apple-ca.info
 *.apple-ca.support
 *.apple-cafe-sushi.es
-*.apple-carplay-audroid-auto.com
 *.apple-center-support.com
 *.apple-chat-help.cfd
 *.apple-chat-support.cfd
@@ -8739,7 +8728,6 @@
 *.apple-downdown.com
 *.apple-es-security.com
 *.apple-events.org
-*.apple-find-my.top
 *.apple-find1.xyz
 *.apple-findit.info
 *.apple-findmaps.info
@@ -10724,7 +10712,6 @@
 *.ausposrtpli.top
 *.ausposrttcz.top
 *.ausposrtxni.top
-*.auspost-delivery.xyz
 *.auspostac.win
 *.auspostad.win
 *.auspostbd.help
@@ -10957,7 +10944,6 @@
 *.trk.avalara.com
 *.trk2.avalara.com
 *.avaliarmusicas.online
-*.avalieganhe.live
 *.avalieganheagora.online
 *.ads.avalon.hr
 *.avalon-trader.net
@@ -18189,7 +18175,6 @@
 *.checktrustworthiness.com
 *.checkvim.com
 *.checkyourfumble.com
-*.chedda-finance.xyz
 *.smetric.cheddars.com
 *.chedot.com
 *.cheechoups.net
@@ -18837,13 +18822,11 @@
 *.claim-lagrangefoundation.org
 *.claim-lagrangefoundation.xyz
 *.claim-live.xyz
-*.claim-mind.com
 *.claim-mindofpepe.app
 *.claim-mindofpepe.help
 *.claim-mindofpepe.live
 *.claim-mindsofpepe.com
 *.claim-obnx.live
-*.claim-odosprotocol.xyz
 *.claim-plume.network
 *.claim-plume.org
 *.claim-skate.org
@@ -19336,7 +19319,6 @@
 *.analytics-aps.cloud.com
 *.analytics-eu.cloud.com
 *.insights.cloud.microsoft
-*.cloud-cdn.sbs
 *.cloud-delivered-protection-de.click
 *.cloud-delivered-protection-fr.click
 *.cloud-delivery.live
@@ -19789,7 +19771,6 @@
 *.cnet.chat
 *.cnet.onl
 *.cnet.systems
-*.cnet-ltd.com
 *.cnetcontentsolutions.com
 *.cnb.cnews.ru
 *.cnfans-spreadsheet-reddit.com
@@ -19938,8 +19919,6 @@
 *.fls-eu.amazon.co.uk
 *.fls-eu.amazon.co.za
 *.fls-fe.amazon.co.jp
-*.msh.amazon.co.jp
-*.msh.amazon.co.uk
 *.rcm-jp.amazon.co.jp
 *.rcm-uk.amazon.co.uk
 *.unagi.amazon.co.jp
@@ -21147,7 +21126,6 @@
 *.coinbasbackup.com
 *.dp.coinbase.com
 *.coinbase-100950.com
-*.coinbase-283452.com
 *.coinbase-981271.com
 *.coinbase-aibot.com
 *.coinbase-bots.com
@@ -21439,8 +21417,6 @@
 *.fls-fe.amazon.com.au
 *.fls-na.amazon.com.br
 *.fls-na.amazon.com.mx
-*.msh.amazon.com.br
-*.msh.amazon.com.mx
 *.unagi.amazon.com.au
 *.unagi.amazon.com.be
 *.unagi.amazon.com.br
@@ -24440,7 +24416,6 @@
 *.cryptoquestpro.com
 *.cryptorino-casino.com
 *.cryptorisepro.net
-*.cryptospells.org
 *.cryptospotapp.com
 *.cryptotab.net
 *.cryptotabbrowser.com
@@ -25272,7 +25247,6 @@
 *.dash-solaxy.com
 *.dashboard.io
 *.dashboard-0x0.xyz
-*.dashboard-google.com
 *.dashboard-visor.com
 *.dashboardproducts.info
 *.tracker.dashbot.io
@@ -26118,7 +26092,6 @@
 *.delivery-skyview.tech
 *.delivery-smart.com
 *.delivery-system-share-point-portal-email.net
-*.delivery-verificado.site
 *.delivery-work.info
 *.delivery-work-1-2988573.world
 *.delivery-worker-jobs-online.site
@@ -35173,7 +35146,6 @@
 *.galooli.com
 *.posthog-fe.corp.galxe.com
 *.sentry.corp.galxe.com
-*.galxe-dd.pro
 *.galxnetb.today
 *.gama.cash
 *.gamaads.com
@@ -41966,7 +41938,6 @@
 *.hvmywyak.com
 *.hvrcruhojtv59.life
 *.hvunrg.lat
-*.hvvrsn.top
 *.hvwnrellsg.ru
 *.hvxnlmjx.com
 *.analytics.hvylya.net
@@ -43712,7 +43683,6 @@
 *.inicio-live.fun
 *.inicio-unicaja.com
 *.iniciocaixa-webs.info
-*.iniciogbff.site
 *.iniciomovil.com
 *.inif.ru
 *.rt.inistrack.net
@@ -45106,7 +45076,6 @@
 *.iwantu.com
 *.iwashi.biz
 *.iwctevz.top
-*.iweb-whatsapp.com
 *.iwebland.com
 *.iwebtrack.com
 *.tracking.iwgplc.com
@@ -45627,8 +45596,6 @@
 *.rs-stripe.jetstar.com
 *.smtc.jetstar.com
 *.jetswap.com
-*.jetton-telegram.com
-*.jetton-telegram.net
 *.jetztgewinner.de
 *.jeuneafrique.com
 *.jeunesseglobal.com
@@ -48703,7 +48670,6 @@
 *.layeredgen.info
 *.layeredgen.ltd
 *.layeredgen.net
-*.layeredger.network
 *.layeredger.world
 *.layeregde.top
 *.layereidge.digital
@@ -51915,7 +51881,6 @@
 *.luxquantum.net
 *.web.luxresearchinc.com
 *.luxtry.click
-*.luxuariver.com
 *.luxup.ru
 *.luxupcdnc.com
 *.luxurious-detailing.com
@@ -55281,7 +55246,6 @@
 *.analytics.mncplus.com
 *.mndlvr.com
 *.mndofpep.online
-*.mndofpepe.online
 *.mndsrv.com
 *.mndtrk.com
 *.mndx1.com
@@ -57063,7 +57027,6 @@
 *.lads.myspace.com
 *.mysparkuop.net
 *.digital.mysphera.com
-*.myspost-delivery.xyz
 *.myspotify-billing.com
 *.mysprzedaz.lat
 *.myspservices.com
@@ -58565,7 +58528,6 @@
 *.idc-log.plex.nexon.io
 *.nexoracheat.com
 *.nexorionfinance.net
-*.nexprotocol.net
 *.nexrtb.com
 *.nexstardigital.com
 *.segment.psg.nexstardigital.net
@@ -58641,7 +58603,6 @@
 *.nf2nfatrk.com
 *.nf2r18mdu.com
 *.nfaktualizacji.cfd
-*.nfc-cz-apple.com
 *.nfdxprxptlubs.buzz
 *.nfeiangyo.help
 *.nfgnjxznrux.xyz
@@ -59045,7 +59006,6 @@
 *.nodemainaffix.app
 *.nodepathr.run
 *.nodepositbonus.cc
-*.nodesrectification.site
 *.nodude.my
 *.noel-zoom.com
 *.noeldansleparc.com
@@ -61122,7 +61082,6 @@
 *.on3soccer.com
 *.on3sportsgroup.com
 *.onabet-app.com
-*.onaccesgalis.link
 *.onadagu.top
 *.onads.dk
 *.adv.onadvantagecs.com
@@ -65699,7 +65658,6 @@
 *.portalempresanetltda.lat
 *.portalhc.com
 *.portalknews.online
-*.portall-pagoclaro.com
 *.portalsclaims-celsiusnetwork.com
 *.portalsdistributions-ftxclaims.com
 *.portalsg2-trailhaven.global
@@ -65778,8 +65736,6 @@
 *.postlnk.com
 *.sentry.postmanlabs.com
 *.sentry-app.postmanlabs.com
-*.postmdelivery.shop
-*.postmdelivery.xyz
 *.postnard-get-id45675.shop
 *.api.postnauka.org
 *.postnerd.life
@@ -72861,7 +72817,6 @@
 *.schalkenbach.org
 *.tracking.sched.com
 *.schedule-appointment.org
-*.schedule30min-job-apple.com
 *.schedule30min-rodgerwolff-apple.com
 *.trk.scheels.com
 *.schibsted.se
@@ -76787,7 +76742,6 @@
 *.spainslots.xyz
 *.spaitopacate.shop
 *.spaitwhitter.shop
-*.spakrle.top
 *.spakyeastruckingandlogistics.com
 *.spamanalyst.com
 *.track.span-smt.jp
@@ -77559,7 +77513,6 @@
 *.stackoverflow-team.com
 *.stackpile.io
 *.stacooverflow.com
-*.staderlabs.online
 *.stadninagoscimiec.pl
 *.analytics.stadt-zuerich.ch
 *.stats.stadtradeln.de
@@ -81194,7 +81147,6 @@
 *.the-north-face.fr
 *.the-northface.fr
 *.the-office-hdrezka.net
-*.the-office-party.com
 *.the-ozone-project.com
 *.the-pet-live.store
 *.ads.the-sun.com
@@ -85325,7 +85277,6 @@
 *.ultimatefund-1000.com
 *.ultimatemanias.online
 *.ultra-rv.com
-*.ultrabaseprotocol.online
 *.ultracloudshoe.com
 *.ultradefrag.net
 *.pdns3.ultradns.org
@@ -85544,7 +85495,6 @@
 *.unhesiss.shop
 *.unhobexter.pro
 *.uni.cc
-*.uni-drop.pro
 *.uni-eth.com
 *.business-analytics.uni-graz.at
 *.webstats.zdv.uni-mainz.de
@@ -86102,7 +86052,6 @@
 *.urtyert.com
 *.urunisleminiz.com
 *.urunislemlerimiz.com
-*.urunlertukenmedensepettenalin.xyz
 *.urzadzamyogrod.com
 *.350yeezy.us.com
 *.abilify365.us.com
@@ -86233,7 +86182,6 @@
 *.usdtflasherapp.com
 *.usdtfreeminer.com
 *.usdtuab.com
-*.usduc.net
 *.usdwin.org
 *.use-felix.xyz
 *.use-whtsapp.chat
@@ -91622,7 +91570,6 @@
 *.ads-api.x.com
 *.analytics.x.com
 *.x-altin.com
-*.x-azure.com
 *.x-business-ads.com
 *.x-cafevn.org
 *.ads.x-cdn.org
@@ -92269,7 +92216,6 @@
 *.xp-pen.online
 *.xp-traders.com
 *.xp3.biz
-*.xp3329.top
 *.xpassgenerator.com
 *.xpay-pal.com
 *.xpbqd.sbs
@@ -92710,19 +92656,16 @@
 *.yandex-delivery-eto-leto.ru
 *.yandex-delivery-eto-leto.store
 *.yandex-desk.ru
-*.yandex-info.online
 *.yandex-kit.ru
 *.yandex-live-id.com
 *.yandex-market.com
 *.yandex-moon.ru
 *.startup-mobile.ap.yandex-net.ru
-*.yandex-oplata1389.ru
 *.yandex-remsupport.ru
 *.yandex-service.ru
 *.yandex-shift.ru
 *.yandex-taxi.net
 *.yandex-travel-promos.sbs
-*.yandex-zakaz1390.ru
 *.yandexadexchange.net
 *.yandexmetrica.com
 *.yandextg.com

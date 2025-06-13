@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 13 Jun 2025 10:20 UTC
-! Version: 2025.0613.1020.45
+! Last modified: 13 Jun 2025 19:16 UTC
+! Version: 2025.0613.1916.43
 ! Syntax: uBlock
 ! Number of latin TLDs: 270 - non-latin TLDs: 151
 !
@@ -275,7 +275,7 @@
 ||webcam^$doc
 ||website^$doc,domain=~acro.website|~bestmotherfucking.website|~eddie.website|~thatsup.website|~tilde.website|~uphold.website
 ||wedding^$doc
-||wiki^$doc,domain=~bg3.wiki|~burnout.wiki|~consumerrights.wiki|~cooked.wiki|~datei.wiki|~fallout.wiki|~getindie.wiki|~hacktricks.wiki|~hollowknight.wiki|~kodi.wiki|~kometa.wiki|~libreelec.wiki|~manson.wiki|~mediaclients.wiki|~minecraft.wiki|~modding.wiki|~namu.wiki|~nixos.wiki|~notifiarr.wiki|~osrs.wiki|~rs.wiki|~runescape.wiki|~severance.wiki|~tajrobe.wiki|~tardis.wiki|~thehomelab.wiki|~usermanual.wiki|~w.wiki|~zeppelin.wiki
+||wiki^$doc,domain=~bg3.wiki|~burnout.wiki|~consumerrights.wiki|~cooked.wiki|~datei.wiki|~fallout.wiki|~getindie.wiki|~hacktricks.wiki|~hollowknight.wiki|~kodi.wiki|~kometa.wiki|~libreelec.wiki|~manson.wiki|~mediaclients.wiki|~minecraft.wiki|~modding.wiki|~namu.wiki|~nixos.wiki|~notifiarr.wiki|~osrs.wiki|~rs.wiki|~runescape.wiki|~severance.wiki|~survivors.wiki|~tajrobe.wiki|~tardis.wiki|~thehomelab.wiki|~usermanual.wiki|~w.wiki|~zeppelin.wiki
 ||win^$doc,domain=~activated.win|~communities.win|~patriots.win|~vaultcord.win
 ||wine^$doc,domain=~nostr.wine
 ||work^$doc,domain=~doesmycode.work|~frame.work|~koding.work|~mirror.work

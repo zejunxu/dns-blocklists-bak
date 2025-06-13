@@ -477,6 +477,7 @@ osrs.wiki
 rs.wiki
 runescape.wiki
 severance.wiki
+survivors.wiki
 tajrobe.wiki
 tardis.wiki
 thehomelab.wiki
@@ -517,4 +518,3 @@ financialstatement.zip
 lemmy.zip
 makea.zip
 uploaded-files.zip
-survivors.wiki

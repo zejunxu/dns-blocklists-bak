@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Jun 2025 12:54 UTC
-# Version: 2025.0612.1254.41
+# Last modified: 13 Jun 2025 19:12 UTC
+# Version: 2025.0613.1912.04
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 351
+# Number of entries: 339
 #
 *.aan.amazon.co.jp
 *.aan.amazon.co.uk
@@ -242,18 +242,6 @@
 *.monitoring.us-gov-west-1.amazonaws.com
 *.monitoring.us-west-1.amazonaws.com
 *.monitoring.us-west-2.amazonaws.com
-*.msh.amazon.ca
-*.msh.amazon.cn
-*.msh.amazon.co.jp
-*.msh.amazon.co.uk
-*.msh.amazon.com.br
-*.msh.amazon.com.mx
-*.msh.amazon.com
-*.msh.amazon.de
-*.msh.amazon.es
-*.msh.amazon.fr
-*.msh.amazon.in
-*.msh.amazon.it
 *.mshopbugsnag.irm.amazon.dev
 *.new-telemetry.insights.video.a2z.com
 *.origin-sq-tungsten-ts.amazon-adsystem.com
