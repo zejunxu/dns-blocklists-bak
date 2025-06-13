@@ -517,4 +517,4 @@ financialstatement.zip
 lemmy.zip
 makea.zip
 uploaded-files.zip
-vampire.survivors.wiki
+survivors.wiki
