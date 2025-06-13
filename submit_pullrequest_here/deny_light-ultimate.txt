@@ -1,5 +1,13 @@
 # Domains to be added to the light, normal, pro, pro++ and ultimate list.
 
+# Tracking:
+ru-log.vietnamplus.vn
+zh-log.vietnamplus.vn
+es-log.vietnamplus.vn
+fr-log.vietnamplus.vn
+en-log.vietnamplus.vn
+dantocmiennui-log.baotintuc.vn
+
 # https://github.com/hagezi/dns-blocklists/issues/6329
 # https://github.com/bentonow/bento-js-sdk
 # Tracking:
