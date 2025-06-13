@@ -3060,6 +3060,13 @@
       }
     },
     {
+      "PK": "telegram.dog",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "terminal.sexy",
       "action": {
         "do": 1,

@@ -4690,6 +4690,13 @@
       }
     },
     {
+      "PK": "telegram.dog",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.tennis",
       "action": {
         "do": 0,

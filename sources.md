@@ -68,7 +68,6 @@ https://radar.cloudflare.com/email-security
 https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/week.csv
 https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/refs/heads/master/month.csv
 https://raw.githubusercontent.com/2004gixxer600/BlockLists/refs/heads/main/MaliciousDomain.txt
-https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
 https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/refs/heads/master/src/adult/adult_thirdparty.txt
 https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
@@ -105,7 +104,6 @@ https://raw.githubusercontent.com/AmnestyTech/investigations/master/2024-05-02_w
 https://raw.githubusercontent.com/arfshl/anti-gambling-domains/refs/heads/main/domains.txt
 https://raw.githubusercontent.com/arkynx/blocklists/refs/heads/main/gambling-domains.txt
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
-https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
 https://raw.githubusercontent.com/bet-blocker/bet-blocker/refs/heads/main/blocklist.txt
 https://raw.githubusercontent.com/betterwebleon/slovenian-list/refs/heads/master/filters.txt
@@ -116,10 +114,6 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
 https://raw.githubusercontent.com/bigdargon/hostsvn/master/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
 https://raw.githubusercontent.com/bitamind/filter/master/280blocker_domain_mirror.txt
-https://raw.githubusercontent.com/blocklistproject/Lists/master/gambling.txt
-https://raw.githubusercontent.com/blocklistproject/Lists/master/piracy.txt
-https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
-https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/MD-ID-Fork.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty-cname.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty-regional.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty.txt
@@ -127,7 +121,6 @@ https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-i
 https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/custom/is.txt
 https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/domains.txt
 https://raw.githubusercontent.com/BrigsLabs/judol/main/judol_domains.txt
-https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
 https://raw.githubusercontent.com/cbuijs/ut1/master/cryptojacking/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/ddos/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/gambling/domains
@@ -142,7 +135,6 @@ https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/huawei
 https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/lg.txt
 https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/unsafe.txt
 https://raw.githubusercontent.com/chainapsis/phishing-block-list/refs/heads/main/block-list.txt
-https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersABP-Inclusion.txt
@@ -183,7 +175,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2
 https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-abp.txt
 https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt
 https://raw.githubusercontent.com/Hakame-kun/uBlock-Filters-Indonesia/master/uBlock%20Indo/ubindo.txt
-https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_ips.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antidynamicdns.txt
@@ -245,7 +236,6 @@ https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt
 https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/domains.json
 https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/hotlist.json
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt
-https://raw.githubusercontent.com/privacy-protection-tools/anti-ad/master/anti-ad-domains.txt
 https://raw.githubusercontent.com/realodix/adblockid/main/dist/adblockid.adfl.txt
 https://raw.githubusercontent.com/scamsniffer/scam-database/main/blacklist/domains.json
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads

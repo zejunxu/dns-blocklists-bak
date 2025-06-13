@@ -101,6 +101,7 @@ fedi.directory
 passkeys.directory
 reactnative.directory
 real.discount
+telegram.dog
 caido.download
 mkvtoolnix.download
 up4ever.download

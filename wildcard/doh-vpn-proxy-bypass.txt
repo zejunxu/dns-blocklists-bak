@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Jun 2025 23:53 UTC
-# Version: 2025.0612.2353.04
+# Last modified: 13 Jun 2025 11:13 UTC
+# Version: 2025.0613.1113.06
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 4748
+# Number of entries: 4749
 #
 *.003153.xyz
 *.ns.00dani.me
@@ -1327,6 +1327,7 @@
 *.educationdean.us
 *.adguard.ef67daisuki.club
 *.tor.eff.org
+*.dns.efficientdocuments.com
 *.scifi0.eigenlicht.us
 *.hole.elbschloss.xyz
 *.elearning.electronicajck.com
@@ -1373,6 +1374,7 @@
 *.armorrush.eu.org
 *.dns.fullaccesstointernet.jp.eu.org
 *.dns.mayx.eu.org
+*.arashi.net.eu.org
 *.rammerhead.eu.org
 *.sukidayo.eu.org
 *.eurproxy.com
@@ -3731,7 +3733,6 @@
 *.eu1-browse.startpage.com
 *.eu2-browse.startpage.com
 *.proxy1.startpage.com
-*.proxy2.startpage.com
 *.proxy3.startpage.com
 *.s4-us2.startpage.com
 *.us1-browse.startpage.com

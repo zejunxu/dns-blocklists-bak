@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 12 Jun 2025 16:50 UTC
-! Version: 2025.0612.1650.26
+! Last modified: 13 Jun 2025 10:05 UTC
+! Version: 2025.0613.1005.01
 ! Syntax: AdBlock
-! Number of entries: 14583
+! Number of entries: 14608
 !
 ||01crypto.com^
 ||1001clothing.eu^
@@ -544,6 +544,7 @@
 ||angusz.com^
 ||anhaenger-von-thule.de^
 ||anhaengerfolkinger.de^
+||anhaengermarkt.com^
 ||anhaengers.online^
 ||anhaengerverleih-mania.de^
 ||anhanger.net^
@@ -4096,6 +4097,7 @@
 ||estraorchard.com^
 ||estrategen.de^
 ||etcydecor.de^
+||etercitenal.com^
 ||eternity-diamond.com^
 ||hippo2.eth.limo^
 ||ether-invest.com^
@@ -4451,6 +4453,7 @@
 ||fbsmen.com^
 ||fcchu.com^
 ||fcg-brennholz.de^
+||fclubunited.com^
 ||fcsverkauf.com^
 ||fdp-holzpellets.de^
 ||feasiblem.com^
@@ -4621,6 +4624,7 @@
 ||fivesixgroup.com^
 ||fix-finanz.com^
 ||fixtaxi.at^
+||fjallbris.com^
 ||fjallbris.de^
 ||fjallravensale.de^
 ||fjallravensoutlet.com^
@@ -4670,6 +4674,7 @@
 ||floriansteiner.net^
 ||floriantrading.com^
 ||floriluxe.de^
+||floryday.com^
 ||floveme.com^
 ||flow-electric.de^
 ||flow-tex.de^
@@ -5415,6 +5420,7 @@
 ||goldhandel-degussa.de^
 ||goldhandel-heute.de^
 ||goldhandel-kauf.de^
+||goldingdigital.net^
 ||goldman-capital.com^
 ||goldofficemaster.com^
 ||goldpromocoes.com^
@@ -6102,6 +6108,7 @@
 ||hildebrandtfashion.de^
 ||hildebrandtfashionladen.de^
 ||installateur.hilfe-24.at^
+||hilfeexpress.com^
 ||hilfenervenschmerzen.com^
 ||hilfeundlosung.com^
 ||hilfsdienst.net^
@@ -6327,6 +6334,7 @@
 ||hudyrc.com^
 ||huesslers.de^
 ||huewi.xyz^
+||hugetsky.com^
 ||hugoverkauf.de^
 ||huiberty.com^
 ||huisdecoratie-nl.com^
@@ -6620,6 +6628,7 @@
 ||installateur-notdienst24.at^
 ||installateur-top.at^
 ||instantlyfinanceddealsdaily.com^
+||instawirbel.de^
 ||institutem.com^
 ||instructionk.com^
 ||instrumentak.com^
@@ -7202,6 +7211,7 @@
 ||kjolchic.com^
 ||kjsr-radeberg.de^
 ||kjw-garten.de^
+||klanol-tech.de^
 ||klarako.com^
 ||klaria.de^
 ||klarnest.de^
@@ -7819,6 +7829,7 @@
 ||loftboutique.de^
 ||lofza.com^
 ||logisticperfectsolution.com^
+||logixwood.com^
 ||lojadriz.com^
 ||lojaeconoshop.com^
 ||lojakombini.com^
@@ -7910,6 +7921,7 @@
 ||lovessivs.life^
 ||lovethefleamarket.com^
 ||loveylvioa.com^
+||lovinal.com^
 ||lovozo.de^
 ||lovundi.com^
 ||lowaapavi.com^
@@ -9328,6 +9340,7 @@
 ||norwayhotel.net^
 ||not-bad.shop^
 ||notaster.com^
+||notationi.com^
 ||notebookakku.at^
 ||notebooknetzteileshop.de^
 ||notfall-installateur.at^
@@ -9447,7 +9460,6 @@
 ||officesuppliesmaster.com^
 ||slimvitaxdietgummies.officialdealsite.com^
 ||officialnursery.com^
-||officialrebrand.shop^
 ||officialyamato.co^
 ||officialyeti.com^
 ||offizielleprodukte.shop^
@@ -9796,6 +9808,7 @@
 ||outletbodycare.com^
 ||outletchristmasgifts.com^
 ||outletdance.com^
+||outletdegap.de^
 ||outletesprit.com^
 ||outletfish.com^
 ||outletheaters.com^
@@ -10180,6 +10193,7 @@
 ||pmpkp.com^
 ||png-group.net^
 ||pnladvanced.com^
+||poalarhealth.com^
 ||poascontrst.com^
 ||pociath.com^
 ||pocofficial.com^
@@ -10712,6 +10726,7 @@
 ||regonius.net^
 ||regosunglasses.com^
 ||regtek-kauf.de^
+||rehaubrandstore.com^
 ||rehdergmbh.com^
 ||reifen-kanal.com^
 ||reifen-schneider24.com^
@@ -10915,6 +10930,7 @@
 ||robofund.net^
 ||robogarten.shop^
 ||roboter-maeher.com^
+||robowerkstatten.com^
 ||robynbruce.shop^
 ||rochobbies.com^
 ||rockanutritionava.shop^
@@ -11101,6 +11117,7 @@
 ||safir.com^
 ||sagaenterprizes.com^
 ||sagenverkauf.com^
+||saint-blanc.com^
 ||saintjamesireland.com^
 ||saintjamesoutlet.at^
 ||sakaziq.com^
@@ -11362,6 +11379,7 @@
 ||scurry73.com^
 ||sdk-transport.com^
 ||se-handel24.de^
+||se-vignette-france.com^
 ||sea-wider.com^
 ||seaarks.com^
 ||seafancy.de^
@@ -12298,6 +12316,7 @@
 ||stylestroller.com^
 ||styletaken.com^
 ||stylevistaa.de^
+||stylingprodukte24.com^
 ||stylishcarnival.com^
 ||stylishlytop.com^
 ||stylishmirror.com^
@@ -12362,7 +12381,6 @@
 ||superdealzonenow.shop^
 ||superdrywien.at^
 ||supereuroshop.online^
-||superfaditem.com^
 ||superficialk.com^
 ||superfitnorge.com^
 ||superfitnz.com^
@@ -12705,6 +12723,7 @@
 ||the-bitcoin-bank.com^
 ||the-ethereumcode-pro.com^
 ||the-fashionsquare.com^
+||the-faze.com^
 ||the-gentleman.store^
 ||the-immediateconnect.com^
 ||the-northface.de^
@@ -12825,6 +12844,7 @@
 ||thorogoodfrance.com^
 ||thorogoodfrance.fr^
 ||three-shift.de^
+||thresholdi.com^
 ||thresholdk.com^
 ||thrillsnew.com^
 ||throughouty.com^
@@ -12999,6 +13019,7 @@
 ||topglas.shop^
 ||topideaberlin.com^
 ||topillstore.com^
+||topixs.com^
 ||topledlightstore.com^
 ||toplivingfurniture.com^
 ||topmarket-shop.com^
@@ -13279,10 +13300,12 @@
 ||twosun-knives.com^
 ||twtbusiness.com^
 ||tymusiccenter.com^
+||typeline.de^
 ||typisch-tierliebe.de^
 ||tyreschwalbe.com^
 ||tyrwien.at^
 ||tyu-trade.com^
+||tzshoptrade.com^
 ||u-inv.com^
 ||uaedisscount.com^
 ||uastudioshop.com^
@@ -13506,6 +13529,7 @@
 ||valerioverdi.co^
 ||validepend.com^
 ||validityi.com^
+||valioncap.com^
 ||valora-shop.com^
 ||valuablem.com^
 ||valuablesale.com^
@@ -14271,6 +14295,7 @@
 ||wooljacket-shop.com^
 ||woomann.com^
 ||wordmarkets.com^
+||workfusionat.com^
 ||workingtoolsstore.com^
 ||workshlutch.com^
 ||workshopequipmentshop.com^

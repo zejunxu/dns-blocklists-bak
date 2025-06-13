@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749772380 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749813180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 12 Jun 2025 23:53 UTC
-; Version: 2025.0612.2353.04
+; Last modified: 13 Jun 2025 11:13 UTC
+; Version: 2025.0613.1113.06
 ; Syntax: RPZ
-; Number of entries: 9496
+; Number of entries: 9498
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1644,6 +1644,8 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -3366,8 +3368,6 @@ eu2-browse.startpage.com CNAME .
 *.eu2-browse.startpage.com CNAME .
 proxy1.startpage.com CNAME .
 *.proxy1.startpage.com CNAME .
-proxy2.startpage.com CNAME .
-*.proxy2.startpage.com CNAME .
 proxy3.startpage.com CNAME .
 *.proxy3.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
@@ -7490,6 +7490,8 @@ dns.fullaccesstointernet.jp.eu.org CNAME .
 *.dns.fullaccesstointernet.jp.eu.org CNAME .
 dns.mayx.eu.org CNAME .
 *.dns.mayx.eu.org CNAME .
+arashi.net.eu.org CNAME .
+*.arashi.net.eu.org CNAME .
 rammerhead.eu.org CNAME .
 *.rammerhead.eu.org CNAME .
 sukidayo.eu.org CNAME .
