@@ -1,4 +1,7 @@
 # Domains to be added to the gambling list.
+
+uznjvx02.app
+
 0-bdmbet.com
 0-bet.com
 0-betsixty.com
