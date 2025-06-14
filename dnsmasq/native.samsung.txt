@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Jun 2025 13:01 UTC
-# Version: 2025.0612.1301.38
+# Last modified: 13 Jun 2025 23:08 UTC
+# Version: 2025.0613.2308.16
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 195
 #

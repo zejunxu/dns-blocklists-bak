@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Jun 2025 11:13 UTC
-# Version: 2025.0613.1113.06
+# Last modified: 13 Jun 2025 22:54 UTC
+# Version: 2025.0613.2254.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4749
+# Number of entries: 4756
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -208,6 +208,7 @@ local=/shield.afixer.app/
 local=/research.africa.com/
 local=/gov.goal.agilewhitecloud.com/
 local=/agmath.xyz/
+local=/wha.agmlabs.com/
 local=/ahadns.net/
 local=/blitz.ahadns.com/
 local=/blitz-setup.ahadns.com/
@@ -894,6 +895,7 @@ local=/nya.qualitypaperindustries.com.np/
 local=/dns.redhosting.com.ar/
 local=/chat-isinterstellargood.safira.com.my/
 local=/cloudbarfbagisback.saugatnepal.com.np/
+local=/mathvideos.sharmaraju.com.np/
 local=/visit.sistemasplenario.com.ar/
 local=/doge.sundblad.com.ar/
 local=/surfshark.com.au/
@@ -1009,6 +1011,7 @@ local=/dns.d96.info/
 local=/dns.daarrk.tech/
 local=/dabmix.com/
 local=/executor.dadyal.pk/
+local=/friedeggs.dagmaar.com/
 local=/dns.dallinbryce.com/
 local=/danhcan.top/
 local=/dns.home.daniil.it/
@@ -1478,7 +1481,6 @@ local=/firstcontact.site/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -1758,6 +1760,7 @@ local=/gvirabi.com/
 local=/gwopboyded.com/
 local=/gztech.me/
 local=/h-vpn.org/
+local=/ohnothatsbad.h0rst.us/
 local=/schoolnotes.h0rst.us/
 local=/potatojuice.h0stname.net/
 local=/artiom.made.this.h0stname.net/
@@ -2178,6 +2181,7 @@ local=/pihole.aws.ketan.dev/
 local=/dns.keviland.com/
 local=/kevinai.org/
 local=/dns.keweon.center/
+local=/ok.keybusinessconnection.com/
 local=/adg.khon.dev/
 local=/adguard.kiboko.it/
 local=/kickassproxy.com/
@@ -2349,6 +2353,7 @@ local=/lumes.jp/
 local=/luminati.io/
 local=/luminatinet.com/
 local=/lurk.info/
+local=/the.luxflow.net/
 local=/orau.lz0724.com/
 local=/addns1.m-it.ro/
 local=/mabuktogel.builders/
@@ -2375,6 +2380,7 @@ local=/mainprox.com/
 local=/mainssh.com/
 local=/maintainbrain.us/
 local=/dns.maitrekuc.fr/
+local=/we.make-it.ro/
 local=/course.quiz.makovecz.com/
 local=/mallocapp.com/
 local=/mallocprivacy.com/
@@ -2581,7 +2587,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -3377,6 +3382,7 @@ local=/imintheskibofiteverybodyknows.recca.cl/
 local=/interhead.recca.cl/
 local=/rammerstellar.recca.cl/
 local=/dns.reckoningslug.name/
+local=/ixl.recruitment7.com/
 local=/redhoodie.site/
 local=/redproxy.info/
 local=/applet.redragon.net/
@@ -3688,6 +3694,7 @@ local=/dns.spirio.fr/
 local=/sporium.org/
 local=/sportsballhub.com/
 local=/physicaleducation.sportseducationinstructors.org/
+local=/math.spotifyfans.art/
 local=/game.spynick.com/
 local=/spys.one/
 local=/spysurfing.com/

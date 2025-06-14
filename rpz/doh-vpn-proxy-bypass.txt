@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749813180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749855240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 13 Jun 2025 11:13 UTC
-; Version: 2025.0613.1113.06
+; Last modified: 13 Jun 2025 22:54 UTC
+; Version: 2025.0613.2254.06
 ; Syntax: RPZ
-; Number of entries: 9498
+; Number of entries: 9512
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -234,6 +234,8 @@ greenzone.v6.army CNAME .
 *.greenzone.v6.army CNAME .
 hugeph.art CNAME .
 *.hugeph.art CNAME .
+math.spotifyfans.art CNAME .
+*.math.spotifyfans.art CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
 dns.sarak.as CNAME .
@@ -1008,6 +1010,8 @@ research.africa.com CNAME .
 *.research.africa.com CNAME .
 gov.goal.agilewhitecloud.com CNAME .
 *.gov.goal.agilewhitecloud.com CNAME .
+wha.agmlabs.com CNAME .
+*.wha.agmlabs.com CNAME .
 blitz.ahadns.com CNAME .
 *.blitz.ahadns.com CNAME .
 blitz-setup.ahadns.com CNAME .
@@ -1502,6 +1506,8 @@ cyberssh.com CNAME .
 *.cyberssh.com CNAME .
 dabmix.com CNAME .
 *.dabmix.com CNAME .
+friedeggs.dagmaar.com CNAME .
+*.friedeggs.dagmaar.com CNAME .
 dns.dallinbryce.com CNAME .
 *.dns.dallinbryce.com CNAME .
 proxy.darkvpn.com CNAME .
@@ -2296,6 +2302,8 @@ kepard.com CNAME .
 *.kepard.com CNAME .
 dns.keviland.com CNAME .
 *.dns.keviland.com CNAME .
+ok.keybusinessconnection.com CNAME .
+*.ok.keybusinessconnection.com CNAME .
 kickassproxy.com CNAME .
 *.kickassproxy.com CNAME .
 kingsurfproxy.com CNAME .
@@ -2568,8 +2576,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -3108,6 +3114,8 @@ rayobyte.com CNAME .
 *.rayobyte.com CNAME .
 edu.rebdg.com CNAME .
 *.edu.rebdg.com CNAME .
+ixl.recruitment7.com CNAME .
+*.ixl.recruitment7.com CNAME .
 redshieldvpn.com CNAME .
 *.redshieldvpn.com CNAME .
 dns.renardyre.com CNAME .
@@ -6562,6 +6570,8 @@ africadns2.liquidtelecom.net CNAME .
 *.africadns2.liquidtelecom.net CNAME .
 litebrowser.net CNAME .
 *.litebrowser.net CNAME .
+the.luxflow.net CNAME .
+*.the.luxflow.net CNAME .
 magiccloak.net CNAME .
 *.magiccloak.net CNAME .
 dns.marbledfennec.net CNAME .
@@ -7198,6 +7208,8 @@ nya.qualitypaperindustries.com.np CNAME .
 *.nya.qualitypaperindustries.com.np CNAME .
 cloudbarfbagisback.saugatnepal.com.np CNAME .
 *.cloudbarfbagisback.saugatnepal.com.np CNAME .
+mathvideos.sharmaraju.com.np CNAME .
+*.mathvideos.sharmaraju.com.np CNAME .
 6922.yugadiluitel.com.np CNAME .
 *.6922.yugadiluitel.com.np CNAME .
 bdns.nu CNAME .
@@ -8358,6 +8370,8 @@ addns1.m-it.ro CNAME .
 *.addns1.m-it.ro CNAME .
 use.madefalva.ro CNAME .
 *.use.madefalva.ro CNAME .
+we.make-it.ro CNAME .
+*.we.make-it.ro CNAME .
 gg.nordparrot.ro CNAME .
 *.gg.nordparrot.ro CNAME .
 edu.osobi.ro CNAME .
@@ -8656,8 +8670,6 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -9006,6 +9018,8 @@ granules.us CNAME .
 *.granules.us CNAME .
 guestappearance.us CNAME .
 *.guestappearance.us CNAME .
+ohnothatsbad.h0rst.us CNAME .
+*.ohnothatsbad.h0rst.us CNAME .
 schoolnotes.h0rst.us CNAME .
 *.schoolnotes.h0rst.us CNAME .
 hidebuzz.us CNAME .
