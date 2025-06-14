@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Jun 2025 11:51 UTC
-# Version: 2025.0614.1151.59
+# Last modified: 14 Jun 2025 15:37 UTC
+# Version: 2025.0614.1537.17
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 99249
+# Number of entries: 99242
 #
 *.0-bdmbet.com
 *.0-betsixty.com
@@ -6222,7 +6222,6 @@
 *.1xbet348.casino
 *.1xbet35.com
 *.1xbet351.casino
-*.1xbet353.casino
 *.1xbet36.casino
 *.1xbet36.com
 *.1xbet37.casino
@@ -25395,7 +25394,6 @@
 *.camelbetcasino.top
 *.camelot.casino
 *.camelv2.vip
-*.cameraunv.net
 *.camillebetsimonb.fr
 *.caminhodocasino.com
 *.caminhodocasino.org
@@ -35460,7 +35458,6 @@
 *.crackthejackpot.com
 *.cracubets.com
 *.crancrow.xyz
-*.crankhead.org
 *.craps.com
 *.craps.me
 *.craps.one
@@ -44858,7 +44855,6 @@
 *.gaulnewbs.baby
 *.gaulpro.skin
 *.gaulshock.sbs
-*.gaultoto77.xyz
 *.gaulwak.click
 *.gaulwhiz.monster
 *.gaulxtra.shop
@@ -73395,7 +73391,6 @@
 *.play-pinupcasino.com
 *.play-pinupcasino.us
 *.play-plinko-go.com
-*.play-poker.ru
 *.play-poker.tech
 *.play-poker-dom.icu
 *.play-poker-how-to.cfd
@@ -74454,7 +74449,6 @@
 *.poker-domz.space
 *.poker-eu.store
 *.poker-finder.ru
-*.poker-game.ru
 *.poker-game.store
 *.poker-guru.com
 *.poker-gutschein.de
@@ -78725,7 +78719,6 @@
 *.redball88.net
 *.redball88info.xyz
 *.redbet.com
-*.redbird77.site
 *.redbusbingo.com
 *.redcasino.com
 *.redcasino.io

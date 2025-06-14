@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Jun 2025 11:24 UTC
-# Version: 2025.0614.1124.05
+# Last modified: 14 Jun 2025 15:09 UTC
+# Version: 2025.0614.1509.49
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 106949
+# Number of entries: 106958
 #
 000free.us
 000nethost.com
@@ -5412,7 +5412,6 @@ windowsupdate.62nds.com
 64786087.xyz
 www.64786087.xyz
 64dos6.lat
-64dosj3.lat
 650office.info
 6565flo.xyz
 6598365.com
@@ -5445,7 +5444,6 @@ volc.bj.ad.track.66mobi.com
 69.fyi
 69611.agency
 6969-chat.tv
-6al14.lat
 6bs426zjqpbth.life
 6bybdj.cc
 6c641lgikp.top
@@ -5491,7 +5489,6 @@ msg.71.am
 722office.info
 72331-google.com
 72609.center
-72dosl4.lat
 730fcb332f.com
 73478.club
 73728-coinbase.com
@@ -5565,7 +5562,6 @@ serve.7kprtners.com
 7moor.com
 webchat.7moor.com
 fs-im-kefu.7moor-fs1.com
-7n6o9260.lat
 7o2l520r0a.com
 7o3zfbd5rf5mz.life
 7offers.ru
@@ -5709,7 +5705,6 @@ axp.8newsnow.com
 8vulkanvegas.com
 8wuuy.lat
 analytics.8x8.com
-8z3ac.lat
 902zrmiyj0203.life
 905trk.com
 908df012d9bb72e6d26b41054588d758.com
@@ -5811,7 +5806,6 @@ journal.9med.net
 9psg7n6nx8jpb.life
 9pub.io
 adkit.9pub.io
-9sb6c.lat
 9sjhfs.lat
 9teerv.click
 9trq.top
@@ -6222,7 +6216,6 @@ ac-reteil.fr
 ac359edaf2.com
 ac934intrk.com
 www.ac934intrk.com
-ac96hj41.lat
 aca4f6c07c.com
 acacdn.com
 academiaprogreso.com
@@ -20553,6 +20546,7 @@ appyrinceas.org
 apqmkz8trk.com
 apqpl8trk.com
 apqqwpshxpgaq.xyz
+aprcare.help
 apremiumsurf.com
 aprendeyhazloconia.cloud
 apricotsnake.pro
@@ -20884,6 +20878,7 @@ arvlfc.net
 aryacoin.io
 aryana.io
 aryancrack.com
+aryxnw.xyz
 analytics.arz.at
 smetrics.as.com
 as-like.com
@@ -22312,6 +22307,7 @@ baja.bike
 baji-bet-live.com
 baji-live-cricket-exchange.com
 bajkowewnetrzakids.pl
+bajoro-mefuju.site
 bajuonline.asia
 bakaevzrmcqdo.global
 bakedoatmealntramsauceco.cfd
@@ -22319,6 +22315,7 @@ bakeryoffice.xyz
 bakerypyjamasstupendous.com
 bakteso.ru
 balacif.com
+balancer.company
 balancer-fi.cfd
 balancer-fl.com
 baldeoverf.pro
@@ -23909,6 +23906,7 @@ bisonq.live
 analytics.bissell.com
 bistadaka.com
 bit-06-bumex.com
+bit-coinppe.xyz
 bit-gpt-ai.com
 bit-gpt-app.com
 bit-gpt-app.net
@@ -23968,6 +23966,7 @@ bitcoinmusk.org
 bitcoinpara.de
 bitcoinpepe.icu
 bitcoinpepe-token.xyz
+bitcoinpepeclaim.pro
 bitcoinplay.org
 bitcoinplus.com
 bitcoinpricealertexpert.com
@@ -25150,6 +25149,7 @@ brandturbo.vip
 brandyjaggers.com
 www.brandyjaggers.com
 brango-casino.fr
+branma.xyz
 brasaburguerdelivery.shop
 brashstudiocrucial.com
 brasiiairgroup.best
@@ -33487,7 +33487,6 @@ sc.hl.co.uk
 ssc.hl.co.uk
 hollysdeliveryservice.co.uk
 homelyblogger.co.uk
-homeoffice-contact.co.uk
 honest-office.co.jp
 hopedeliveryservice.co.uk
 hotdate.co.il
@@ -33756,7 +33755,6 @@ ad.planbplus.co.kr
 img.planbplus.co.kr
 pleasebuy.co.uk
 plus-zone.co.kr
-pointshomeoffice.co.uk
 ensighten.postoffice.co.uk
 metrics.postoffice.co.uk
 postofficeinfo.co.uk
@@ -36921,6 +36919,7 @@ connectiveofficesolutions.fun
 connectiveofficesolutions.website
 connectivitycheck.live
 analytics.connectjh.com
+connectkyberswap.com
 connectrectify-devpage.com
 connects.ch
 cct.connects.ch
@@ -40119,7 +40118,6 @@ deliveryonline.cfd
 deliveryonlinee.cfd
 deliveryorder.cyou
 deliveryorder.icu
-deliveryorder.sbs
 deliverypackagingwork.xyz
 deliverypagamentos.pro
 deliverypay.pro
@@ -41474,7 +41472,6 @@ digitalmarketingservices.agency
 tracking.digitalocean.com
 metadata-static-files.sfo2.cdn.digitaloceanspaces.com
 jstag1.sgp1.cdn.digitaloceanspaces.com
-digitaloffice.fun
 analytics.digitalpfizer.com
 ads.digitalpoint.com
 geo.digitalpoint.com
@@ -41824,7 +41821,6 @@ dl-it.net
 content.dl-rms.com
 dl8.me
 5baf1288cf.dl8.me
-dlgiconnect.info
 ad.dlrwebservice.com
 dlscord.org
 b.dlsite.net
@@ -46152,7 +46148,6 @@ dtxexchange.com
 dtxngr.com
 dtygmnyy.com
 du0.jp
-du7bg40b.lat
 duapp.com
 angular.duapp.com
 answerhuang.duapp.com
@@ -47779,6 +47774,7 @@ email-teams-cloud-microsoft.com
 email-to-tiktok.com
 emaildelivery.shop
 emailmex.com
+emailreddit.com
 emailsaccountrecovery.com
 emailservicesnetau.com
 emailtracker.website
@@ -49649,7 +49645,6 @@ failjav11.fun
 failuremaistry.com
 fair-spin.fr
 fairanalytics.de
-fairdeal-live.com
 fairiesbranch.com
 fairlyleadingenquiry.com
 sgtm.fairmont.com
@@ -50267,7 +50262,6 @@ fhl05150ps.com
 fhl05160ps.com
 fhl05170ps.com
 fhl05181ps.com
-fhqp0i0d.lat
 fhrufwcocquerieshomeoffice.fun
 app.bncontacto.fi.cr
 mercadeo.promerica.fi.cr
@@ -54432,6 +54426,7 @@ googlecommerce.com
 www.googlecommerce.com
 googledreidel.net
 googlefinanceai.net
+googlemap.support
 googleoptimize.com
 www.googleoptimize.com
 clarity.psychic.readings.googlepages.com
@@ -55450,7 +55445,6 @@ gzbuwsesk.com
 gzphoenix.com
 gztaijiatech.com
 gzxssgwuyksxo.store
-h-apple.com
 static.h-bid.com
 h-cast.jp
 perr.h-cdn.com
@@ -57969,6 +57963,7 @@ icons.iconator.com
 analytics.iconfigurators.app
 iconmediapixel.com
 www.iconmediapixel.com
+iconnectgoal.top
 iconnode.com
 process.iconnode.com
 scripts.iconnode.com
@@ -58144,8 +58139,6 @@ www.iflirts.com
 log.iflytek.com
 logconf.iflytek.com
 log.ifood.tv
-iforgot-apple.art
-iforgot-apple.cloud
 iftrack.com
 ifuckshemales.com
 prebid-cache-k8s.ifunny.co
@@ -61467,6 +61460,7 @@ jobangebot-high-office.com
 jobangebote-high-office.com
 jobdnes.cz
 jobejuu3.pro
+jobmkewkzwbkq.top
 jobmkewkzwrkb.top
 logs2.jobs.com
 jobs-for-seniors-73374.bond
@@ -61974,6 +61968,7 @@ jxghqm.com
 jxjttecednvb.com
 jxmlx.com
 jxmlznf.cc
+jxuend90.com
 jxwlahdqyrfpwj.com
 jy135.com
 jyblaprice.com
@@ -62647,7 +62642,6 @@ kimdfhofficer.sbs
 gtm.kimmelcenter.org
 kimudesign.com
 kimuraclinah.shop
-kinaxis-okta.com
 kinbet-casino.fr
 kinbetcasino.fr
 kind-ersause.com
@@ -63719,6 +63713,7 @@ secure.late6year.com
 latedelivery.top
 latentquarrel.com
 latest-news.pro
+latethrive.com
 latexnoix.top
 lathamnovel.shop
 ad.latimes.com
@@ -65368,7 +65363,6 @@ live-rrsport.com
 live-rte-ie.com
 live-rtp-rt138.pro
 live-rtp-togel2win.xyz
-live-russia.ru
 live-satta-king.com
 live-sec.com
 live-sehuatang.com
@@ -66988,8 +66982,6 @@ magisk.me
 magiskmodule.com
 www.magiskmodule.com
 magiskroot.com
-magiskzip.com
-magiskzip.pro
 magius777.site
 magiuscasinos.fr
 analytics.config.maglabmws.com
@@ -67114,6 +67106,7 @@ mainnetchain.world
 mainnetdapps.xyz
 mainnethelp.com
 mainnetsync.xyz
+mainonlineweoasoasnaosan.top
 mainroll.com
 pba.mainroll.com
 pubmatic.mainroll.com
@@ -67154,6 +67147,7 @@ makeinfluence.com
 makemarriagemagical.com
 makemegood24.com
 metrics.makemytrip.com
+makeragency.cc
 makesshapeless.com
 analytics.makeup.global
 makeup-live.pics
@@ -69086,7 +69080,6 @@ microsoft-oniine.ch
 microsoft-refund.com
 microsoft-remont.ru
 microsoft-research.com
-microsoft-secured-common.com
 microsoft-security.asia
 microsoft-support.net
 microsoft-sysupdate.com
@@ -71320,6 +71313,7 @@ mowcoordinateegypt.com
 mowfruit.com
 mowgoats.com
 ad.mox.tv
+moxagyu1.pro
 moxothove.pro
 moyslovar.ru
 moyu88.xyz
@@ -71806,7 +71800,6 @@ mxsbgyh.cc
 mxybawp.cc
 alt-r.my.com
 stat.gc.my.games
-inforc.my.id
 ads.luffy.my.id
 r.my.com
 target.my.com
@@ -71990,6 +71983,7 @@ www.mylot.com
 telemetry.api.mylyve.com
 cloud.mymailwall.com
 mymax.academy
+mymclubfans.online
 mymercy.click
 myminfin-spf.com
 mymonero-wallet.com
@@ -72129,6 +72123,7 @@ kix-ad.sg.mythad.com
 t-api.sg.mythad.com
 t-apil2.mythad.com
 nzmkzl.mytheresa.com
+mythgamesrise.com
 mythicsallies.com
 mythings.com
 mythmakers.club
@@ -72228,7 +72223,6 @@ n54vs325fm.baby
 n5d6y67plvnto.life
 n5nfovwb.lat
 n62lv783vv.baby
-n6mdtxfc.lat
 n72bn5s7uu.top
 n7fyq5glyab2j.life
 telemetry.n8n.io
@@ -74784,7 +74778,6 @@ office-log-ind.com
 office-log-on.com
 office-login-a2.com
 office-login-a3.com
-office-login-common.com
 office-lupinus.com
 office-lux.website
 office-maehara.com
@@ -74917,7 +74910,6 @@ office888clean.shop
 office88clean.shop
 office88clean.website
 office88clean.xyz
-office9527.top
 officeacoustics.shop
 officeadmin.live
 officeadvisornetwork.fun
@@ -75748,6 +75740,7 @@ aem-kakao-collector.onkakao.net
 onl.la
 onlidex.com
 live.onlidex.com
+onlinaeansaoiasisjoucjiodsjioajoidijdu.top
 online.tm
 online-777.jp
 logging.mobile.online-banking-services.com
@@ -75782,12 +75775,15 @@ onlinebd99.com
 onlinecasinohubmy.com
 onlinecasinokoning.com
 onlinecloud.cloud
+onlinedmailonlineasksan.top
 onlineebipssbenesficios.com
 onlineguenstig.info
 onlineinsights.online
 onlinekaleidoscope.online
 onlinekey.biz
 analytics.onlinekhabar.com
+onlinemailinmailisansaoisuala.top
+onlinemaisilaoisnonlineaccoutabsiausoaas.top
 onlinemembersupport.org
 onlinepaymentplatformcontact.fr
 onlinepaymentplatformsolution.fr
@@ -77441,6 +77437,7 @@ silo55.p7cloud.net
 ua.p7cloud.net
 p8ya80enl7muq.life
 p90x2p90x.com
+p9pyce.lol
 hpsd.k12.pa.us
 firefly.hpsd.k12.pa.us
 pa-cd.com
@@ -78433,6 +78430,7 @@ perk0mean.com
 secure.perk0mean.com
 perkcanada.com
 perky-method.com
+perlahun.com
 permaleads.ch
 permalink-system.com
 p.permalink-system.com
@@ -78852,6 +78850,7 @@ analytics.picsart.com
 pictureiol.top
 img51.pictureturn.com
 picxxxhub.com
+pidorasina.ru
 s.pie.org
 pie-delivery.com
 pielsteel.top
@@ -79349,6 +79348,7 @@ pl-kategorie8571263948154.icu
 pl-kategorie87541937154916.icu
 pl-kategorie913291283187.icu
 pl-kategorie92618416.icu
+pl-newsdaily.org
 pl-newsnnew.com
 pl-newssn.com
 pl-ofera420567.cfd
@@ -82919,6 +82919,7 @@ tags.radiosvoboda.org
 ssc.radiotavisupleba.ge
 tags.radiotavisupleba.ge
 radiotradeus.com
+radishrarity.com
 metrics.radissonhotels.com
 radiumone.com
 proximitykit.radiusnetworks.com
@@ -83512,7 +83513,6 @@ shopify-analytics.reconvert.com
 recordedsurvivor.com
 recordedthereby.com
 recordsdropsflora.com
-recover-accuont-facebook.xyz
 recover-google.com
 recover-office.com
 recovery-live-ledger.com
@@ -83796,6 +83796,7 @@ register-buildon.quest
 register-buildon.xyz
 register-buildonbnbbob.quest
 register-caiila.quest
+register-croakonbnb.quest
 register-dddddddd.quest
 register-eeeeeee.quest
 register-ethchanerc.quest
@@ -86281,6 +86282,7 @@ eu-west-win.s4mdsp.com
 evt.s4mdsp.com
 libjs.s4mdsp.com
 us-east-win.s4mdsp.com
+s4qoqg.hair
 s50dpy.click
 s6tbv8w63f840.life
 s7fpxh6fz.com
@@ -88116,6 +88118,7 @@ shiba-bridge.xyz
 shiba-chain.xyz
 shiba-invite.xyz
 shibac.vip
+shibax.vip
 analytics.shibnobi.com
 shieldaffil.com
 shieldaffiliates.com
@@ -88613,6 +88616,7 @@ matomo.cloudfront.similarweb.io
 matomo.similarweb.io
 simility.com
 simkung-live.com
+simofiu5.pro
 simone-forbes.com
 simonsignal.com
 dev.simonsignal.com
@@ -90691,6 +90695,7 @@ solispartner.com
 solitaire-game.ru
 solitairetime.com
 www.solitairetime.com
+solix.run
 solix-live.com
 sollumin-ledger.com
 solocpm.com
@@ -91938,7 +91943,9 @@ steamcommunety.ru
 steamcommunf1ty.com
 steamcommunniity.com
 steamcommurlty.com
+steamcommyunnity.com
 steamcomnunty.com
+steamconmmun1ty.com
 steamconmmunuty.com
 steamconmnmunity.ru
 steamconmun1ty.cfd
@@ -93167,6 +93174,7 @@ www.szpnc.cn
 szqxvo.com
 szsdyzc.com
 szumio.top
+szybkilink.click
 szybkipociag.online
 t-and-y-office.com
 t-google.ru
@@ -93528,6 +93536,7 @@ www.talkable.com
 ads.talkbusiness.net
 talkedexpense.com
 talkerfarle.shop
+talkgrit.com
 relay-event.talkie-ai.com
 talkingdata.com
 talkingdata.net
@@ -97235,6 +97244,7 @@ truehits.net
 trueleadid.com
 deviceid.trueleadid.com
 truell55.top
+trueminted.com
 prod-origin.truendo.com
 analytics.trueoffice.com
 truepoker.com
@@ -98314,7 +98324,6 @@ u-on.eu
 u-pick-it.xyz
 rum.u-team.by
 u-telegram.com
-u0eum5f1.lat
 u0kk8re.rest
 u192.rest
 u22099.com
@@ -98623,7 +98632,6 @@ uglawhigruzeehy.net
 ugo2.jp
 b12.ugo2.jp
 ugoderix.com
-ugqa99jl.lat
 ugroocuw.net
 uguisu-office.com
 uh61rmo8drq8c.life
@@ -102945,6 +102953,7 @@ whathappens.life
 whatismyip.click
 whatismyip.uno
 analytics.whatmore.live
+whats-qy.com
 whatsapp-10.com
 whatsapp-11.com
 whatsapp-12.com
@@ -104204,6 +104213,7 @@ xcipwuoft.com
 xclaimwords.net
 xclick24.com
 xclicks.net
+xcn-sushi.vip
 xcoinspro.com
 xcqsxurgfx.xyz
 xcsport.net
@@ -104407,6 +104417,7 @@ xiguteac.top
 xihubo.click
 cdn.xihubo.click
 t.xihubo.click
+xijorae7.pro
 xijykiu.pro
 ximad.com
 pfls.ximad.com
@@ -105111,8 +105122,6 @@ yandex-boost.pro
 yandex-delivery-eto-leto.ru
 yandex-delivery-eto-leto.store
 yandex-desk.ru
-yandex-id75533.ru
-yandex-id75534.ru
 yandex-kit.ru
 yandex-live-id.com
 yandex-moon.ru
@@ -105668,7 +105677,6 @@ ads.youtube.com
 analytics.youtube.com
 fcmatch.youtube.com
 youtube-2.com
-youtube-2012s.net
 youtube-app.fr
 youtube-automation.com
 youtube-backlink-generator.com
@@ -106493,6 +106501,7 @@ j.zucks.net.zimg.jp
 static.zucks.net.zimg.jp
 zimica.com
 zimpolo.com
+zin-n.shop
 zinas.art
 zincidsaloons.top
 zineone.com

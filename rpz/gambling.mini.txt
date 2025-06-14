@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749901980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749915540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Jun 2025 11:53 UTC
-; Version: 2025.0614.1153.38
+; Last modified: 14 Jun 2025 15:39 UTC
+; Version: 2025.0614.1539.05
 ; Syntax: RPZ
-; Number of entries: 141560
+; Number of entries: 141546
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -7179,8 +7179,6 @@ wildcasino.cash CNAME .
 *.1xbet348.casino CNAME .
 1xbet351.casino CNAME .
 *.1xbet351.casino CNAME .
-1xbet353.casino CNAME .
-*.1xbet353.casino CNAME .
 1xbet36.casino CNAME .
 *.1xbet36.casino CNAME .
 1xbet37.casino CNAME .
@@ -81543,8 +81541,6 @@ californiahoy.net CNAME .
 *.californiahoy.net CNAME .
 camar138.net CNAME .
 *.camar138.net CNAME .
-cameraunv.net CNAME .
-*.cameraunv.net CNAME .
 canadacasino.net CNAME .
 *.canadacasino.net CNAME .
 candy-casino.net CNAME .
@@ -90819,8 +90815,6 @@ coolzinocasino.org CNAME .
 *.coolzinocasino.org CNAME .
 cossatot.org CNAME .
 *.cossatot.org CNAME .
-crankhead.org CNAME .
-*.crankhead.org CNAME .
 creditcardcasino.org CNAME .
 *.creditcardcasino.org CNAME .
 cresuscasinos.org CNAME .
@@ -99679,8 +99673,6 @@ play-fortunacasino2026.ru CNAME .
 *.play-fortunacasino2026.ru CNAME .
 play-joycasino.ru CNAME .
 *.play-joycasino.ru CNAME .
-play-poker.ru CNAME .
-*.play-poker.ru CNAME .
 play777slots.ru CNAME .
 *.play777slots.ru CNAME .
 player-casino.ru CNAME .
@@ -99701,8 +99693,6 @@ poker.ru CNAME .
 *.poker.ru CNAME .
 poker-finder.ru CNAME .
 *.poker-finder.ru CNAME .
-poker-game.ru CNAME .
-*.poker-game.ru CNAME .
 poker-ok.ru CNAME .
 *.poker-ok.ru CNAME .
 poker-play.ru CNAME .
@@ -107659,8 +107649,6 @@ rbrandcasino555yaspz.site CNAME .
 *.rbrandcasino555yaspz.site CNAME .
 rcvegascasino777ehrdd.site CNAME .
 *.rcvegascasino777ehrdd.site CNAME .
-redbird77.site CNAME .
-*.redbird77.site CNAME .
 reddog-casino.site CNAME .
 *.reddog-casino.site CNAME .
 redmitoto.site CNAME .
@@ -130643,8 +130631,6 @@ gatotkacaku.xyz CNAME .
 *.gatotkacaku.xyz CNAME .
 gatotwinrtp.xyz CNAME .
 *.gatotwinrtp.xyz CNAME .
-gaultoto77.xyz CNAME .
-*.gaultoto77.xyz CNAME .
 gbo4d3.xyz CNAME .
 *.gbo4d3.xyz CNAME .
 gbo5000c.xyz CNAME .

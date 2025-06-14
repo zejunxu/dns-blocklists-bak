@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Jun 2025 11:53 UTC
-# Version: 2025.0614.1153.38
+# Last modified: 14 Jun 2025 15:39 UTC
+# Version: 2025.0614.1539.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 70780
+# Number of entries: 70773
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -2019,7 +2019,6 @@ local=/1xbet206.casino/
 local=/1xbet222.com/
 local=/1xbet348.casino/
 local=/1xbet351.casino/
-local=/1xbet353.casino/
 local=/1xbet36.casino/
 local=/1xbet37.casino/
 local=/1xbet453.casino/
@@ -14738,7 +14737,6 @@ local=/camelbet-casino.top/
 local=/camelbetcasino.top/
 local=/camelot.casino/
 local=/camelv2.vip/
-local=/cameraunv.net/
 local=/camillebetsimonb.fr/
 local=/caminhodocasino.com/
 local=/caminhodocasino.org/
@@ -22559,7 +22557,6 @@ local=/crackjackpot.com/
 local=/crackmagicwindshieldrepair.com/
 local=/crackthejackpot.com/
 local=/crancrow.xyz/
-local=/crankhead.org/
 local=/craps.me/
 local=/craps.one/
 local=/craps-basics.com/
@@ -29411,7 +29408,6 @@ local=/gaulmuda.monster/
 local=/gaulnewbs.baby/
 local=/gaulpro.skin/
 local=/gaulshock.sbs/
-local=/gaultoto77.xyz/
 local=/gaulwak.click/
 local=/gaulwhiz.monster/
 local=/gaulxtra.shop/
@@ -51120,7 +51116,6 @@ local=/play-onlineslots.com/
 local=/play-pinup.casino/
 local=/play-pinupcasino.com/
 local=/play-pinupcasino.us/
-local=/play-poker.ru/
 local=/play-poker.tech/
 local=/play-poker-dom.icu/
 local=/play-poker-how-to.cfd/
@@ -52050,7 +52045,6 @@ local=/poker-domz.live/
 local=/poker-domz.space/
 local=/poker-eu.store/
 local=/poker-finder.ru/
-local=/poker-game.ru/
 local=/poker-game.store/
 local=/poker-guru.com/
 local=/poker-gutschein.de/
@@ -55671,7 +55665,6 @@ local=/red88.com/
 local=/redball88.net/
 local=/redball88info.xyz/
 local=/redbet.com/
-local=/redbird77.site/
 local=/redbusbingo.com/
 local=/redcasino.com/
 local=/redcasino.io/
