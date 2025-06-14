@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749732420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749897960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 12 Jun 2025 12:47 UTC
-; Version: 2025.0612.1247.42
+; Last modified: 14 Jun 2025 10:46 UTC
+; Version: 2025.0614.1046.48
 ; Syntax: RPZ
-; Number of entries: 11790
+; Number of entries: 11800
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2670,6 +2670,8 @@ peak-prosperity.com CNAME .
 *.peak-prosperity.com CNAME .
 pecurgoa.com CNAME .
 *.pecurgoa.com CNAME .
+petesmarketinghub.com CNAME .
+*.petesmarketinghub.com CNAME .
 short.php8developer.com CNAME .
 *.short.php8developer.com CNAME .
 piwjn.com CNAME .
@@ -6750,6 +6752,8 @@ minify.link CNAME .
 *.minify.link CNAME .
 modash.link CNAME .
 *.modash.link CNAME .
+mrkt.link CNAME .
+*.mrkt.link CNAME .
 mybranded.link CNAME .
 *.mybranded.link CNAME .
 myshorturl.link CNAME .
@@ -7078,6 +7082,8 @@ googleidmaps.live CNAME .
 *.googleidmaps.live CNAME .
 groupsexting.live CNAME .
 *.groupsexting.live CNAME .
+gskvn.live CNAME .
+*.gskvn.live CNAME .
 harleyned.live CNAME .
 *.harleyned.live CNAME .
 henesyphotos.live CNAME .
@@ -7132,6 +7138,8 @@ kolstadhandball.live CNAME .
 *.kolstadhandball.live CNAME .
 kopo.live CNAME .
 *.kopo.live CNAME .
+lilyfreeonlyfans.live CNAME .
+*.lilyfreeonlyfans.live CNAME .
 limiteds.live CNAME .
 *.limiteds.live CNAME .
 linkmpomax.live CNAME .
@@ -7346,6 +7354,8 @@ tiny-check-9.live CNAME .
 *.tiny-check-9.live CNAME .
 tinycheck9.live CNAME .
 *.tinycheck9.live CNAME .
+top-sub-cve-len.live CNAME .
+*.top-sub-cve-len.live CNAME .
 trendingvideo.live CNAME .
 *.trendingvideo.live CNAME .
 truongthanhlen.live CNAME .

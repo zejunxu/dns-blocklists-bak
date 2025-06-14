@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Jun 2025 12:47 UTC
-# Version: 2025.0612.1247.42
+# Last modified: 14 Jun 2025 10:46 UTC
+# Version: 2025.0614.1046.48
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 5895
+# Number of entries: 5900
 #
 *.0.gp
 *.00oo.lol
@@ -1997,6 +1997,7 @@
 *.grouprai.se
 *.groupsexting.live
 *.grpx.in
+*.gskvn.live
 *.gst.bz
 *.gt7.de
 *.gtly.ink
@@ -2680,6 +2681,7 @@
 *.lillink.xyz
 *.lilllil.ru
 *.liltext.com
+*.lilyfreeonlyfans.live
 *.limiteds.live
 *.lin.ee
 *.lin.io
@@ -3152,6 +3154,7 @@
 *.mpo228.life
 *.mq3.net
 *.mr-kern-al7.life
+*.mrkt.link
 *.mrte.ch
 *.mrturl.com
 *.mrx.bz
@@ -3587,6 +3590,7 @@
 *.peppy.link
 *.pepsi.co
 *.pesc.pw
+*.petesmarketinghub.com
 *.petir.vip
 *.petrobr.as
 *.petterihollander.live
@@ -4906,6 +4910,7 @@
 *.tomasz.top
 *.tonancos.com
 *.tonyr.co
+*.top-sub-cve-len.live
 *.topfiften.com
 *.topkale.me
 *.toplistt.com

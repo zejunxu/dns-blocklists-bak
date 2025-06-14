@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Jun 2025 23:09 UTC
-# Version: 2025.0613.2309.07
+# Last modified: 14 Jun 2025 10:45 UTC
+# Version: 2025.0614.1045.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14618
+# Number of entries: 14616
 #
 local=/01crypto.com/
 local=/1001clothing.eu/
@@ -1920,6 +1920,7 @@ local=/brillianci.co/
 local=/brilliant-photo.com/
 local=/brimes.de/
 local=/bringwish.com/
+local=/britcheck.com/
 local=/british-columbia-hotels.com/
 local=/broadjoint.com/
 local=/brockneed.com/
@@ -3196,7 +3197,6 @@ local=/delaamoebelde.shop/
 local=/delebensmittel.com/
 local=/delegacar.com/
 local=/delhihurricanes.com/
-local=/delicioush.com/
 local=/delightsky.store/
 local=/delishpetfoodde.com/
 local=/parcel.deliv.com/
@@ -3993,7 +3993,6 @@ local=/ensemble4cyclisme.com/
 local=/enstocks3v.top/
 local=/entdeckennatur.com/
 local=/entermusic.it/
-local=/entertainl.com/
 local=/enthusiastichaic.com/
 local=/enthusiastip.com/
 local=/entornobanoes.com/
@@ -6158,6 +6157,7 @@ local=/hockeysalesus.com/
 local=/hodea-versand.com/
 local=/hoeglshoes.com/
 local=/hofer-austria.shop/
+local=/hofer-wien.com/
 local=/hoff-de.com/
 local=/hoffmanngermany.shop/
 local=/hofius-shop.shop/
@@ -6339,7 +6339,6 @@ local=/huck24.com/
 local=/hudyrc.com/
 local=/huesslers.de/
 local=/huewi.xyz/
-local=/hugetsky.com/
 local=/hugoverkauf.de/
 local=/huiberty.com/
 local=/huisdecoratie-nl.com/
@@ -7193,7 +7192,6 @@ local=/kisotonen.com/
 local=/kissen-sales.com/
 local=/kita-much.de/
 local=/kitchenaid-offiziell.com/
-local=/kitchenaid-onlinestore.com/
 local=/kitchenaidhome.com/
 local=/kitchenchef.club/
 local=/kitchencuisinart.com/
@@ -7827,7 +7825,6 @@ local=/lockwoodinv.com/
 local=/locmyparcel.com/
 local=/locmyparcel.info/
 local=/locobox.net/
-local=/locomotivey.com/
 local=/lodiro.de/
 local=/lodischuheonlineshop.de/
 local=/loewe-vom-sauerland.de/
@@ -8812,6 +8809,8 @@ local=/moser-handels-gmbh.de/
 local=/mosersale.shop/
 local=/mosessions.com/
 local=/mosherrypills.com/
+local=/mosmankoch.at/
+local=/mosmankoch.de/
 local=/mosplains.com/
 local=/mosshammer.shop/
 local=/mostary.com/
@@ -8871,6 +8870,7 @@ local=/mueller-investment.com/
 local=/muellerer.de/
 local=/muhs-spielwaren.com/
 local=/muidi.com/
+local=/mulfin-trade.io/
 local=/mullerr.de/
 local=/mulovesm.best/
 local=/multi-kredit.com/
@@ -9345,7 +9345,6 @@ local=/norvatix.io/
 local=/norwayhotel.net/
 local=/not-bad.shop/
 local=/notaster.com/
-local=/notationi.com/
 local=/notebookakku.at/
 local=/notebooknetzteileshop.de/
 local=/notfall-installateur.at/
@@ -9598,7 +9597,6 @@ local=/onlinekamagra.com/
 local=/onlinekamagrastore.org/
 local=/onlinekmnwi.com/
 local=/onlinekuche.com/
-local=/app.onlinelebenslauf.com/
 local=/onlinemaripe.com/
 local=/onlinemotorrad.com/
 local=/onlineoutletie.cc/
@@ -12852,7 +12850,6 @@ local=/thorogooddeutschland.de/
 local=/thorogoodfrance.com/
 local=/thorogoodfrance.fr/
 local=/three-shift.de/
-local=/thresholdi.com/
 local=/thresholdk.com/
 local=/thrillsnew.com/
 local=/throughouty.com/
@@ -13287,6 +13284,7 @@ local=/tupperware-uaeonline.com/
 local=/tuppsale-eu.shop/
 local=/turbo-finanz.com/
 local=/turbolidlcraft.com/
+local=/turbon.vip/
 local=/turboplanter.at/
 local=/turngod.com/
 local=/turolloy.com/

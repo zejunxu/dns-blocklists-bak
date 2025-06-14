@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Jun 2025 22:54 UTC
-# Version: 2025.0613.2254.35
+# Last modified: 14 Jun 2025 11:58 UTC
+# Version: 2025.0614.1158.45
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1601
+# Number of entries: 1604
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -321,6 +321,7 @@
 0.0.0.0 adguard.frutuozo.com.br
 0.0.0.0 adguard.gbrossi.com.br
 0.0.0.0 dns.joaofidelix.com.br
+0.0.0.0 dns.netraptor.com.au
 0.0.0.0 dns.weixin.qq.com.cn
 0.0.0.0 dns.redhosting.com.ar
 0.0.0.0 doh.viatech.com.tw
@@ -662,6 +663,7 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
+0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
@@ -1019,6 +1021,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
