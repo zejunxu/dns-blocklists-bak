@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Jun 2025 10:45 UTC
-# Version: 2025.0614.1045.04
+# Last modified: 14 Jun 2025 22:41 UTC
+# Version: 2025.0614.2241.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14616
+# Number of entries: 14619
 #
 local=/01crypto.com/
 local=/1001clothing.eu/
@@ -4057,6 +4057,7 @@ local=/ersatzteil-land-mengeler.de/
 local=/ersatzteilegeschaft.com/
 local=/ersatzteileneu.com/
 local=/ersatzteilesales.com/
+local=/ersause.com/
 local=/erste-apo.de/
 local=/ersterecycle.cc/
 local=/erstmal-kaffee.com/
@@ -4919,6 +4920,7 @@ local=/fusseneggershop.com/
 local=/fussheld.com/
 local=/fusspflege-klesen.de/
 local=/fustripother.com/
+local=/future-eco.com/
 local=/future-nest-at.com/
 local=/future-nest-de.com/
 local=/future-nord.de/
@@ -5556,6 +5558,7 @@ local=/grillstore-krefeld.com/
 local=/grillstorebuchen.com/
 local=/grillwiese.shop/
 local=/grilmarkt.com/
+local=/grilmarktt.com/
 local=/grimhat.com/
 local=/gripgrabarea.com/
 local=/grivety.shop/
