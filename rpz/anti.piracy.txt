@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749945420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749988440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Jun 2025 23:57 UTC
-; Version: 2025.0614.2357.39
+; Last modified: 15 Jun 2025 11:54 UTC
+; Version: 2025.0615.1154.53
 ; Syntax: RPZ
-; Number of entries: 20040
+; Number of entries: 20060
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -139,6 +139,8 @@ aeromods.app CNAME .
 *.aeromods.app CNAME .
 allstreaming.app CNAME .
 *.allstreaming.app CNAME .
+altadefinizione01.app CNAME .
+*.altadefinizione01.app CNAME .
 bitcine.app CNAME .
 *.bitcine.app CNAME .
 buffstreams.app CNAME .
@@ -773,6 +775,8 @@ guardaserie.builders CNAME .
 *.guardaserie.builders CNAME .
 1337x.buzz CNAME .
 *.1337x.buzz CNAME .
+4kfilm.buzz CNAME .
+*.4kfilm.buzz CNAME .
 5movies.buzz CNAME .
 *.5movies.buzz CNAME .
 freemovies.buzz CNAME .
@@ -945,6 +949,8 @@ newalbumreleases.unblockit.cat CNAME .
 *.newalbumreleases.unblockit.cat CNAME .
 123movie.cc CNAME .
 *.123movie.cc CNAME .
+12canime.cc CNAME .
+*.12canime.cc CNAME .
 1movieshd.cc CNAME .
 *.1movieshd.cc CNAME .
 1watch-free.cc CNAME .
@@ -2055,6 +2061,8 @@ tracker.0x7c0.com CNAME .
 *.123movies-apk.com CNAME .
 123moviesbq.com CNAME .
 *.123moviesbq.com CNAME .
+123moviesfree.com CNAME .
+*.123moviesfree.com CNAME .
 123moviesfreez.com CNAME .
 *.123moviesfreez.com CNAME .
 123moviesget.com CNAME .
@@ -2093,6 +2101,8 @@ tracker.0x7c0.com CNAME .
 *.22-hd.com CNAME .
 24-download.com CNAME .
 *.24-download.com CNAME .
+24-downloads.com CNAME .
+*.24-downloads.com CNAME .
 24-hd.com CNAME .
 *.24-hd.com CNAME .
 24urban.com CNAME .
@@ -2131,6 +2141,8 @@ danime.2ya.com CNAME .
 *.3dmgame.com CNAME .
 3dsdb.com CNAME .
 *.3dsdb.com CNAME .
+3dsiso.com CNAME .
+*.3dsiso.com CNAME .
 3rcommunications.com CNAME .
 *.3rcommunications.com CNAME .
 456movie.com CNAME .
@@ -2327,6 +2339,8 @@ androidp1.com CNAME .
 *.androidp1.com CNAME .
 androidrookies.com CNAME .
 *.androidrookies.com CNAME .
+animatedchaos.com CNAME .
+*.animatedchaos.com CNAME .
 anime.com CNAME .
 *.anime.com CNAME .
 anime-faith.com CNAME .
@@ -2393,6 +2407,8 @@ animezia.com CNAME .
 *.animezia.com CNAME .
 animixplay.com CNAME .
 *.animixplay.com CNAME .
+anipt.com CNAME .
+*.anipt.com CNAME .
 anirena.com CNAME .
 *.anirena.com CNAME .
 aniwatcher.com CNAME .
@@ -10519,6 +10535,8 @@ xmovies8.lol CNAME .
 *.xmovies8.lol CNAME .
 123moviesfree.love CNAME .
 *.123moviesfree.love CNAME .
+altadefinizione.love CNAME .
+*.altadefinizione.love CNAME .
 altadefinizione01.love CNAME .
 *.altadefinizione01.love CNAME .
 btsearch.love CNAME .
@@ -13749,6 +13767,8 @@ zeflix.online CNAME .
 *.123moviesme.org CNAME .
 123moviest.org CNAME .
 *.123moviest.org CNAME .
+123streams.org CNAME .
+*.123streams.org CNAME .
 1337x.org CNAME .
 *.1337x.org CNAME .
 1ddl.org CNAME .
@@ -14163,8 +14183,6 @@ dreamingtree.org CNAME .
 *.dreamingtree.org CNAME .
 cutscloud.duckdns.org CNAME .
 *.cutscloud.duckdns.org CNAME .
-joczo.duckdns.org CNAME .
-*.joczo.duckdns.org CNAME .
 kamikazee.duckdns.org CNAME .
 *.kamikazee.duckdns.org CNAME .
 thinking.duckdns.org CNAME .
@@ -16889,6 +16907,8 @@ yggtorrent.si CNAME .
 *.yggtorrent.si CNAME .
 cb01.singles CNAME .
 *.cb01.singles CNAME .
+123moviesnew.site CNAME .
+*.123moviesnew.site CNAME .
 33seriestreaming.site CNAME .
 *.33seriestreaming.site CNAME .
 tracker.52pt.site CNAME .

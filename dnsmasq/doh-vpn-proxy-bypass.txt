@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Jun 2025 11:59 UTC
-# Version: 2025.0614.1159.06
+# Last modified: 15 Jun 2025 11:59 UTC
+# Version: 2025.0615.1159.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4759
+# Number of entries: 4758
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -105,6 +105,7 @@ local=/calm-hawk-529.3kh0.org/
 local=/happy-sun-587.3kh0.org/
 local=/3proxy.de/
 local=/dns.3wv.de/
+local=/3x.nz/
 local=/dns.4-the.win/
 local=/notfound-google.404.mn/
 local=/doh.42l.fr/
@@ -291,6 +292,7 @@ local=/anonymous-proxies.net/
 local=/anonymous-proxy-servers.net/
 local=/anonymousblog.info/
 local=/anonymouse.org/
+local=/anonymousengine.com/
 local=/anonymousvpn.info/
 local=/anonymousvpn.org/
 local=/anonymox.net/
@@ -2589,7 +2591,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -3740,9 +3741,7 @@ local=/ams1.startpage.com/
 local=/ams2.startpage.com/
 local=/browse.startpage.com/
 local=/eu-browse.startpage.com/
-local=/eu1-browse.startpage.com/
 local=/eu2-browse.startpage.com/
-local=/proxy1.startpage.com/
 local=/proxy3.startpage.com/
 local=/s4-us2.startpage.com/
 local=/us1-browse.startpage.com/

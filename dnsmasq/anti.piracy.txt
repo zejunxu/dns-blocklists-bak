@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Jun 2025 23:57 UTC
-# Version: 2025.0614.2357.39
+# Last modified: 15 Jun 2025 11:54 UTC
+# Version: 2025.0615.1154.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10020
+# Number of entries: 10030
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -103,6 +103,7 @@ local=/123movies4u.net/
 local=/123movies4u.pro/
 local=/123moviesbq.com/
 local=/123moviesc.cyou/
+local=/123moviesfree.com/
 local=/123moviesfree.love/
 local=/123moviesfree.net/
 local=/123moviesfreez.com/
@@ -121,6 +122,7 @@ local=/123movieshub.to/
 local=/123movieshubz.com/
 local=/123moviesme.online/
 local=/123moviesme.org/
+local=/123moviesnew.site/
 local=/123moviesonline.biz/
 local=/123moviess.gdn/
 local=/123moviess.net/
@@ -139,11 +141,13 @@ local=/123myflixer.pro/
 local=/123netflix.club/
 local=/123putlocker.io/
 local=/123stream.la/
+local=/123streams.org/
 local=/123tvnow.com/
 local=/123unblock.art/
 local=/123unblock.fun/
 local=/123unblock.monster/
 local=/ettv.123unblock.world/
+local=/12canime.cc/
 local=/13377x.tw/
 local=/1337x.app/
 local=/1337x.buzz/
@@ -195,6 +199,7 @@ local=/22-hd.com/
 local=/tracker.23794.top/
 local=/23movies.xyz/
 local=/24-download.com/
+local=/24-downloads.com/
 local=/24-hd.com/
 local=/240x320.ru/
 local=/24h.tv/
@@ -235,6 +240,7 @@ local=/36dm.com/
 local=/3dmgame.com/
 local=/warezanet.3dn.ru/
 local=/3dsdb.com/
+local=/3dsiso.com/
 local=/3dsroms.org/
 local=/bt.3kb.xyz/
 local=/3movierulz.sc/
@@ -303,6 +309,7 @@ local=/wwvw.4files.net/
 local=/xn--80aejjrnhcji.4files.net/
 local=/4k-hd.club/
 local=/4kdownload.com/
+local=/4kfilm.buzz/
 local=/4kvod.tv/
 local=/4megaupload.com/
 local=/4mirrorlink.com/
@@ -580,6 +587,7 @@ local=/altadefinizione.life/
 local=/altadefinizione.limo/
 local=/altadefinizione.live/
 local=/altadefinizione.lol/
+local=/altadefinizione.love/
 local=/altadefinizione.ma/
 local=/altadefinizione.me/
 local=/altadefinizione.mov/
@@ -619,6 +627,7 @@ local=/altadefinizione.ws/
 local=/altadefinizione.xyz/
 local=/altadefinizione-nuovo.click/
 local=/altadefinizione-originale.online/
+local=/altadefinizione01.app/
 local=/altadefinizione01.bet/
 local=/altadefinizione01.boutique/
 local=/altadefinizione01.cc/
@@ -692,6 +701,7 @@ local=/btx.anifilm.tv/
 local=/anify.to/
 local=/anilinkz.to/
 local=/animag.to/
+local=/animatedchaos.com/
 local=/animationdigitalnetwork.fr/
 local=/anime.com/
 local=/anime-conan.net/
@@ -800,6 +810,7 @@ local=/animezia.com/
 local=/animixplay.com/
 local=/animixplay.to/
 local=/aninow.net/
+local=/anipt.com/
 local=/anirena.com/
 local=/anisaishuu.de/
 local=/anisearch.ru/
@@ -2671,7 +2682,6 @@ local=/duboku.net/
 local=/duboku.tv/
 local=/duboku.vip/
 local=/cutscloud.duckdns.org/
-local=/joczo.duckdns.org/
 local=/kamikazee.duckdns.org/
 local=/thinking.duckdns.org/
 local=/tr4ck3r.duckdns.org/

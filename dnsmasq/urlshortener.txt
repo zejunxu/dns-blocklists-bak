@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Jun 2025 10:46 UTC
-# Version: 2025.0614.1046.48
+# Last modified: 15 Jun 2025 10:44 UTC
+# Version: 2025.0615.1044.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5900
+# Number of entries: 5904
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -150,6 +150,7 @@ local=/303.kim/
 local=/30na.ma/
 local=/31productions.de/
 local=/369.xn--6frz82g/
+local=/389sport.fun/
 local=/389sport.store/
 local=/3c5.com/
 local=/3ind.com/
@@ -185,6 +186,7 @@ local=/4sharedlink.com/
 local=/4shorturl.app/
 local=/4sq.com/
 local=/4ton.com/
+local=/4uid.com/
 local=/4url.cc/
 local=/4x.si/
 local=/5.gp/
@@ -349,6 +351,7 @@ local=/adeolasagay.live/
 local=/adesta.cc/
 local=/adf.ly/
 local=/adfa.st/
+local=/adfly.be/
 local=/adflydsp.com/
 local=/adflyfly.com/
 local=/adfoc.us/
@@ -2971,6 +2974,7 @@ local=/mas.si/
 local=/mas.so/
 local=/masklink.org/
 local=/masuk-id.info/
+local=/masuksini.my/
 local=/masy.uk/
 local=/matchurl.com/
 local=/math-sm-9075.life/

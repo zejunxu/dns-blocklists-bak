@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749897960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749984240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Jun 2025 10:46 UTC
-; Version: 2025.0614.1046.48
+; Last modified: 15 Jun 2025 10:44 UTC
+; Version: 2025.0615.1044.54
 ; Syntax: RPZ
-; Number of entries: 11800
+; Number of entries: 11808
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -314,6 +314,8 @@ vypij.bar CNAME .
 *.233.be CNAME .
 3ra.be CNAME .
 *.3ra.be CNAME .
+adfly.be CNAME .
+*.adfly.be CNAME .
 s.ggwp.be CNAME .
 *.s.ggwp.be CNAME .
 hoo.be CNAME .
@@ -1526,6 +1528,8 @@ has.coffee CNAME .
 *.4sq.com CNAME .
 4ton.com CNAME .
 *.4ton.com CNAME .
+4uid.com CNAME .
+*.4uid.com CNAME .
 5278url.com CNAME .
 *.5278url.com CNAME .
 5qzr.com CNAME .
@@ -4218,6 +4222,8 @@ z9.fr CNAME .
 *.z9.fr CNAME .
 zipurl.fr CNAME .
 *.zipurl.fr CNAME .
+389sport.fun CNAME .
+*.389sport.fun CNAME .
 69run.fun CNAME .
 *.69run.fun CNAME .
 bj88php.fun CNAME .
@@ -8320,6 +8326,8 @@ ly.my CNAME .
 *.ly.my CNAME .
 make.my CNAME .
 *.make.my CNAME .
+masuksini.my CNAME .
+*.masuksini.my CNAME .
 mki.my CNAME .
 *.mki.my CNAME .
 ss88.my CNAME .
