@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749988440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750032180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Jun 2025 11:54 UTC
-; Version: 2025.0615.1154.53
+; Last modified: 16 Jun 2025 00:03 UTC
+; Version: 2025.0616.0003.13
 ; Syntax: RPZ
-; Number of entries: 20060
+; Number of entries: 20110
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -399,6 +399,8 @@ www.e24.com.bd CNAME .
 *.www.e24.com.bd CNAME .
 fnet.com.bd CNAME .
 *.fnet.com.bd CNAME .
+fti.com.bd CNAME .
+*.fti.com.bd CNAME .
 ftp.com.bd CNAME .
 *.ftp.com.bd CNAME .
 hkonline.com.bd CNAME .
@@ -1477,6 +1479,8 @@ cb01.clothing CNAME .
 *.5movies.cloud CNAME .
 altadefinizione01.cloud CNAME .
 *.altadefinizione01.cloud CNAME .
+audiobooks.cloud CNAME .
+*.audiobooks.cloud CNAME .
 bedro.cloud CNAME .
 *.bedro.cloud CNAME .
 cineblog01.cloud CNAME .
@@ -1547,6 +1551,8 @@ tracker.brokenstones.club CNAME .
 *.tracker.brokenstones.club CNAME .
 tracker.btschool.club CNAME .
 *.tracker.btschool.club CNAME .
+casualgamers.club CNAME .
+*.casualgamers.club CNAME .
 cb01.club CNAME .
 *.cb01.club CNAME .
 chouchou.club CNAME .
@@ -2607,6 +2613,10 @@ atopgames.com CNAME .
 *.atopgames.com CNAME .
 atorrents.com CNAME .
 *.atorrents.com CNAME .
+attractiveservices.com CNAME .
+*.attractiveservices.com CNAME .
+audio-track.com CNAME .
+*.audio-track.com CNAME .
 audiobb.com CNAME .
 *.audiobb.com CNAME .
 audiobookol.com CNAME .
@@ -2615,6 +2625,10 @@ audiobooksbee.com CNAME .
 *.audiobooksbee.com CNAME .
 audiobookss.com CNAME .
 *.audiobookss.com CNAME .
+audiotracer.com CNAME .
+*.audiotracer.com CNAME .
+audiozonetorrents.com CNAME .
+*.audiozonetorrents.com CNAME .
 aurastresser.com CNAME .
 *.aurastresser.com CNAME .
 aurora-raws.com CNAME .
@@ -2663,6 +2677,8 @@ bambooua.com CNAME .
 *.bambooua.com CNAME .
 banglaftp.com CNAME .
 *.banglaftp.com CNAME .
+banglatorrents.com CNAME .
+*.banglatorrents.com CNAME .
 bantito.com CNAME .
 *.bantito.com CNAME .
 basixmovie.com CNAME .
@@ -2677,6 +2693,8 @@ bdbroadband.com CNAME .
 *.bdbroadband.com CNAME .
 bdflixlive.com CNAME .
 *.bdflixlive.com CNAME .
+bdhdmovies.com CNAME .
+*.bdhdmovies.com CNAME .
 bdiptv.com CNAME .
 *.bdiptv.com CNAME .
 bdixftp.com CNAME .
@@ -2743,6 +2761,8 @@ birds-of-binaries.com CNAME .
 *.birds-of-binaries.com CNAME .
 bit-hdtv.com CNAME .
 *.bit-hdtv.com CNAME .
+bit-latino.com CNAME .
+*.bit-latino.com CNAME .
 bit66.com CNAME .
 *.bit66.com CNAME .
 bitchil.com CNAME .
@@ -2773,6 +2793,8 @@ bitseduce.com CNAME .
 *.bitseduce.com CNAME .
 bitsnoop.com CNAME .
 *.bitsnoop.com CNAME .
+bitsources.com CNAME .
+*.bitsources.com CNAME .
 bittorex.com CNAME .
 *.bittorex.com CNAME .
 bittorrent.com CNAME .
@@ -2975,6 +2997,8 @@ books-share.com CNAME .
 *.books-share.com CNAME .
 boomep.com CNAME .
 *.boomep.com CNAME .
+xanabandforum.boosterforum.com CNAME .
+*.xanabandforum.boosterforum.com CNAME .
 boostfluence.com CNAME .
 *.boostfluence.com CNAME .
 boot4free.com CNAME .
@@ -3067,6 +3091,8 @@ c4cracksoftware.com CNAME .
 *.c4cracksoftware.com CNAME .
 cafehulu.com CNAME .
 *.cafehulu.com CNAME .
+canalflix.com CNAME .
+*.canalflix.com CNAME .
 threads.canofsocks.com CNAME .
 *.threads.canofsocks.com CNAME .
 carparkingmultimod.com CNAME .
@@ -3125,6 +3151,8 @@ cinemaapk.com CNAME .
 *.cinemaapk.com CNAME .
 cinemadeck.com CNAME .
 *.cinemadeck.com CNAME .
+cinemagratis.com CNAME .
+*.cinemagratis.com CNAME .
 cinemanija.com CNAME .
 *.cinemanija.com CNAME .
 cinemaunlocked.com CNAME .
@@ -3195,6 +3223,8 @@ conspiracyhub.com CNAME .
 *.conspiracyhub.com CNAME .
 convivea.com CNAME .
 *.convivea.com CNAME .
+conway-sports.com CNAME .
+*.conway-sports.com CNAME .
 coolrom.com CNAME .
 *.coolrom.com CNAME .
 coolwarez.com CNAME .
@@ -3265,6 +3295,8 @@ crackserialpro.com CNAME .
 *.crackserialpro.com CNAME .
 crackserver.com CNAME .
 *.crackserver.com CNAME .
+cracksfiles.com CNAME .
+*.cracksfiles.com CNAME .
 crackslink.com CNAME .
 *.crackslink.com CNAME .
 cracksnow.com CNAME .
@@ -8121,6 +8153,8 @@ bigbbs.eu CNAME .
 *.bigbbs.eu CNAME .
 bollywood.eu CNAME .
 *.bollywood.eu CNAME .
+booter.eu CNAME .
+*.booter.eu CNAME .
 bosscast.eu CNAME .
 *.bosscast.eu CNAME .
 btdb.eu CNAME .
@@ -8689,6 +8723,8 @@ bt.acg.gg CNAME .
 *.bt.acg.gg CNAME .
 tracker.acg.gg CNAME .
 *.tracker.acg.gg CNAME .
+bflix.gg CNAME .
+*.bflix.gg CNAME .
 filmstreaming.gg CNAME .
 *.filmstreaming.gg CNAME .
 french-stream.gg CNAME .
@@ -9817,6 +9853,8 @@ casacinema.it CNAME .
 *.casacinema.it CNAME .
 cb01.it CNAME .
 *.cb01.it CNAME .
+cineblog01.it CNAME .
+*.cineblog01.it CNAME .
 cinemagratis.it CNAME .
 *.cinemagratis.it CNAME .
 dfox.it CNAME .
@@ -10129,6 +10167,8 @@ bdixtv.live CNAME .
 *.bdixtv.live CNAME .
 bdtv.live CNAME .
 *.bdtv.live CNAME .
+binged.live CNAME .
+*.binged.live CNAME .
 bobd.live CNAME .
 *.bobd.live CNAME .
 bonsaihd.live CNAME .
@@ -10139,6 +10179,8 @@ cinemacity.live CNAME .
 *.cinemacity.live CNAME .
 citynet.live CNAME .
 *.citynet.live CNAME .
+criaflix.live CNAME .
+*.criaflix.live CNAME .
 dflix.live CNAME .
 *.dflix.live CNAME .
 dotsport.live CNAME .
@@ -10687,6 +10729,8 @@ tracker.beyond-hd.me CNAME .
 *.tracker.beyond-hd.me CNAME .
 bflixmovies.me CNAME .
 *.bflixmovies.me CNAME .
+bflixto.me CNAME .
+*.bflixto.me CNAME .
 bibliotik.me CNAME .
 *.bibliotik.me CNAME .
 brokenstones.me CNAME .
@@ -11233,6 +11277,8 @@ astalavista.ms CNAME .
 *.astalavista.ms CNAME .
 babytorrent.ms CNAME .
 *.babytorrent.ms CNAME .
+crack.ms CNAME .
+*.crack.ms CNAME .
 streameast.ms CNAME .
 *.streameast.ms CNAME .
 yts.ms CNAME .
@@ -13975,6 +14021,8 @@ bteye.org CNAME .
 *.bteye.org CNAME .
 btjunkie.org CNAME .
 *.btjunkie.org CNAME .
+btmusic.org CNAME .
+*.btmusic.org CNAME .
 btor.org CNAME .
 *.btor.org CNAME .
 btsay.org CNAME .
@@ -16047,6 +16095,8 @@ btkitty.red CNAME .
 *.btkitty.red CNAME .
 casacinema.red CNAME .
 *.casacinema.red CNAME .
+cb01.red CNAME .
+*.cb01.red CNAME .
 cineblog01.red CNAME .
 *.cineblog01.red CNAME .
 corsaro.red CNAME .

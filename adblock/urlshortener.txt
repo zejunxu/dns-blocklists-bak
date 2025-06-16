@@ -12,10 +12,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 15 Jun 2025 10:44 UTC
-! Version: 2025.0615.1044.54
+! Last modified: 15 Jun 2025 22:44 UTC
+! Version: 2025.0615.2244.19
 ! Syntax: AdBlock
-! Number of entries: 5904
+! Number of entries: 5912
 !
 ||0.gp^
 ||00oo.lol^
@@ -632,6 +632,7 @@
 ||b7.tel^
 ||b808.bet^
 ||babblecase.com^
+||bacn.me^
 ||bafrv.top^
 ||baid.us^
 ||baixeapk.com^
@@ -839,6 +840,7 @@
 ||bp-gc.in^
 ||bpdmv.com^
 ||bpl.kr^
+||bprl.site^
 ||bpvkv.top^
 ||bpzvx.sbs^
 ||bqdlp.com^
@@ -854,6 +856,7 @@
 ||brevi.space^
 ||brg.mobi^
 ||bridge.dev^
+||bridging-analytics.life^
 ||brief.ly^
 ||briidge.life^
 ||brilink.me^
@@ -863,6 +866,7 @@
 ||browser.to^
 ||brst.link^
 ||brucezielke.life^
+||brzu.net^
 ||bs303.com^
 ||bslm.me^
 ||track3.bsplegalmarketing.com^
@@ -1005,6 +1009,7 @@
 ||chase-side-maintenance.live^
 ||chatg.pt^
 ||checkshorturl.com^
+||cheftems.com^
 ||chekc.life^
 ||chem.sg^
 ||chfm.ch^
@@ -1086,6 +1091,7 @@
 ||cluml.sbs^
 ||clvr.rocks^
 ||clymont.live^
+||cml.lol^
 ||cmon.co^
 ||cmu.is^
 ||cmvsc.com^
@@ -1164,6 +1170,7 @@
 ||cptl.me^
 ||cpwuc.com^
 ||cqhjbt.com^
+||cr.ma^
 ||cr8.lv^
 ||crackm.ag^
 ||crdrv.co^
@@ -1231,6 +1238,7 @@
 ||cutth.com^
 ||cutturl.xyz^
 ||cutu.me^
+||cutur.link^
 ||cuturl.com^
 ||cuturl.net^
 ||cuty.io^

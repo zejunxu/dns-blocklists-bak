@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749984240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750027440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Jun 2025 10:44 UTC
-; Version: 2025.0615.1044.54
+; Last modified: 15 Jun 2025 22:44 UTC
+; Version: 2025.0615.2244.19
 ; Syntax: RPZ
-; Number of entries: 11808
+; Number of entries: 11824
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1812,6 +1812,8 @@ change-erp.com CNAME .
 *.change-erp.com CNAME .
 checkshorturl.com CNAME .
 *.checkshorturl.com CNAME .
+cheftems.com CNAME .
+*.cheftems.com CNAME .
 chimney-doctors.com CNAME .
 *.chimney-doctors.com CNAME .
 chogoon.com CNAME .
@@ -6130,6 +6132,8 @@ bose.life CNAME .
 *.bose.life CNAME .
 bravos.life CNAME .
 *.bravos.life CNAME .
+bridging-analytics.life CNAME .
+*.bridging-analytics.life CNAME .
 briidge.life CNAME .
 *.briidge.life CNAME .
 brucezielke.life CNAME .
@@ -6664,6 +6668,8 @@ clickurl.link CNAME .
 *.clickurl.link CNAME .
 clipmy.link CNAME .
 *.clipmy.link CNAME .
+cutur.link CNAME .
+*.cutur.link CNAME .
 d138.link CNAME .
 *.d138.link CNAME .
 dl-protect.link CNAME .
@@ -7454,6 +7460,8 @@ liquid.loans CNAME .
 *.5k.lol CNAME .
 am.lol CNAME .
 *.am.lol CNAME .
+cml.lol CNAME .
+*.cml.lol CNAME .
 dbox.lol CNAME .
 *.dbox.lol CNAME .
 diato.lol CNAME .
@@ -7692,6 +7700,8 @@ zeep.ly CNAME .
 *.30na.ma CNAME .
 abe.ma CNAME .
 *.abe.ma CNAME .
+cr.ma CNAME .
+*.cr.ma CNAME .
 dd.ma CNAME .
 *.dd.ma CNAME .
 ja.ma CNAME .
@@ -7750,6 +7760,8 @@ ardchk.me CNAME .
 *.ardchk.me CNAME .
 avbc.me CNAME .
 *.avbc.me CNAME .
+bacn.me CNAME .
+*.bacn.me CNAME .
 bbff.me CNAME .
 *.bbff.me CNAME .
 bddy.me CNAME .
@@ -8386,6 +8398,8 @@ bitly.net CNAME .
 *.bitly.net CNAME .
 blap.net CNAME .
 *.blap.net CNAME .
+brzu.net CNAME .
+*.brzu.net CNAME .
 ccurl.net CNAME .
 *.ccurl.net CNAME .
 chkurl.net CNAME .
@@ -10088,6 +10102,8 @@ bitlee.site CNAME .
 *.bitlee.site CNAME .
 biturl.site CNAME .
 *.biturl.site CNAME .
+bprl.site CNAME .
+*.bprl.site CNAME .
 easyurl.site CNAME .
 *.easyurl.site CNAME .
 elx.site CNAME .

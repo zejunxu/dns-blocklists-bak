@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Jun 2025 10:44 UTC
-# Version: 2025.0615.1044.54
+# Last modified: 15 Jun 2025 22:44 UTC
+# Version: 2025.0615.2244.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5904
+# Number of entries: 5912
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -631,6 +631,7 @@ local=/b54.in/
 local=/b7.tel/
 local=/b808.bet/
 local=/babblecase.com/
+local=/bacn.me/
 local=/bafrv.top/
 local=/baid.us/
 local=/baixeapk.com/
@@ -838,6 +839,7 @@ local=/on.bp.com/
 local=/bp-gc.in/
 local=/bpdmv.com/
 local=/bpl.kr/
+local=/bprl.site/
 local=/bpvkv.top/
 local=/bpzvx.sbs/
 local=/bqdlp.com/
@@ -853,6 +855,7 @@ local=/brendan.fyi/
 local=/brevi.space/
 local=/brg.mobi/
 local=/bridge.dev/
+local=/bridging-analytics.life/
 local=/brief.ly/
 local=/briidge.life/
 local=/brilink.me/
@@ -862,6 +865,7 @@ local=/brook.gs/
 local=/browser.to/
 local=/brst.link/
 local=/brucezielke.life/
+local=/brzu.net/
 local=/bs303.com/
 local=/bslm.me/
 local=/track3.bsplegalmarketing.com/
@@ -1004,6 +1008,7 @@ local=/charleseski.life/
 local=/chase-side-maintenance.live/
 local=/chatg.pt/
 local=/checkshorturl.com/
+local=/cheftems.com/
 local=/chekc.life/
 local=/chem.sg/
 local=/chfm.ch/
@@ -1085,6 +1090,7 @@ local=/clr.tax/
 local=/cluml.sbs/
 local=/clvr.rocks/
 local=/clymont.live/
+local=/cml.lol/
 local=/cmon.co/
 local=/cmu.is/
 local=/cmvsc.com/
@@ -1163,6 +1169,7 @@ local=/cpmlink.net/
 local=/cptl.me/
 local=/cpwuc.com/
 local=/cqhjbt.com/
+local=/cr.ma/
 local=/cr8.lv/
 local=/crackm.ag/
 local=/crdrv.co/
@@ -1230,6 +1237,7 @@ local=/cutt4.me/
 local=/cutth.com/
 local=/cutturl.xyz/
 local=/cutu.me/
+local=/cutur.link/
 local=/cuturl.com/
 local=/cuturl.net/
 local=/cuty.io/

@@ -226,6 +226,7 @@ https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.
 https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking
 https://raw.githubusercontent.com/MikhailKasimov/validin-phish-feed/main/validin-phish-feed-1.txt
 https://raw.githubusercontent.com/MikhailKasimov/validin-phish-feed/main/validin-phish-feed-2.txt
+https://raw.githubusercontent.com/MikhailKasimov/validin-phish-feed/main/validin-phish-feed-3.txt
 https://raw.githubusercontent.com/MikhailKasimov/validin-phish-feed/main/validin-phish-feed.txt
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 https://raw.githubusercontent.com/montysecurity/C2-Tracker/refs/heads/main/data/all.txt

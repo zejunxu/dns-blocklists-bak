@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749988740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750032420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Jun 2025 11:59 UTC
-; Version: 2025.0615.1159.48
+; Last modified: 16 Jun 2025 00:07 UTC
+; Version: 2025.0616.0007.50
 ; Syntax: RPZ
-; Number of entries: 9516
+; Number of entries: 9528
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -492,8 +492,6 @@ proxy.cc CNAME .
 *.proxy.cc CNAME .
 proxysite.cc CNAME .
 *.proxysite.cc CNAME .
-resolve2.r9x.cc CNAME .
-*.resolve2.r9x.cc CNAME .
 seedboxes.cc CNAME .
 *.seedboxes.cc CNAME .
 bring-your-own.sinewave.cc CNAME .
@@ -884,6 +882,10 @@ vpnmaster.co CNAME .
 *.vpnmaster.co CNAME .
 dns.tipsy.coffee CNAME .
 *.dns.tipsy.coffee CNAME .
+commonapp.college CNAME .
+*.commonapp.college CNAME .
+compsci.college CNAME .
+*.compsci.college CNAME .
 in.multiverse.college CNAME .
 *.in.multiverse.college CNAME .
 schoology.college CNAME .
@@ -1344,6 +1346,8 @@ solve.proof.california-red.com CNAME .
 *.solve.proof.california-red.com CNAME .
 notes.sage.california-red.com CNAME .
 *.notes.sage.california-red.com CNAME .
+idea.read.capella-technologies.com CNAME .
+*.idea.read.capella-technologies.com CNAME .
 careproxy.com CNAME .
 *.careproxy.com CNAME .
 dns.carson-family.com CNAME .
@@ -4732,6 +4736,8 @@ wez.fr CNAME .
 *.wez.fr CNAME .
 adb-home.xaoimoon.fr CNAME .
 *.adb-home.xaoimoon.fr CNAME .
+dns.auapi.fun CNAME .
+*.dns.auapi.fun CNAME .
 axaxa.fun CNAME .
 *.axaxa.fun CNAME .
 ag.brianlee.fun CNAME .
@@ -4940,6 +4946,8 @@ doh.this.web.id CNAME .
 *.doh.this.web.id CNAME .
 munfe.ro.wawan.web.id CNAME .
 *.munfe.ro.wawan.web.id CNAME .
+doh.zephyrus.id CNAME .
+*.doh.zephyrus.id CNAME .
 doh.iucc.ac.il CNAME .
 *.doh.iucc.ac.il CNAME .
 ag.hostme.co.il CNAME .
@@ -5142,8 +5150,6 @@ mzhlhrfr8z.info CNAME .
 *.mzhlhrfr8z.info CNAME .
 njtzzrvg0lwj3bsn.info CNAME .
 *.njtzzrvg0lwj3bsn.info CNAME .
-dns.olpploiopkuyhiopsfrt.info CNAME .
-*.dns.olpploiopkuyhiopsfrt.info CNAME .
 onconnect.info CNAME .
 *.onconnect.info CNAME .
 onedown.info CNAME .
@@ -7420,6 +7426,8 @@ linewize.broomleigh.org CNAME .
 *.linewize.broomleigh.org CNAME .
 schoolwork.broomleigh.org CNAME .
 *.schoolwork.broomleigh.org CNAME .
+tor.calyxinstitute.org CNAME .
+*.tor.calyxinstitute.org CNAME .
 bananakun.camdvr.org CNAME .
 *.bananakun.camdvr.org CNAME .
 cantblockthis.org CNAME .
@@ -8974,6 +8982,8 @@ cloudssh.us CNAME .
 *.cloudssh.us CNAME .
 coloredwool.us CNAME .
 *.coloredwool.us CNAME .
+croxyproxy.us CNAME .
+*.croxyproxy.us CNAME .
 defilter.us CNAME .
 *.defilter.us CNAME .
 desertsand.us CNAME .
@@ -9330,6 +9340,8 @@ rx.blackxfiied.xyz CNAME .
 *.rx.blackxfiied.xyz CNAME .
 greenwhatchootalkinbout.chrisxp.xyz CNAME .
 *.greenwhatchootalkinbout.chrisxp.xyz CNAME .
+cv-unfiltered.xyz CNAME .
+*.cv-unfiltered.xyz CNAME .
 dns.d94.xyz CNAME .
 *.dns.d94.xyz CNAME .
 do-39574-tr.xyz CNAME .

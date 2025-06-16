@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Jun 2025 11:59 UTC
-# Version: 2025.0615.1159.48
+# Last modified: 16 Jun 2025 00:07 UTC
+# Version: 2025.0616.0007.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4758
+# Number of entries: 4764
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -351,6 +351,7 @@ local=/atlasvpn.com/
 local=/atozproxy.com/
 local=/atris.cyou/
 local=/dohtrial.att.net/
+local=/dns.auapi.fun/
 local=/stevenisafemboy.auraria.org/
 local=/auto-aufladen.de/
 local=/use.autoglass.my/
@@ -591,10 +592,12 @@ local=/solve.proof.california-red.com/
 local=/notes.sage.california-red.com/
 local=/dns.caliph.dev/
 local=/callies-online.site/
+local=/tor.calyxinstitute.org/
 local=/bananakun.camdvr.org/
 local=/canadaproxy.info/
 local=/cantblockthis.org/
 local=/cantfindme.org/
+local=/idea.read.capella-technologies.com/
 local=/2.dnscrypt-cert.captnemo.in/
 local=/doh.captnemo.in/
 local=/carebuzz.io/
@@ -908,9 +911,11 @@ local=/webproxy.com.de/
 local=/6922.yugadiluitel.com.np/
 local=/dns.comff.net/
 local=/rammerhead.command.enterprises/
+local=/commonapp.college/
 local=/commons.host/
 local=/easy-vpn.comodo.com/
 local=/math.tests.comprotusjuguetes.com/
+local=/compsci.college/
 local=/pluhster.computersforpeace.net/
 local=/comss.one/
 local=/comss.ru/
@@ -969,6 +974,7 @@ local=/croxyproxy.best/
 local=/croxyproxy.com/
 local=/croxyproxy.net/
 local=/croxyproxy.rocks/
+local=/croxyproxy.us/
 local=/croxyproxys.com/
 local=/croxyproxyvpn.com/
 local=/crushus.com/
@@ -997,6 +1003,7 @@ local=/qual.cuprum.ru/
 local=/curd.io/
 local=/amir1.cuza16.ro/
 local=/cozy.cuza16.ro/
+local=/cv-unfiltered.xyz/
 local=/dns.cwlys.com/
 local=/vocab.real.cyberbeatnation.net/
 local=/cyberghostvpn.com/
@@ -2804,7 +2811,6 @@ local=/dns.ofdoom.net/
 local=/sleepykirby.ofmdirect.com/
 local=/okado.online/
 local=/okayfreedom.com/
-local=/dns.olpploiopkuyhiopsfrt.info/
 local=/olympicproxy.net/
 local=/omegaproxy.com/
 local=/adguard.oms-ctr.ru/
@@ -3349,7 +3355,6 @@ local=/tiger.dns.qwer.pw/
 local=/mahiro-9.1project.r-o-o-t.net/
 local=/resolver.r0cket.net/
 local=/r1bnc.com/
-local=/resolve2.r9x.cc/
 local=/ra4wvpn.com/
 local=/dns.rabbitdns.org/
 local=/family.rabbitdns.org/
@@ -4747,6 +4752,7 @@ local=/zenmate.com/
 local=/cheifsarebad.zenrelax.ro/
 local=/zenrows.com/
 local=/zenvpn.net/
+local=/doh.zephyrus.id/
 local=/adguard-kartoffel.zernico.de/
 local=/zerotier.com/
 local=/zerotunnel.com/
