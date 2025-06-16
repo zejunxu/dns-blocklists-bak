@@ -7197,6 +7197,13 @@
       }
     },
     {
+      "PK": "freezoka.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "freightinternationalservices.com",
       "action": {
         "do": 0,
@@ -8122,6 +8129,13 @@
     },
     {
       "PK": "hupont.hu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "hyderabadadda.com",
       "action": {
         "do": 0,
         "status": 1
@@ -12882,13 +12896,6 @@
     },
     {
       "PK": "totalh.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "tqhmu.cn",
       "action": {
         "do": 0,
         "status": 1

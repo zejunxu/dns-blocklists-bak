@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Jun 2025 22:44 UTC
-# Version: 2025.0615.2244.19
+# Last modified: 16 Jun 2025 10:46 UTC
+# Version: 2025.0616.1046.14
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 5912
+# Number of entries: 5918
 #
 *.0.gp
 *.00oo.lol
@@ -388,7 +388,6 @@
 *.afb88.life
 *.afly.in
 *.aftv.news
-*.agbr.ir
 *.age-smart-ch.live
 *.agen303.live
 *.aghq.top
@@ -1336,6 +1335,7 @@
 *.dfgameplay.com
 *.dfkr77.com
 *.dfl8.me
+*.dft.ba
 *.dfthethao.com
 *.dgmmx.com
 *.dgo.to
@@ -1396,6 +1396,7 @@
 *.dmkkc.com
 *.dmprd.com
 *.dmreg.co
+*.dmvrenew.com
 *.dn303.online
 *.dna360.tw
 *.dnmqv.top
@@ -1427,6 +1428,7 @@
 *.dr-lisa.life
 *.drafthound.link
 *.dre.li
+*.dreamachievers.live
 *.dreamshigh.life
 *.drinks.me
 *.go.drnima.com
@@ -1815,6 +1817,7 @@
 *.gacor99-vip.xyz
 *.gacora.biz
 *.gacorbos.me
+*.gacortangandewa.com
 *.gacortexas.co
 *.gacortexas.org
 *.gacorwak.xyz
@@ -1842,6 +1845,7 @@
 *.gbxb.info
 *.go.gcash.com
 *.gclnk.com
+*.gcrs.live
 *.gdanstum.net
 *.s.gdngs.de
 *.gdtikx.com
@@ -1980,6 +1984,7 @@
 *.got.to
 *.gotds.ru
 *.goto.pt
+*.gotolink.host
 *.gourl.gr
 *.gourl.me
 *.gourl.onl
@@ -4593,6 +4598,7 @@
 *.storagesch.com
 *.stormurl.com
 *.storycor.ps
+*.stpp.co
 *.strategosnet.com
 *.stratoplot.com
 *.strikersoftsolutions.com

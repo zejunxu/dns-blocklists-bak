@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750027440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750070760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Jun 2025 22:44 UTC
-; Version: 2025.0615.2244.19
+; Last modified: 16 Jun 2025 10:46 UTC
+; Version: 2025.0616.1046.14
 ; Syntax: RPZ
-; Number of entries: 11824
+; Number of entries: 11836
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -302,6 +302,8 @@ azx.az CNAME .
 *.azx.az CNAME .
 rdv.az CNAME .
 *.rdv.az CNAME .
+dft.ba CNAME .
+*.dft.ba CNAME .
 livehotdisini.baby CNAME .
 *.livehotdisini.baby CNAME .
 berde.bar CNAME .
@@ -1386,6 +1388,8 @@ sovrn.co CNAME .
 *.sovrn.co CNAME .
 spigen.co CNAME .
 *.spigen.co CNAME .
+stpp.co CNAME .
+*.stpp.co CNAME .
 swiy.co CNAME .
 *.swiy.co CNAME .
 synd.co CNAME .
@@ -1940,6 +1944,8 @@ dmkkc.com CNAME .
 *.dmkkc.com CNAME .
 dmprd.com CNAME .
 *.dmprd.com CNAME .
+dmvrenew.com CNAME .
+*.dmvrenew.com CNAME .
 doburl.com CNAME .
 *.doburl.com CNAME .
 doiop.com CNAME .
@@ -2084,6 +2090,8 @@ fxqwe.com CNAME .
 *.fxqwe.com CNAME .
 download.fxsound.com CNAME .
 *.download.fxsound.com CNAME .
+gacortangandewa.com CNAME .
+*.gacortangandewa.com CNAME .
 gamegta.com CNAME .
 *.gamegta.com CNAME .
 gamerzchoices.com CNAME .
@@ -4506,6 +4514,8 @@ cjyzkqj.homes CNAME .
 *.cjyzkqj.homes CNAME .
 garuda.homes CNAME .
 *.garuda.homes CNAME .
+gotolink.host CNAME .
+*.gotolink.host CNAME .
 relink.host CNAME .
 *.relink.host CNAME .
 urlshort.host CNAME .
@@ -5578,8 +5588,6 @@ zshort.io CNAME .
 *.900r.ir CNAME .
 adr3.ir CNAME .
 *.adr3.ir CNAME .
-agbr.ir CNAME .
-*.agbr.ir CNAME .
 b2n.ir CNAME .
 *.b2n.ir CNAME .
 cut2.ir CNAME .
@@ -7038,6 +7046,8 @@ distinctrp.live CNAME .
 *.distinctrp.live CNAME .
 djloventx.live CNAME .
 *.djloventx.live CNAME .
+dreamachievers.live CNAME .
+*.dreamachievers.live CNAME .
 ecl-for-2026.live CNAME .
 *.ecl-for-2026.live CNAME .
 eezy99.live CNAME .
@@ -7076,6 +7086,8 @@ fullstacklogan.live CNAME .
 *.fullstacklogan.live CNAME .
 gaysi.live CNAME .
 *.gaysi.live CNAME .
+gcrs.live CNAME .
+*.gcrs.live CNAME .
 gems-hunters-verified-url.live CNAME .
 *.gems-hunters-verified-url.live CNAME .
 get-rude-boutique.live CNAME .

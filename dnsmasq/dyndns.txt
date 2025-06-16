@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Jun 2025 12:45 UTC
-# Version: 2025.0612.1245.39
+# Last modified: 16 Jun 2025 12:07 UTC
+# Version: 2025.0616.1207.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1481
+# Number of entries: 1482
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -493,6 +493,7 @@ local=/est-le-patron.com/
 local=/est-mon-blogueur.com/
 local=/eth64.de/
 local=/etitrans.com/
+local=/etowns.net/
 local=/etowns.org/
 local=/eurotank.ro/
 local=/eva.hk/

@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 15 Jun 2025 22:42 UTC
-! Version: 2025.0615.2242.32
+! Last modified: 16 Jun 2025 10:44 UTC
+! Version: 2025.0616.1044.25
 ! Syntax: AdBlock
-! Number of entries: 14668
+! Number of entries: 14721
 !
 ||01crypto.com^
 ||1001clothing.eu^
@@ -321,6 +321,7 @@
 ||alexander-veyron.de^
 ||alexasmarthomedevices.com^
 ||alfagen.info^
+||alfcasino1.com^
 ||alfdever.com^
 ||alfinanz.ch^
 ||alfonsa.de^
@@ -415,7 +416,6 @@
 ||alpenfluss.at^
 ||alpenrose-mode.com^
 ||alpenwolken.de^
-||alpexoplus.com^
 ||alphabetk.com^
 ||alphabetw.com^
 ||alphagamers.de^
@@ -698,7 +698,6 @@
 ||aquaticsportscp.com^
 ||aquavibespro.com^
 ||aquinoexpress.com^
-||arabhieen.com^
 ||arabues.de^
 ||arachnoworld.shop^
 ||arachnoworldeur.shop^
@@ -2156,7 +2155,6 @@
 ||canadianhealthcarepharmacymall.com^
 ||canadianhealthncaremall.com^
 ||canadiannewstoday.com^
-||canadianpharmacyonline247.com^
 ||canaryrentalvillas.com^
 ||canaryvillavacation.com^
 ||canbeloutlet.com^
@@ -2315,7 +2313,6 @@
 ||celmak.de^
 ||cenatrix.com^
 ||centebing.com^
-||centigradey.com^
 ||centrale-trader.com^
 ||centralsport.nl^
 ||cerabone.cz^
@@ -3120,6 +3117,7 @@
 ||dbestbrands.com^
 ||dbflink.com^
 ||dbh-shopping.de^
+||dbooking.de^
 ||dbpass.de^
 ||dbrello.de^
 ||dbschnell-logistics.com^
@@ -3159,6 +3157,7 @@
 ||dealmanias.com^
 ||dealparty.nl^
 ||dealpinaverkauf.com^
+||dealster.store^
 ||deangelsport.com^
 ||deaspierhireworks.works^
 ||deaspierhireworks.xyz^
@@ -3324,6 +3323,7 @@
 ||derimoservices.com^
 ||derivainasm.com^
 ||derkaminofenhandel.de^
+||derkatzenshop.de^
 ||derkioskde.shop^
 ||dermao.com^
 ||dermodemacher.de^
@@ -3420,6 +3420,7 @@
 ||diamants-invest.com^
 ||diamix.de^
 ||diamondinvests.com^
+||diamonstore.com^
 ||diamony.com^
 ||diamsinvest.fr^
 ||dickssportdeals.shop^
@@ -3439,6 +3440,7 @@
 ||diestrumpfmacher.shop^
 ||diet-keto.info^
 ||dietdiney.com^
+||dietreviews4you.com^
 ||dietrich-garten.de^
 ||dieweltderedelsteine.com^
 ||dif-patrimoine.com^
@@ -3520,6 +3522,7 @@
 ||deinheimgartenpro.dlegwu.fit^
 ||dliene.com^
 ||dlowiegfashion.shop^
+||dm-vip.com^
 ||dmarketsale.com^
 ||dmax-shop.shop^
 ||dmbmanagement.de^
@@ -3543,6 +3546,7 @@
 ||dogzncat.com^
 ||dogzy.de^
 ||dohahotel24.com^
+||doktor-potenzmittel.shop^
 ||dolaxe.com^
 ||dolceamara.com^
 ||dolcevitashoe.com^
@@ -3709,6 +3713,7 @@
 ||dwelldome.com^
 ||dxvape.com^
 ||dynamic-store.com^
+||dynamodeal.de^
 ||dynamos.at^
 ||dyzay.com^
 ||dznrspot.com^
@@ -3729,6 +3734,7 @@
 ||eafengrowkniveshub.com^
 ||earlynoon.com^
 ||earnavioat.works^
+||earringtset.com^
 ||eartischleuchten.com^
 ||easehabits1.com^
 ||easies.de^
@@ -3748,6 +3754,7 @@
 ||eaticc.com^
 ||eatingwitha.top^
 ||eaventura.de^
+||eazzy.shop^
 ||eberhard-versand.de^
 ||eberhardt-kanzlei.de^
 ||eberwein-versand.de^
@@ -3755,6 +3762,7 @@
 ||ebikecenterltd.com^
 ||ebikesgeschaft.com^
 ||ebisushijo.com^
+||cfd.ebsmarket.org^
 ||eburpat.com^
 ||renemoney444.m.ec21.com^
 ||ecco-discount.us^
@@ -3928,6 +3936,7 @@
 ||elektrohause.com^
 ||elektroheld24.de^
 ||elektroholz.com^
+||elektromedis.com^
 ||elektronik-artikel24.com^
 ||elektronikshopping.com^
 ||elektronio.de^
@@ -3958,6 +3967,7 @@
 ||elise-schmuck.de^
 ||elisehassoun.com^
 ||elite-lawyers.eu^
+||elite-patrimoine.com^
 ||elite-real-estate.com^
 ||eliteai-t.com^
 ||elitecloth.store^
@@ -4039,6 +4049,8 @@
 ||enfunpro.com^
 ||engel-garten23.de^
 ||engeliebe.de^
+||engerer-handel.com^
+||engerer-handel.de^
 ||engineeringh.com^
 ||enginelover.com^
 ||engwe-ebike.de^
@@ -4049,7 +4061,6 @@
 ||enjoyladyfad.com^
 ||enlargeu.com^
 ||enlightenera.ltd^
-||enlightenw.com^
 ||enormous.shop^
 ||enpakide.shop^
 ||enrichor.com^
@@ -4064,6 +4075,7 @@
 ||entornobanoeseur.shop^
 ||entrancet.com^
 ||entruempelungsexperten.at^
+||entrustjewelry.com^
 ||entrypisode.com^
 ||entsaftermarkt.com^
 ||entzueck-end.de^
@@ -4314,11 +4326,13 @@
 ||expeditionm.com^
 ||expensiveg.com^
 ||expert-re.com^
+||explicitcargo.com^
 ||explicitp.com^
 ||expochains.com^
 ||expogoodet.shop^
 ||expositioy.com^
 ||expres-store.com^
+||express-inv.com^
 ||expresstools.eu^
 ||expresuf.com^
 ||exptecheur.shop^
@@ -4335,6 +4349,7 @@
 ||extshginm.com^
 ||exzellenzware.com^
 ||eyekonikeyewear.de^
+||eyewearandframes.com^
 ||ezbuyremedieshere24.com^
 ||ezelgalabau.de^
 ||ezmarkets.io^
@@ -4358,6 +4373,7 @@
 ||factory-glasses.com^
 ||factory2021.ru^
 ||eoutlet.factory2024salescheap.com^
+||factorystore24.com^
 ||facyline.de^
 ||fadenburg-mode.de^
 ||fadfootdeal.com^
@@ -4379,7 +4395,9 @@
 ||fahrraddeneurabatt.com^
 ||fahrradgps-shop.com^
 ||fahrradhandel-behrendt.de^
+||fahrradhandel-hartmann.de^
 ||fahrradhandel-kappler.de^
+||fahrradhandel-kramer.de^
 ||fahrradhandel-richter.de^
 ||fahrradhandel-stanke.de^
 ||fahrradhelden.com^
@@ -4404,6 +4422,8 @@
 ||fahrradzubehors-de.com^
 ||fahrradzubehorschritte.com^
 ||fahrradzubehorverkauf.com^
+||fahrschulagenten.de^
+||fahrzeugkomfort.de^
 ||fahrzeugprada.de^
 ||failux.com^
 ||fair-praesente.de^
@@ -4573,12 +4593,12 @@
 ||ferplastverkaufe.com^
 ||ferragensmineira.com^
 ||ferrun.shop^
-||festberg.com^
 ||festgeld724.de^
 ||festgelder-eu.com^
 ||festivaldefrente.com^
 ||festoolz.shop^
 ||feststehendemesserde.com^
+||festzins.online^
 ||fetishmegastore.com^
 ||fettverbrenneronline.com^
 ||feuerwehr-vehlen.de^
@@ -4610,7 +4630,9 @@
 ||fr.finaguide.com^
 ||financial-broker.com^
 ||financialbinary.com^
+||financialexpressbank.com^
 ||financien-krediet.nl^
+||financiere-dainville.com^
 ||financiere-haussmann.com^
 ||financieredsbg.com^
 ||financiereplh.com^
@@ -4621,6 +4643,7 @@
 ||finanzwelt.pro^
 ||finasport.de^
 ||finaxanlage.de^
+||finchmarkets.com^
 ||find-persons.com^
 ||findedeinrad.de^
 ||finders-cafe.de^
@@ -4663,6 +4686,7 @@
 ||fishing-goods.com^
 ||fishingjandh.com^
 ||fishingonsales.com^
+||fishtrove.com^
 ||fit-culture.de^
 ||fit-perfect.de^
 ||fitandelite.com^
@@ -4710,6 +4734,7 @@
 ||flashsalesport.com^
 ||flashum.com^
 ||flashy-tech.de^
+||flaviorossi.de^
 ||flavourg.com^
 ||flawlessshoes.com^
 ||fleecie.ch^
@@ -4731,6 +4756,7 @@
 ||flipeak.com^
 ||flipflix.de^
 ||flipperzero.at^
+||fliptfeets.net^
 ||flixway.de^
 ||floatruten.com^
 ||flolyea.com^
@@ -4752,6 +4778,7 @@
 ||flwoertime.de^
 ||flyfishing-sale.com^
 ||flyhighshop.de^
+||flylondonschuhe.de^
 ||flylondonshoesus.com^
 ||flylondonvienna.at^
 ||flyturkmenistanairlines.eu^
@@ -4769,6 +4796,7 @@
 ||foldersys.shop^
 ||foldingboxesstore.com^
 ||foldinglockshop.com^
+||folioflare.com^
 ||followeron.com^
 ||followintg.com^
 ||followjetzt.at^
@@ -4785,6 +4813,7 @@
 ||footjoygolfshoesuk.com^
 ||footjoyjapan.net^
 ||footjoyosterreich.at^
+||footjoyoutletfactory.us^
 ||footjoyoutletmexico.com^
 ||footjoysaleaustralias.com^
 ||footjoysuomi.com^
@@ -4792,6 +4821,7 @@
 ||footwearpickleball.com^
 ||foquee.com^
 ||foraard.com^
+||forceduprofit.com^
 ||forcefelle.com^
 ||forchock-sarl.com^
 ||de.fordeals24.com^
@@ -4808,6 +4838,7 @@
 ||forextradition.com^
 ||forkglad.com^
 ||formalot.com^
+||formanacupuncture.com^
 ||formationy.com^
 ||formo-handel24.de^
 ||formsmarthome.de^
@@ -4894,6 +4925,7 @@
 ||freizeitjackensalesshop.com^
 ||freliva.de^
 ||frenchbulldog.store^
+||frenchjobs.xyz^
 ||frendorf.de^
 ||frenzyfoodie.com^
 ||frequencyl.com^
@@ -4901,6 +4933,7 @@
 ||fresellaet.best^
 ||freshhoods.com^
 ||freshmarkt24.com^
+||fressnapfs.shop^
 ||frettchen-fun.de^
 ||freud-tool.com^
 ||freuden-berg.de^
@@ -4911,6 +4944,7 @@
 ||frieda-taschen.de^
 ||friedaskitchen.de^
 ||friedberg-mode.de^
+||friedrich-betz.de^
 ||friedrich-modehaus.de^
 ||friedrich-motorenundersatzteile.de^
 ||friendlyk.com^
@@ -4991,6 +5025,7 @@
 ||fvkiwanis.org^
 ||fx-vantage.com^
 ||fxandco.com^
+||fxassetgrowthhub.com^
 ||fxcapitalbank.com^
 ||fxcast.com^
 ||fxcm-group.io^
@@ -5001,6 +5036,7 @@
 ||fxwinning.net^
 ||fxwinning.pro^
 ||fybitug.de^
+||fyregaming.com^
 ||fyssea.com^
 ||fzjewelry.com^
 ||g-shop.at^
@@ -5117,7 +5153,6 @@
 ||shop.garten-forst-technik-demmel.de^
 ||garten-freunde24.de^
 ||garten-frische.de^
-||garten-heimwerken.com^
 ||garten-see.de^
 ||garten-sommer.de^
 ||garten-steckby.de^
@@ -5137,6 +5172,7 @@
 ||gartendekoprada.de^
 ||gartendo.de^
 ||gartenecke24.de^
+||gartenexperte.at^
 ||gartenflamme24.de^
 ||gartenfreunde-murrhardt.de^
 ||gartengeraete-shop.de^
@@ -5148,6 +5184,7 @@
 ||gartenlands.com^
 ||gartenlandschaftladen.com^
 ||gartenmachtshop.de^
+||gartenmaher.com^
 ||gartenmaschinen-arbeitsgerate.shop^
 ||gartenmotorgerate.com^
 ||gartenpflegeshop.com^
@@ -5226,6 +5263,7 @@
 ||gentlemanmode.de^
 ||gentlewing.de^
 ||gentor.de^
+||genuine-asset.org^
 ||genuiney.com^
 ||genussfaktor.com^
 ||geo-garten24.de^
@@ -5258,6 +5296,7 @@
 ||geoxuruguay.com^
 ||geqimo.com^
 ||gerbaodan.com^
+||gerda-weiss.at^
 ||gerdetect.de^
 ||gerhard-goerke-finanzberatung.com^
 ||gerhard-tremmel.de^
@@ -5302,6 +5341,7 @@
 ||gesunde-lebensweise.com^
 ||gesundeswelpenhaus.de^
 ||gesundheit-wohlbefinden.com^
+||gesundheitapotheke.de^
 ||gesundheits-apo.com^
 ||gesundheitskontrolle.com^
 ||get-adel.de^
@@ -5370,6 +5410,7 @@
 ||giftwarehome.com^
 ||gigachains.com^
 ||gilbert-onlinehandel.de^
+||gileng.com^
 ||gillne.de^
 ||gilltry.com^
 ||gimbowl.com^
@@ -5407,6 +5448,7 @@
 ||glassesde.com^
 ||glassesify.com^
 ||glassesstoreshop.com^
+||gleamoramunchen.de^
 ||glemory.com^
 ||gletta.com^
 ||glindo.de^
@@ -5474,6 +5516,7 @@
 ||goldblackde.shop^
 ||goldcapital24.com^
 ||golddinar.fr^
+||golden-bank.com^
 ||golden-goose.at^
 ||golden-outlet.de^
 ||golden-re.com^
@@ -5482,13 +5525,16 @@
 ||goldengoosess.shop^
 ||goldenheartsjewelry.shop^
 ||goldenpassmedia.com^
+||goldhandel-degussa.com^
 ||goldhandel-degussa.de^
 ||goldhandel-heute.de^
 ||goldhandel-kauf.de^
+||goldhandel-testsieger.de^
 ||goldingdigital.net^
 ||goldman-capital.com^
 ||goldofficemaster.com^
 ||goldpromocoes.com^
+||goldreward.io^
 ||goldscheideanstalt-seit1970.de^
 ||de.goldsea.es^
 ||shop.goldsea.es^
@@ -5544,6 +5590,7 @@
 ||gore-zone.de^
 ||goreweardeutschland.de^
 ||gorgeousn.com^
+||gorobo.de^
 ||gosmartwatch.de^
 ||gothictot.com^
 ||gothimmes.com^
@@ -5609,6 +5656,7 @@
 ||grillausrustung.com^
 ||grillen-shop.com^
 ||grilles.de^
+||grillflix.de^
 ||grillfuerstde.com^
 ||grillfuerstshop.com^
 ||grillprove.top^
@@ -5734,6 +5782,7 @@
 ||gymiva.com^
 ||gymnasiumk.com^
 ||gymnastik-schuhe.de^
+||gymonefit.com^
 ||gymshark-italia.com^
 ||gymshark-no.com^
 ||gymshark-osterreich.at^
@@ -5815,6 +5864,7 @@
 ||handwerkspark.com^
 ||handwerkzeugshop.com^
 ||handygearstore.com^
+||handyhullekaufen.de^
 ||handylernen.com^
 ||handylocate.com^
 ||handyorten.de^
@@ -5893,6 +5943,7 @@
 ||haushaltonline.com^
 ||haushaltsheld.com^
 ||haushaltskoenig.de^
+||haushaltsmarket.de^
 ||haushaltsproduktede.com^
 ||haushaltsreich.de^
 ||hausheizer.de^
@@ -5902,6 +5953,7 @@
 ||hauspfoten.de^
 ||hausprodukte.store^
 ||haustechnik-muenchen.de^
+||haustechnikmeine.de^
 ||haustiererabatt.com^
 ||haustiereshop.com^
 ||haustierparadiesde.shop^
@@ -5928,6 +5980,7 @@
 ||healing-rock.de^
 ||healray.de^
 ||healthcarebanker.com^
+||healthful-online.com^
 ||healthful-pills.com^
 ||healthlifereport.com^
 ||healthmastermarket.com^
@@ -6035,6 +6088,7 @@
 ||heizoeldirekt.com^
 ||heizoelguru.de^
 ||heizoeljetzt.de^
+||heizoellieferung.de^
 ||heizoelonline24.com^
 ||heizoelpro.de^
 ||heizoelprofi.de^
@@ -6065,6 +6119,7 @@
 ||helcena-laurcents.shop^
 ||heldenkindde.shop^
 ||heldholz.com^
+||helestyle.com^
 ||helevent-munchen.com^
 ||helgawelpenhaus.com^
 ||helikontexoutdoor.com^
@@ -6109,6 +6164,7 @@
 ||heningclothing.com^
 ||henleyschic.com^
 ||henleysstorehouse.com^
+||hennkel.de^
 ||henryo.de^
 ||henworld.shop^
 ||henzelt.de^
@@ -6191,6 +6247,7 @@
 ||hippouchsales.com^
 ||hire-online.de^
 ||hire-pro-de.click^
+||hire-pro-de.xyz^
 ||hirsch-express.com^
 ||hitech-shop.com^
 ||hithertoh.com^
@@ -6270,6 +6327,7 @@
 ||home-aytm.com^
 ||home-moebel.com^
 ||home-stylish.com^
+||home-tester.de^
 ||home-trend24.de^
 ||homechelsea.com^
 ||homecookies.at^
@@ -6345,6 +6403,7 @@
 ||hot-shopping.com^
 ||hotchillies.shop^
 ||hotel-brand-promotion.com^
+||hotel-ds.com^
 ||hotel-marketing-advertising.com^
 ||hotelaustralien.de^
 ||hotelectronicshop.com^
@@ -6368,6 +6427,7 @@
 ||housedreamfactory.com^
 ||householdunique.com^
 ||houseitemtop.com^
+||houseofcbdeutschland.de^
 ||housepet.top^
 ||housewareschritte.de^
 ||houtpelletsprod.com^
@@ -6382,6 +6442,7 @@
 ||hrxpackage.com^
 ||hsflogisticsgroup.com^
 ||hsk-bessel.de^
+||hsn-handel.de^
 ||hsn24.de^
 ||hsndeals.com^
 ||htdek.com^
@@ -6442,6 +6503,7 @@
 ||huntergummistiefelschweiz.net^
 ||hunteronlineshop.at^
 ||hunterregenlaarzen.com^
+||huntersstiefel.at^
 ||hunterstiefel.at^
 ||huntingfishingsale.com^
 ||hurleyshop.at^
@@ -6646,7 +6708,6 @@
 ||infinity-bank.com^
 ||infinitytrade.ltd^
 ||inflatablenshow.com^
-||info-euservice.com^
 ||info-shop-online.com^
 ||infodir.net^
 ||infodux.de^
@@ -7348,7 +7409,6 @@
 ||kolendo.de^
 ||kolfearprotection.com^
 ||kolibrin.de^
-||kolua.de^
 ||komansky.com^
 ||komarise.com^
 ||kombisteamerneu.de^
@@ -8869,7 +8929,6 @@
 ||mosano.de^
 ||moscotberlin.de^
 ||moser-handels-gmbh.de^
-||mosersale.shop^
 ||mosessions.com^
 ||mosherrypills.com^
 ||mosmankoch.at^
@@ -9493,6 +9552,7 @@
 ||obstkistefreiburg.shop^
 ||ocayo.de^
 ||occasionak.com^
+||occasionk.com^
 ||ochsner-agrarhandel.com^
 ||ocinboutique.de^
 ||octa-trade.com^
@@ -9658,6 +9718,7 @@
 ||onlinekamagrastore.org^
 ||onlinekmnwi.com^
 ||onlinekuche.com^
+||app.onlinelebenslauf.com^
 ||onlinemaripe.com^
 ||onlinemotorrad.com^
 ||onlineoutletie.cc^
@@ -9871,7 +9932,6 @@
 ||outletbodycare.com^
 ||outletchristmasgifts.com^
 ||outletdance.com^
-||outletdegap.de^
 ||outletesprit.com^
 ||outletfish.com^
 ||outletheaters.com^
@@ -10494,6 +10554,7 @@
 ||proven-property.com^
 ||provenxperts.com^
 ||proveri.de^
+||providedes.com^
 ||proximitye.com^
 ||proximityi.com^
 ||prozess-profi.de^
@@ -11178,7 +11239,6 @@
 ||safir.com^
 ||sagaenterprizes.com^
 ||sagenverkauf.com^
-||saint-blanc.com^
 ||saintjamesireland.com^
 ||saintjamesoutlet.at^
 ||sakaziq.com^
@@ -11202,7 +11262,6 @@
 ||saleforoutdoor.com^
 ||salegermaniatools.com^
 ||salehomeus.com^
-||saleladyfad.com^
 ||salelanawelpen.de^
 ||salelovesilver.com^
 ||salemaeet.pics^
@@ -11292,7 +11351,6 @@
 ||sanukschuhe.de^
 ||sanuksuomi.net^
 ||saopauloautopeca.com^
-||saphirvogel.de^
 ||sapientfinancial.ltd^
 ||sara-berlin.com^
 ||sarahravengb.com^
@@ -12093,7 +12151,6 @@
 ||sportsfabrik.net^
 ||sportsgolfsale.com^
 ||sportshoka.com^
-||sportstech.at^
 ||sportster-fitness.com^
 ||sportsvital.de^
 ||sportswearpaired.com^
@@ -12134,7 +12191,6 @@
 ||stablegrowthexchange.com^
 ||stadtmode.com^
 ||stadtplan-local.com^
-||stadtrand.store^
 ||stahlwandpoolde.com^
 ||stalloneinnovations.com^
 ||stamer-hofmann.de^
@@ -12748,7 +12804,6 @@
 ||test-iq-online.com^
 ||test4.com^
 ||testative.com^
-||testcortiy.com^
 ||testomedstore.com^
 ||testorino.de^
 ||tetherc.com^
@@ -12766,7 +12821,6 @@
 ||teveoaustria.at^
 ||teveogermany.com^
 ||teveoosterreich.at^
-||teveoshopsdeutschland.com^
 ||textilesdaily.com^
 ||teylorfashion.de^
 ||tez-sonido.com^
@@ -13869,7 +13923,6 @@
 ||viva-stores.com^
 ||vivabestvs.best^
 ||vivaiabuty.pl^
-||vivaiacollection.com^
 ||vivaiaschuhe.at^
 ||vivaiaschuhe.com^
 ||vivaiaschuhe.de^

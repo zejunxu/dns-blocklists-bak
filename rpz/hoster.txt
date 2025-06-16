@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750027380 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750070700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Jun 2025 22:43 UTC
-; Version: 2025.0615.2243.57
+; Last modified: 16 Jun 2025 10:45 UTC
+; Version: 2025.0616.1045.52
 ; Syntax: RPZ
-; Number of entries: 4296
+; Number of entries: 4298
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -291,8 +291,6 @@ duanwenzi.cn CNAME .
 *.duanwenzi.cn CNAME .
 guzhibo.cn CNAME .
 *.guzhibo.cn CNAME .
-tqhmu.cn CNAME .
-*.tqhmu.cn CNAME .
 vxwezsp.cn CNAME .
 *.vxwezsp.cn CNAME .
 webnode.cn CNAME .
@@ -1273,6 +1271,8 @@ huicopper.com CNAME .
 *.huicopper.com CNAME .
 humor-blog.com CNAME .
 *.humor-blog.com CNAME .
+hyderabadadda.com CNAME .
+*.hyderabadadda.com CNAME .
 hyip.com CNAME .
 *.hyip.com CNAME .
 hyperphp.com CNAME .
@@ -3259,6 +3259,8 @@ freeforums.net CNAME .
 *.freeforums.net CNAME .
 freehosting.net CNAME .
 *.freehosting.net CNAME .
+freezoka.net CNAME .
+*.freezoka.net CNAME .
 getblogs.net CNAME .
 *.getblogs.net CNAME .
 getenjoyment.net CNAME .

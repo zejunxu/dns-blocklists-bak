@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Jun 2025 22:43 UTC
-# Version: 2025.0615.2243.57
+# Last modified: 16 Jun 2025 10:45 UTC
+# Version: 2025.0616.1045.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2148
+# Number of entries: 2149
 #
 local=/000a.de/
 local=/000free.us/
@@ -1045,6 +1045,7 @@ local=/freewebspace.com/
 local=/freewebstore.com/
 local=/freewebtools.com/
 local=/freewha.com/
+local=/freezoka.net/
 local=/freightinternationalservices.com/
 local=/frenchboard.com/
 local=/freshmember.com/
@@ -1176,6 +1177,7 @@ local=/humor-blog.com/
 local=/hund.in/
 local=/hundredtrue.shop/
 local=/hupont.hu/
+local=/hyderabadadda.com/
 local=/hyip.com/
 local=/hyperphp.com/
 local=/i.gp/
@@ -1862,7 +1864,6 @@ local=/topbloghub.com/
 local=/total-blog.com/
 local=/totalh.net/
 local=/ftp.totallyanonymous.com/
-local=/tqhmu.cn/
 local=/tr.gg/
 local=/tr.gp/
 local=/trackfinanceworld.com/

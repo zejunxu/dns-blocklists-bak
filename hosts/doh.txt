@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jun 2025 00:07 UTC
-# Version: 2025.0616.0007.28
+# Last modified: 16 Jun 2025 12:08 UTC
+# Version: 2025.0616.1208.13
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1603
+# Number of entries: 1608
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -414,6 +414,10 @@
 0.0.0.0 dns.dns-53.uk
 0.0.0.0 dns.dns-53.us
 0.0.0.0 dns-free.link
+0.0.0.0 dns1.dns-ga.de
+0.0.0.0 dns2.dns-ga.de
+0.0.0.0 dns3.dns-ga.de
+0.0.0.0 doh.dns-ga.de
 0.0.0.0 secure-dns.dns-ga.de
 0.0.0.0 dns.dns-over-https.com
 0.0.0.0 dns0.eu
@@ -608,6 +612,7 @@
 0.0.0.0 dukun.de
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
+0.0.0.0 resolver1.dyndnsinternetguide.com
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
@@ -620,7 +625,6 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
-0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -664,7 +668,6 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
-0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
@@ -1022,6 +1025,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
@@ -1147,6 +1151,7 @@
 0.0.0.0 dns.odinpl.com
 0.0.0.0 dns.ofdoom.net
 0.0.0.0 okado.online
+0.0.0.0 dns.olpploiopkuyhiopsfrt.info
 0.0.0.0 adguard.oms-ctr.ru
 0.0.0.0 one.one.one.one
 0.0.0.0 doh.onedns.net

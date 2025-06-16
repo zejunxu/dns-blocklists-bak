@@ -575,3 +575,4 @@ tracker.testbook.com
 # Misc
 kaching-bundles-stats-50cc8a504c1c.herokuapp.com
 amplitude-event-log.personio.de
+rum.personio.de
