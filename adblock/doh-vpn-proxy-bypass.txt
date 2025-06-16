@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 16 Jun 2025 12:08 UTC
-! Version: 2025.0616.1208.42
+! Last modified: 16 Jun 2025 15:40 UTC
+! Version: 2025.0616.1540.06
 ! Syntax: AdBlock
-! Number of entries: 4783
+! Number of entries: 4797
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -396,6 +396,7 @@
 ||dns.b612.me^
 ||dns.b72.com^
 ||baconmania.click^
+||bookpog.bad.mn^
 ||westhamforever.bad.mn^
 ||purchase.badrag.net^
 ||veryvery.badrag.net^
@@ -1025,6 +1026,7 @@
 ||friedeggs.dagmaar.com^
 ||dns.dallinbryce.com^
 ||danhcan.top^
+||danielrcrawfordfanpage.danielrcrawford.com^
 ||dns.home.daniil.it^
 ||adguard.dantynes.cyou^
 ||darknet.to^
@@ -1351,6 +1353,7 @@
 ||educationdean.us^
 ||adguard.ef67daisuki.club^
 ||tor.eff.org^
+||dns.efficientdocuments.com^
 ||scifi0.eigenlicht.us^
 ||hole.elbschloss.xyz^
 ||elearning.electronicajck.com^
@@ -1397,7 +1400,6 @@
 ||armorrush.eu.org^
 ||dns.fullaccesstointernet.jp.eu.org^
 ||dns.mayx.eu.org^
-||arashi.net.eu.org^
 ||rammerhead.eu.org^
 ||sukidayo.eu.org^
 ||eurproxy.com^
@@ -1502,6 +1504,7 @@
 ||fishproxy.com^
 ||fitnessdepotprices.com^
 ||fixproxy.com^
+||dns.fizz.studio^
 ||gothgirlsareawesome.flamex.hm^
 ||flarquix.xyz^
 ||flashpull.com^
@@ -1509,6 +1512,7 @@
 ||flashputon.net^
 ||flashvpn.li^
 ||dns.flatuslifir.is^
+||abdulv2.flazzard.com^
 ||vps.fleuryk.ovh^
 ||dns.flightspace.net^
 ||dns01.flm9.net^
@@ -1648,6 +1652,7 @@
 ||zxyp.02.garmanage.com^
 ||gas.education^
 ||gatcha.org^
+||myincredibleweightlossjounrney.gblandscape.com^
 ||gecko.fun^
 ||geckovpn.xyz^
 ||geekproxy.com^
@@ -1918,6 +1923,7 @@
 ||homevpn.info^
 ||homevpn.org^
 ||homeworkhelp.click^
+||7aisfulloftalent.hondascooterparts.com^
 ||honeygain.me^
 ||dns.hoody.com^
 ||schoolmath.hop.sh^
@@ -1998,6 +2004,7 @@
 ||youreagoodmanarthurmorgan.ignorelist.com^
 ||dns.ihaveacloud.com^
 ||hellotaka.iiiii.info^
+||yozora.iiiii.info^
 ||iij.jp^
 ||ikarosalpha.xyz^
 ||dns.ikataruto.com^
@@ -2060,9 +2067,11 @@
 ||ipchanging.com^
 ||ipfreely.io^
 ||ipinator.com^
+||iplama.com^
 ||iportal.me^
 ||ipprotectionauth.goog^
 ||ipredator.se^
+||iprivatevpn.com^
 ||iprovpn.com^
 ||iproyal.com^
 ||ipsharkk.com^
@@ -2076,6 +2085,7 @@
 ||c.is-very.fun^
 ||d.is-very.fun^
 ||dns.is0mino.com^
+||tylerknowskungfu.isageek.net^
 ||mickedi.isgood.host^
 ||dns.ishan.pw^
 ||ishark.com^
@@ -2332,6 +2342,7 @@
 ||limevpn.com^
 ||limitlessproxy.com^
 ||silly.lindhesidan.se^
+||yozora.lindhesidan.se^
 ||theman.lingxi-ai.net^
 ||www-pa.linkall.uk^
 ||linkideo.com^
@@ -2616,7 +2627,6 @@
 ||area51.mywire.org^
 ||fwgw.orangepipc.mywire.org^
 ||mzhlhrfr8z.info^
-||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||n0.eu^
 ||dns.n23.io^
@@ -2926,6 +2936,7 @@
 ||proxy.ordentlichbreit.de^
 ||learning.orestpena.com^
 ||resolver.dnsprivacy.org.uk^
+||oliverdiepiogreedycheckers.sponsorafuture.org.uk^
 ||dns.oryxlabs.com^
 ||os4work.com^
 ||edu.osobi.ro^
@@ -3384,6 +3395,7 @@
 ||boxcat.radio-zvez.info^
 ||radmin-vpn.com^
 ||radmin-vpn.org^
+||7afootball.rainbowcup.com^
 ||ns.ral9005.org^
 ||rapidprivacy.com^
 ||rapidproxy.org^
@@ -3616,6 +3628,7 @@
 ||fair-hawk-609.shuttlemath.com^
 ||fair-lake-387.shuttlemath.com^
 ||deep-hawk-892.shuttleproxy.com^
+||sical.s.ical.sic.al^
 ||doh.sidnlabs.nl^
 ||pigs.siglent.ru^
 ||dns.silen.org^
@@ -4114,6 +4127,7 @@
 ||dns.twnic.tw^
 ||twoproxy.net^
 ||adguard.twotigers.xyz^
+||rammerheadisok.tx2600.net^
 ||dns.txq.life^
 ||typaza.com^
 ||typeracer.gq^
@@ -4634,6 +4648,7 @@
 ||pirate.wildsurf.net^
 ||windscribe.com^
 ||windscribe.net^
+||thirteen13.windsormetalbattery.com^
 ||buy.wine-software.com^
 ||use.winterhouse.info^
 ||wireguard.com^
@@ -4772,7 +4787,6 @@
 ||cheifsarebad.zenrelax.ro^
 ||zenrows.com^
 ||zenvpn.net^
-||doh.zephyrus.id^
 ||adguard-kartoffel.zernico.de^
 ||zerotier.com^
 ||zerotunnel.com^

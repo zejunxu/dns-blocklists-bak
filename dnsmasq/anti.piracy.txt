@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jun 2025 12:03 UTC
-# Version: 2025.0616.1203.49
+# Last modified: 16 Jun 2025 15:35 UTC
+# Version: 2025.0616.1535.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10083
+# Number of entries: 10089
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -4445,6 +4445,7 @@ local=/ikkyonline.com/
 local=/iktin.ru/
 local=/ikwilthepiratebay.org/
 local=/ilcorsaronero.info/
+local=/ilcorsaronero.link/
 local=/ilefilms.com/
 local=/ilf.net/
 local=/ilgeniodellostreaming.bar/
@@ -4482,6 +4483,7 @@ local=/ilgeniodellostreaming.mom/
 local=/ilgeniodellostreaming.monster/
 local=/ilgeniodellostreaming.net/
 local=/ilgeniodellostreaming.org/
+local=/ilgeniodellostreaming.party/
 local=/ilgeniodellostreaming.pics/
 local=/ilgeniodellostreaming.pictures/
 local=/ilgeniodellostreaming.pl/
@@ -4603,6 +4605,7 @@ local=/iptvcanarias.tv/
 local=/iptvonly.tv/
 local=/iptvprova.com/
 local=/iptvsource.com/
+local=/iptvstream.tv/
 local=/tracker.ipv6tracker.org/
 local=/tracker.ipv6tracker.ru/
 local=/download.iq24.pl/
@@ -4664,6 +4667,7 @@ local=/italia-film.ws/
 local=/italiafilm.fun/
 local=/italiaserie.cc/
 local=/itcnbd.com/
+local=/itmn.org/
 local=/itnetzone.com/
 local=/itoma.info/
 local=/itorrent.tv/
@@ -4684,6 +4688,7 @@ local=/izofile.com/
 local=/t.jaekr.sh/
 local=/jagobd.com/
 local=/jakartarestaurant.com/
+local=/jakianetbd.com/
 local=/jalshaghor.com/
 local=/jamendo.com/
 local=/jamez.org/
@@ -4788,6 +4793,7 @@ local=/kat.li/
 local=/kat.ph/
 local=/kat.rip/
 local=/kat.to/
+local=/katastrofa.com/
 local=/katcr.to/
 local=/katfile.com/
 local=/kati3kat.tube/

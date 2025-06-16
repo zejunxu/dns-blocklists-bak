@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750075680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750088400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Jun 2025 12:08 UTC
-; Version: 2025.0616.1208.42
+; Last modified: 16 Jun 2025 15:40 UTC
+; Version: 2025.0616.1540.06
 ; Syntax: RPZ
-; Number of entries: 9566
+; Number of entries: 9594
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -30,6 +30,8 @@ nodepay.ai CNAME .
 *.nodepay.ai CNAME .
 next.rinet.ai CNAME .
 *.next.rinet.ai CNAME .
+sical.s.ical.sic.al CNAME .
+*.sical.s.ical.sic.al CNAME .
 onion.am CNAME .
 *.onion.am CNAME .
 proxy.am CNAME .
@@ -1518,6 +1520,8 @@ friedeggs.dagmaar.com CNAME .
 *.friedeggs.dagmaar.com CNAME .
 dns.dallinbryce.com CNAME .
 *.dns.dallinbryce.com CNAME .
+danielrcrawfordfanpage.danielrcrawford.com CNAME .
+*.danielrcrawfordfanpage.danielrcrawford.com CNAME .
 proxy.darkvpn.com CNAME .
 *.proxy.darkvpn.com CNAME .
 plans.datacommunicationsinc.com CNAME .
@@ -1662,6 +1666,8 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -1744,6 +1750,8 @@ fixproxy.com CNAME .
 *.fixproxy.com CNAME .
 flashpull.com CNAME .
 *.flashpull.com CNAME .
+abdulv2.flazzard.com CNAME .
+*.abdulv2.flazzard.com CNAME .
 flowvpn.com CNAME .
 *.flowvpn.com CNAME .
 dns.flwagners.com CNAME .
@@ -1870,6 +1878,8 @@ vocab.sage.garagepig.com CNAME .
 *.vocab.sage.garagepig.com CNAME .
 zxyp.02.garmanage.com CNAME .
 *.zxyp.02.garmanage.com CNAME .
+myincredibleweightlossjounrney.gblandscape.com CNAME .
+*.myincredibleweightlossjounrney.gblandscape.com CNAME .
 geekproxy.com CNAME .
 *.geekproxy.com CNAME .
 genmirror.com CNAME .
@@ -2082,6 +2092,8 @@ holavpnworld.com CNAME .
 *.holavpnworld.com CNAME .
 homeproxy.com CNAME .
 *.homeproxy.com CNAME .
+7aisfulloftalent.hondascooterparts.com CNAME .
+*.7aisfulloftalent.hondascooterparts.com CNAME .
 dns.hoody.com CNAME .
 *.dns.hoody.com CNAME .
 dns.internal.hosmatic.com CNAME .
@@ -2212,6 +2224,10 @@ ipchanging.com CNAME .
 *.ipchanging.com CNAME .
 ipinator.com CNAME .
 *.ipinator.com CNAME .
+iplama.com CNAME .
+*.iplama.com CNAME .
+iprivatevpn.com CNAME .
+*.iprivatevpn.com CNAME .
 iprovpn.com CNAME .
 *.iprovpn.com CNAME .
 iproyal.com CNAME .
@@ -2598,8 +2614,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -3122,6 +3136,8 @@ dns.api.rackspacecloud.com CNAME .
 *.dns.api.rackspacecloud.com CNAME .
 radmin-vpn.com CNAME .
 *.radmin-vpn.com CNAME .
+7afootball.rainbowcup.com CNAME .
+*.7afootball.rainbowcup.com CNAME .
 rapidprivacy.com CNAME .
 *.rapidprivacy.com CNAME .
 rapidvpn.com CNAME .
@@ -4022,6 +4038,8 @@ wiksa.com CNAME .
 *.wiksa.com CNAME .
 windscribe.com CNAME .
 *.windscribe.com CNAME .
+thirteen13.windsormetalbattery.com CNAME .
+*.thirteen13.windsormetalbattery.com CNAME .
 buy.wine-software.com CNAME .
 *.buy.wine-software.com CNAME .
 wireguard.com CNAME .
@@ -4970,8 +4988,6 @@ doh.this.web.id CNAME .
 *.doh.this.web.id CNAME .
 munfe.ro.wawan.web.id CNAME .
 *.munfe.ro.wawan.web.id CNAME .
-doh.zephyrus.id CNAME .
-*.doh.zephyrus.id CNAME .
 doh.iucc.ac.il CNAME .
 *.doh.iucc.ac.il CNAME .
 ag.hostme.co.il CNAME .
@@ -5146,6 +5162,8 @@ iblocker.info CNAME .
 *.iblocker.info CNAME .
 hellotaka.iiiii.info CNAME .
 *.hellotaka.iiiii.info CNAME .
+yozora.iiiii.info CNAME .
+*.yozora.iiiii.info CNAME .
 interncloud.info CNAME .
 *.interncloud.info CNAME .
 iweb365.info CNAME .
@@ -5912,6 +5930,8 @@ dns.stvsk.ml CNAME .
 *.dns.stvsk.ml CNAME .
 notfound-google.404.mn CNAME .
 *.notfound-google.404.mn CNAME .
+bookpog.bad.mn CNAME .
+*.bookpog.bad.mn CNAME .
 westhamforever.bad.mn CNAME .
 *.westhamforever.bad.mn CNAME .
 hide.mn CNAME .
@@ -6544,6 +6564,8 @@ doh.infracell.net CNAME .
 *.doh.infracell.net CNAME .
 ipbuzz.net CNAME .
 *.ipbuzz.net CNAME .
+tylerknowskungfu.isageek.net CNAME .
+*.tylerknowskungfu.isageek.net CNAME .
 isityet.net CNAME .
 *.isityet.net CNAME .
 pdns.itxe.net CNAME .
@@ -7026,6 +7048,8 @@ learninghub.tuumin.net CNAME .
 *.learninghub.tuumin.net CNAME .
 twoproxy.net CNAME .
 *.twoproxy.net CNAME .
+rammerheadisok.tx2600.net CNAME .
+*.rammerheadisok.tx2600.net CNAME .
 ubint.net CNAME .
 *.ubint.net CNAME .
 debate.major.ulrik.net CNAME .
@@ -7548,8 +7572,6 @@ dns.fullaccesstointernet.jp.eu.org CNAME .
 *.dns.fullaccesstointernet.jp.eu.org CNAME .
 dns.mayx.eu.org CNAME .
 *.dns.mayx.eu.org CNAME .
-arashi.net.eu.org CNAME .
-*.arashi.net.eu.org CNAME .
 rammerhead.eu.org CNAME .
 *.rammerhead.eu.org CNAME .
 sukidayo.eu.org CNAME .
@@ -8556,6 +8578,8 @@ ipredator.se CNAME .
 *.ipredator.se CNAME .
 silly.lindhesidan.se CNAME .
 *.silly.lindhesidan.se CNAME .
+yozora.lindhesidan.se CNAME .
+*.yozora.lindhesidan.se CNAME .
 notes.books.nexum.se CNAME .
 *.notes.books.nexum.se CNAME .
 nunc.se CNAME .
@@ -8720,6 +8744,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -8978,6 +9004,8 @@ dns.aa.net.uk CNAME .
 *.dns.aa.net.uk CNAME .
 resolver.dnsprivacy.org.uk CNAME .
 *.resolver.dnsprivacy.org.uk CNAME .
+oliverdiepiogreedycheckers.sponsorafuture.org.uk CNAME .
+*.oliverdiepiogreedycheckers.sponsorafuture.org.uk CNAME .
 princez.uk CNAME .
 *.princez.uk CNAME .
 unblockit.uno CNAME .

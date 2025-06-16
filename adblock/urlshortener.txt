@@ -12,10 +12,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 16 Jun 2025 10:46 UTC
-! Version: 2025.0616.1046.14
+! Last modified: 16 Jun 2025 14:22 UTC
+! Version: 2025.0616.1422.42
 ! Syntax: AdBlock
-! Number of entries: 5918
+! Number of entries: 5922
 !
 ||0.gp^
 ||00oo.lol^
@@ -2245,6 +2245,7 @@
 ||iii.hm^
 ||iii.im^
 ||iiiii.in^
+||iiil.io^
 ||iikzi.top^
 ||iiwap.top^
 ||ijg.cc^
@@ -2336,6 +2337,7 @@
 ||isc-vn.com^
 ||isc-vn.org^
 ||iscool.net^
+||ishortify.com^
 ||isols.co^
 ||isot2024.live^
 ||istiqomahisti7.life^
@@ -2362,6 +2364,7 @@
 ||iurl.one^
 ||iurl.us^
 ||iuu.ro^
+||iwo.ir^
 ||iwr.link^
 ||ix.sk^
 ||iyc.life^
@@ -2389,6 +2392,7 @@
 ||japkq.com^
 ||javadocs.org^
 ||jaw.gg^
+||jaygo.xyz^
 ||jb.gg^
 ||jbqdo.com^
 ||go.jc.fm^

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750070760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750083720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Jun 2025 10:46 UTC
-; Version: 2025.0616.1046.14
+; Last modified: 16 Jun 2025 14:22 UTC
+; Version: 2025.0616.1422.42
 ; Syntax: RPZ
-; Number of entries: 11836
+; Number of entries: 11844
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2252,6 +2252,8 @@ iplogger.com CNAME .
 *.iplogger.com CNAME .
 isc-vn.com CNAME .
 *.isc-vn.com CNAME .
+ishortify.com CNAME .
+*.ishortify.com CNAME .
 istubby.com CNAME .
 *.istubby.com CNAME .
 itp24.com CNAME .
@@ -5402,6 +5404,8 @@ ho.io CNAME .
 *.ho.io CNAME .
 hts.io CNAME .
 *.hts.io CNAME .
+iiil.io CNAME .
+*.iiil.io CNAME .
 iln.io CNAME .
 *.iln.io CNAME .
 ilnk.io CNAME .
@@ -5604,6 +5608,8 @@ amirhossein.id.ir CNAME .
 *.amirhossein.id.ir CNAME .
 ilk.ir CNAME .
 *.ilk.ir CNAME .
+iwo.ir CNAME .
+*.iwo.ir CNAME .
 khtm.ir CNAME .
 *.khtm.ir CNAME .
 lt5.ir CNAME .
@@ -11762,6 +11768,8 @@ itsmariapage.xyz CNAME .
 *.itsmariapage.xyz CNAME .
 itsmariaspage.xyz CNAME .
 *.itsmariaspage.xyz CNAME .
+jaygo.xyz CNAME .
+*.jaygo.xyz CNAME .
 kingurl.xyz CNAME .
 *.kingurl.xyz CNAME .
 kyshort.xyz CNAME .

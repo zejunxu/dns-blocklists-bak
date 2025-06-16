@@ -211,13 +211,6 @@
       }
     },
     {
-      "PK": "config-api.internet.apps.samsung.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "conn-v2.samsung.japps.cn",
       "action": {
         "do": 0,

@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jun 2025 10:46 UTC
-# Version: 2025.0616.1046.14
+# Last modified: 16 Jun 2025 14:22 UTC
+# Version: 2025.0616.1422.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5918
+# Number of entries: 5922
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -2244,6 +2244,7 @@ local=/ii1.su/
 local=/iii.hm/
 local=/iii.im/
 local=/iiiii.in/
+local=/iiil.io/
 local=/iikzi.top/
 local=/iiwap.top/
 local=/ijg.cc/
@@ -2335,6 +2336,7 @@ local=/is.gd/
 local=/isc-vn.com/
 local=/isc-vn.org/
 local=/iscool.net/
+local=/ishortify.com/
 local=/isols.co/
 local=/isot2024.live/
 local=/istiqomahisti7.life/
@@ -2361,6 +2363,7 @@ local=/iurl.dk/
 local=/iurl.one/
 local=/iurl.us/
 local=/iuu.ro/
+local=/iwo.ir/
 local=/iwr.link/
 local=/ix.sk/
 local=/iyc.life/
@@ -2388,6 +2391,7 @@ local=/janjihoki.fun/
 local=/japkq.com/
 local=/javadocs.org/
 local=/jaw.gg/
+local=/jaygo.xyz/
 local=/jb.gg/
 local=/jbqdo.com/
 local=/go.jc.fm/

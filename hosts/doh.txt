@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jun 2025 12:08 UTC
-# Version: 2025.0616.1208.13
+# Last modified: 16 Jun 2025 15:39 UTC
+# Version: 2025.0616.1539.37
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1608
+# Number of entries: 1607
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -625,6 +625,7 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
+0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -642,7 +643,6 @@
 0.0.0.0 armorrush.eu.org
 0.0.0.0 dns.fullaccesstointernet.jp.eu.org
 0.0.0.0 dns.mayx.eu.org
-0.0.0.0 arashi.net.eu.org
 0.0.0.0 sukidayo.eu.org
 0.0.0.0 dns.extrawdw.net
 0.0.0.0 fra1.eyecay.xyz
@@ -668,6 +668,7 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
+0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
@@ -1025,7 +1026,6 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
-0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
@@ -1612,7 +1612,6 @@
 0.0.0.0 zburger.top
 0.0.0.0 zdn.ro
 0.0.0.0 dns.zemows.industries
-0.0.0.0 doh.zephyrus.id
 0.0.0.0 adguard-kartoffel.zernico.de
 0.0.0.0 dns.zfsystem.tech
 0.0.0.0 doh.zknt.org
