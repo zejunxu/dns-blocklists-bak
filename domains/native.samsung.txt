@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Jun 2025 23:08 UTC
-# Version: 2025.0613.2308.16
+# Last modified: 16 Jun 2025 12:58 UTC
+# Version: 2025.0616.1258.12
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 254
+# Number of entries: 253
 #
 samsung-com.112.2o7.net
 metric.account-samsung.com
@@ -116,7 +116,6 @@ zn9xowqszdbqtbfwx-seasamsung.siteintercept.qualtrics.com
 znewylzpqds1jt1sh-samsunggdc.siteintercept.qualtrics.com
 znexudtrhw0nwrmga-seasamsung.siteintercept.qualtrics.com
 zneysvtqyfhzf6n4p-samsungeurope.siteintercept.qualtrics.com
-config-api.internet.apps.samsung.com
 sia.internet.apps.samsung.com
 dls-account.di.atlas.samsung.com
 images.b2bindia.samsung.com
