@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 16 Jun 2025 14:20 UTC
-! Version: 2025.0616.1420.51
+! Last modified: 16 Jun 2025 22:43 UTC
+! Version: 2025.0616.2243.27
 ! Syntax: AdBlock
-! Number of entries: 14744
+! Number of entries: 14797
 !
 ||01crypto.com^
 ||1001clothing.eu^
@@ -7244,6 +7244,7 @@
 ||keenooc.com^
 ||keenschuhe.at^
 ||keepcandles.shop^
+||keksa.de^
 ||kelansu.com^
 ||kellgy.com^
 ||kellybridgetann.com^
@@ -7287,6 +7288,7 @@
 ||kids-premium.com^
 ||kidsimply.shop^
 ||kiks-de.shop^
+||killenclinical.com^
 ||kilokits.com^
 ||kilometeru.com^
 ||kimaboutique.de^
@@ -7370,8 +7372,10 @@
 ||kleidungfrilufts.com^
 ||kleidungliebe.de^
 ||kleidungsmarkt.com^
+||klein-shop.de^
 ||kleinwien.at^
 ||klenertcheap.shop^
+||kleverzins.de^
 ||klimmotorrad.com^
 ||klingerdirndl.com^
 ||kloud-shop.com^
@@ -7381,6 +7385,7 @@
 ||kluthbaustoffeeu.shop^
 ||klynu.com^
 ||heimtraum.kmayzm.guru^
+||kmycjt.com^
 ||knackly.de^
 ||knast-papier.com^
 ||knauermann.de^
@@ -7450,6 +7455,7 @@
 ||konsoleplay.com^
 ||kontomeinelbaraiffeisen.com^
 ||kontoverlaengerung.com^
+||koodakde.shop^
 ||kopkde.shop^
 ||kora-store.de^
 ||korata.com^
@@ -7457,6 +7463,7 @@
 ||korumde.com^
 ||korummainlinebait.com^
 ||kosmetik-kreis.de^
+||kosmetik-loxstedt.de^
 ||koucy.com^
 ||kovison.de^
 ||kowela.com^
@@ -7502,6 +7509,7 @@
 ||krworkinde.com^
 ||krypto-ex.com^
 ||krypto-tust-fund.de^
+||kryptod.com^
 ||kryptofx.com^
 ||kryptographen.de^
 ||kryptovip.com^
@@ -7520,7 +7528,6 @@
 ||kucings.shop^
 ||kudurun.com^
 ||kuechenblume.net^
-||kuechengerateheld.org^
 ||kuhlecke.de^
 ||kuland24.de^
 ||kulbit.lv^
@@ -7588,6 +7595,7 @@
 ||ladiesswimwearnew.com^
 ||ladigrace.com^
 ||ladyrunclothing.com^
+||ladyshoeclearance.com^
 ||laegi.com^
 ||lafeebeauty.shop^
 ||lagalanade.shop^
@@ -7890,6 +7898,7 @@
 ||lindenberg-modehaus.de^
 ||linderhoff.com^
 ||linear-antrieb.de^
+||linearnetrik.de^
 ||linenhomestudio.com^
 ||linenmia.com^
 ||linens-chic.com^
@@ -7914,6 +7923,7 @@
 ||litflare.de^
 ||litise.com^
 ||litroux.de^
+||litroux.nl^
 ||litroux-de.com^
 ||litschidee.de^
 ||littledreamersshop.com^
@@ -7968,11 +7978,14 @@
 ||locmyparcel.info^
 ||locobox.net^
 ||lodiro.de^
+||lodischuhedeutschland.com^
 ||lodischuheonlineshop.de^
+||loefflerrandalllove.com^
 ||loewe-vom-sauerland.de^
 ||loftboutique.de^
 ||lofza.com^
 ||logisticperfectsolution.com^
+||logisticteamgmbh.com^
 ||logixwood.com^
 ||lojadriz.com^
 ||lojaeconoshop.com^
@@ -7997,14 +8010,18 @@
 ||lomvera.com^
 ||lonara.de^
 ||londonemanagement.com^
+||londonglobalmarkets.com^
 ||londonsunny.com^
+||loneros.de^
 ||longchamposterreich.at^
 ||longchamposterrelch.com^
 ||lonoakwostore.com^
 ||lontl-fx.com^
+||loomzo.com^
 ||loosepantsofficial.com^
 ||loovincy.com^
 ||lopgedstian.com^
+||lopsddf.com^
 ||loradea.de^
 ||loramode.de^
 ||lorana.de^
@@ -8078,9 +8095,11 @@
 ||lowasales.com^
 ||lowaschuhefabrikverkauf.de^
 ||lowashoes.cc^
+||lowawanderschuhe.de^
 ||lowela.de^
 ||lowhikingboots.com^
 ||loxologyshop.com^
+||lozenda.de^
 ||lpb-garten.de^
 ||lprhomes.com^
 ||lpteel.com^
@@ -8104,6 +8123,7 @@
 ||ludwigmode.de^
 ||luekeshoes.com^
 ||luffglasses.com^
+||luftentfeuchterdewett.de^
 ||luggageracksshop.com^
 ||luiliebe.shop^
 ||lukasenergie.com^
@@ -8248,6 +8268,7 @@
 ||makoenergie.de^
 ||malaccastraitdaily.com^
 ||malawitreff.de^
+||maldano.com^
 ||maldenstores.de^
 ||maldives-hotelsresorts.com^
 ||maldivestravelform.com^
@@ -8266,6 +8287,7 @@
 ||mamiblockshop.shop^
 ||mammabump.de^
 ||mammutwien.at^
+||mamomi-shopping.de^
 ||man-investments.com^
 ||managementinvest.com^
 ||mancheap.com^
@@ -8374,6 +8396,7 @@
 ||mascpi.fr^
 ||masersonja.shop^
 ||masonlinda.com^
+||masorid.shop^
 ||masri-trans.de^
 ||massimolutti.de^
 ||massive-deals.com^
@@ -8384,8 +8407,10 @@
 ||masti.store^
 ||mataporkoz.com^
 ||matcha-sllim.cc^
+||matchdayapparel.com^
 ||matching-mommies.de^
 ||materialbearbeitung.com^
+||matobatgarten.com^
 ||matona.shop^
 ||matrixator.com^
 ||matrixblockstream.com^
@@ -8411,6 +8436,7 @@
 ||maviele.com^
 ||homegenius.mavilyxo.monster^
 ||mavyella.com^
+||max-healthcarerx.com^
 ||max-steroids.com^
 ||maxi-bike24.de^
 ||maxi-elektro.at^
@@ -8452,6 +8478,7 @@
 ||mechanicalpartsde.com^
 ||mechanicse.com^
 ||mechanicsn.com^
+||mechtildfiebig.de^
 ||medeurope24.com^
 ||media-deals24.de^
 ||media-fix.de^
@@ -8512,6 +8539,7 @@
 ||mege-tech.de^
 ||mehsam-transport.com^
 ||meiergartenbau.de^
+||meiers.eu^
 ||meierschweiz.ch^
 ||meierwien.at^
 ||meikemode.de^
@@ -8576,8 +8604,11 @@
 ||membershipy.com^
 ||memberxxl.de^
 ||memory-tee.com^
+||men-accessories.store^
+||men-clothing.store^
 ||men-outfits.com^
 ||menaamoha.com^
+||menbikeshop.com^
 ||menbrandwear.com^
 ||menclothesmall.com^
 ||mendira.de^
@@ -8626,6 +8657,7 @@
 ||metallicn.com^
 ||metallurgydaily.com^
 ||metallurgyglobal.com^
+||metaproinvest.com^
 ||metatrada.com^
 ||metaversesworld.org^
 ||metricgurus.com^
@@ -8637,6 +8669,7 @@
 ||meyer-handel.de^
 ||mfayechauhan.com^
 ||mfboutiquestore.tools^
+||mg-management.de^
 ||mg-tr.com^
 ||mh-baumarkt.com^
 ||mh63trans.de^
@@ -8645,6 +8678,7 @@
 ||mialea.de^
 ||miamarket.de^
 ||micaraaeu.shop^
+||micardium-bio.com^
 ||micardium-at.micardiumhub.com^
 ||michael-mahr.de^
 ||michaelbarone.shop^
@@ -8684,6 +8718,7 @@
 ||milleis-bk.com^
 ||milleniumchain.com^
 ||millioncrystal.com^
+||milopuzzle.shop^
 ||miloujewelrys.com^
 ||miltonas.com^
 ||mimty.de^
@@ -8694,6 +8729,7 @@
 ||mindinsole.com^
 ||mindmetric.ai^
 ||mineralsglobal.com^
+||mineralsolutions.de^
 ||minero-energie.com^
 ||minglejobepic-deu.com^
 ||mini-kennzeichen.de^
@@ -8750,6 +8786,7 @@
 ||mizunos.de^
 ||mizunosaleportugal.com^
 ||mjonessb.com^
+||mjshoposterreich.at^
 ||mkaisha.shop^
 ||mkc-invest.com^
 ||mkleid.de^
@@ -8761,6 +8798,7 @@
 ||mnlsbjsy.com^
 ||mntransglobal.de^
 ||moanaforyoudiscount.shop^
+||moancd.shop^
 ||mobel-welt.com^
 ||mobelimfreien.com^
 ||mobelmagie.com^
@@ -8778,6 +8816,7 @@
 ||mobilmitkids.de^
 ||mobilstock-container.de^
 ||mobitracker.org^
+||mocvienhomestay.com^
 ||moda-monica.de^
 ||moda-villa.com^
 ||modafashions.store^
@@ -8852,6 +8891,7 @@
 ||moditec.fr^
 ||campfit.modivo.top^
 ||modovia.de^
+||moebel-olimp.de^
 ||moebelundzubehoer.com^
 ||moellerer.de^
 ||moellersersers.de^
@@ -8887,7 +8927,9 @@
 ||monika-taschen.com^
 ||monikawelpen.de^
 ||monofileschnure.com^
+||monopolyclothing.com^
 ||monostarscope.com^
+||monovia.de^
 ||monpatrimoineavenir.com^
 ||monpetit-kinderzimmer.de^
 ||monplantfraise.fr^
@@ -8965,6 +9007,7 @@
 ||motorcyclezesty.com^
 ||motorrad-levy-elsa.com^
 ||motorrader24.de^
+||motorraderhelme.de^
 ||motorraders.de^
 ||motorsensen-shop.com^
 ||motzenerdistribution.com^
@@ -8987,12 +9030,14 @@
 ||mritabudassi.com^
 ||mrkt4trd.com^
 ||mrmarkits.de^
+||mrtmarkets.com^
 ||msc-beratung.de^
 ||mseminar.com^
 ||mshoestore.com^
 ||mskauf.de^
 ||msnanty.com^
 ||mso-digital.top^
+||rice.msoleil.shop^
 ||mstf.de^
 ||mt4gestion.com^
 ||mt4invest.com^
@@ -9092,6 +9137,7 @@
 ||myonlyshop.de^
 ||myperiodproject.com^
 ||mypldauier.com^
+||myselftrade.com^
 ||springfield.mysellauth.com^
 ||myselrgt.com^
 ||myshania.de^
@@ -9240,6 +9286,7 @@
 ||navaro-shop.de^
 ||navoli.de^
 ||nazaone.com^
+||nb-osterreich.at^
 ||nbynicole.com^
 ||ncases.com^
 ||nchen.de^
@@ -9270,6 +9317,7 @@
 ||dex.neovate6.com^
 ||doc.neovate7.com^
 ||neoveris.shop^
+||neowatt.shop^
 ||neptuneselectronics.com^
 ||nerdsaleet.shop^
 ||neroo.de^
@@ -9312,6 +9360,7 @@
 ||musikhaus.neumann.de^
 ||neumann-handel.de^
 ||neumann-mobel.de^
+||neumann-reifenhandel.com^
 ||neumobelgeschaft.com^
 ||neunagel.de^
 ||neuwerkzeug.com^
@@ -9383,6 +9432,7 @@
 ||nicepacet.pics^
 ||nicgarten.com^
 ||nichespares.com^
+||nicheten.com^
 ||nicispielzeug.com^
 ||nicolasdelattre.com^
 ||nicole-mahler.de^
@@ -9401,6 +9451,7 @@
 ||nikeinsuomi.com^
 ||nikeosterreich.at^
 ||nikeoutletstoreonlineshopping.us^
+||nikeschuhes.de^
 ||nikeshoesoutlet.gr^
 ||nikesuomi.com^
 ||nikesuomi-fi.com^
@@ -9457,6 +9508,7 @@
 ||getwavetune.nomshopper.com^
 ||nooeberln.store^
 ||noral.xyz^
+||nordbeinordost.de^
 ||nordic-app.de^
 ||nordicci.de^
 ||nordicglimmer.com^
@@ -9471,6 +9523,7 @@
 ||norge-apt.com^
 ||norge-ed.com^
 ||norgeapotek24.com^
+||norion.xyz^
 ||noroki.com^
 ||norrona.vip^
 ||norsacke.com^
@@ -9480,6 +9533,7 @@
 ||northcapitalinvest.com^
 ||northfacegreeceshops.com^
 ||northfaceoutletstoreus.com^
+||northvapeusa.com^
 ||northwaveoff.com^
 ||northwavestore.com^
 ||nortonf.com^
@@ -12246,7 +12300,6 @@
 ||start-developing.de^
 ||startmarkets.com^
 ||startoptions.com^
-||startrader.com^
 ||startrendy.shop^
 ||startswimca.com^
 ||startx.at^

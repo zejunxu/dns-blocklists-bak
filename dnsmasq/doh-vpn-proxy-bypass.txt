@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jun 2025 15:40 UTC
-# Version: 2025.0616.1540.06
+# Last modified: 17 Jun 2025 00:02 UTC
+# Version: 2025.0617.0002.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4797
+# Number of entries: 4798
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1503,7 +1503,6 @@ local=/firstcontact.site/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -1746,7 +1745,6 @@ local=/google-public-dns-b.google.com/
 local=/dns-tunnel-check.googlezip.net/
 local=/tunnel.googlezip.net/
 local=/goosevpn.com/
-local=/performance.gosami.xyz/
 local=/vpn.gosami.xyz/
 local=/gostarlight.xyz/
 local=/fisdinstructure.gotroot.pw/
@@ -2242,6 +2240,7 @@ local=/www-proxy.kokecoco.me/
 local=/hr.komor.bid/
 local=/adguard.konikoni428.com/
 local=/bak2skewl.konpan.ch/
+local=/www-proxy.konstl01.xyz/
 local=/doh.kooman.org/
 local=/korzhov.dev/
 local=/dns.kosan.moe/
@@ -2499,6 +2498,7 @@ local=/doh.micronets.in/
 local=/microvpn.com/
 local=/interstellar.midnite.space/
 local=/www-proxy.migastep.com/
+local=/rammerdaze.miguelarevalo.es/
 local=/dns.mihanentalpo.me/
 local=/dns.mikeliu.org/
 local=/mikezhang.xyz/
@@ -2626,6 +2626,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/

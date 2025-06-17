@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jun 2025 14:22 UTC
-# Version: 2025.0616.1422.42
+# Last modified: 16 Jun 2025 22:45 UTC
+# Version: 2025.0616.2245.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5922
+# Number of entries: 5934
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -939,6 +939,7 @@ local=/calcol.cc/
 local=/calendrierbdp.info/
 local=/camillalaprincessagroup.life/
 local=/can.al/
+local=/candicegilmerauthor.com/
 local=/canon.us/
 local=/capcaifu.com/
 local=/capital.one/
@@ -2406,6 +2407,7 @@ local=/jean-pex-974.life/
 local=/jejuwin.live/
 local=/jellyurl.com/
 local=/jenoriana.bio/
+local=/jeruk.link/
 local=/jesse-hall-igan112.life/
 local=/jessestonecedar.live/
 local=/jetzt.work/
@@ -2547,6 +2549,7 @@ local=/kkne.ws/
 local=/kko.to/
 local=/kkstre.am/
 local=/hi.kktv.to/
+local=/kl.am/
 local=/kla.me/
 local=/klas.ws/
 local=/klck.me/
@@ -2579,6 +2582,7 @@ local=/kp.org/
 local=/kpmg.ch/
 local=/kr.pe/
 local=/kr3w.de/
+local=/kratsi.cz/
 local=/krazy.la/
 local=/kriizuh-rig-09.info/
 local=/krishnaraosivaramas.life/
@@ -2750,7 +2754,9 @@ local=/linkedin-jobmkt.com/
 local=/linkerr.io/
 local=/linkexpander.com/
 local=/linkf.su/
+local=/linkfat.com/
 local=/linkfly.app/
+local=/linkfly.me/
 local=/linkfly.to/
 local=/linkfr.ee/
 local=/linkfuly.com/
@@ -2987,6 +2993,7 @@ local=/mariofpage.online/
 local=/marisofpage.xyz/
 local=/marketclan.com/
 local=/marketingfyte.live/
+local=/marveliness.com/
 local=/mas.si/
 local=/mas.so/
 local=/masklink.org/
@@ -3146,6 +3153,7 @@ local=/mod.lk/
 local=/modash.link/
 local=/moj.jo/
 local=/moklotz.live/
+local=/mollyminx.com/
 local=/mom-one-z-1991.life/
 local=/grow.momentumproject.finance/
 local=/momo.dm/
@@ -3170,6 +3178,7 @@ local=/motiatech.com/
 local=/motpe.sbs/
 local=/motphimz.live/
 local=/mou.sr/
+local=/movevibe.life/
 local=/mpl.pm/
 local=/mpo-link.com/
 local=/mpo228.life/
@@ -3237,6 +3246,7 @@ local=/mycecianajada271928.life/
 local=/mycts.app/
 local=/mycts.info/
 local=/mydemetrius.life/
+local=/myduke.life/
 local=/myf.mg/
 local=/myfonts.us/
 local=/myfreesex.life/
@@ -3326,6 +3336,7 @@ local=/nej.md/
 local=/neoyoyo33ofc.live/
 local=/mylinks.net.br/
 local=/neti.cc/
+local=/netizen303.org/
 local=/netm.ag/
 local=/networking-htx.com/
 local=/newcecianajada271928.life/
@@ -3370,6 +3381,7 @@ local=/nktcx.com/
 local=/nlc.mobi/
 local=/nmrk.re/
 local=/nmw.news/
+local=/nn.nf/
 local=/nnm.hu/
 local=/nnn.is/
 local=/nnna.ru/

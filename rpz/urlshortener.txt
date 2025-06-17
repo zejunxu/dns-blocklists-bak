@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750083720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750113900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Jun 2025 14:22 UTC
-; Version: 2025.0616.1422.42
+; Last modified: 16 Jun 2025 22:45 UTC
+; Version: 2025.0616.2245.12
 ; Syntax: RPZ
-; Number of entries: 11844
+; Number of entries: 11868
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -154,6 +154,8 @@ is.am CNAME .
 *.is.am CNAME .
 kkstre.am CNAME .
 *.kkstre.am CNAME .
+kl.am CNAME .
+*.kl.am CNAME .
 livestre.am CNAME .
 *.livestre.am CNAME .
 mj.am CNAME .
@@ -1790,6 +1792,8 @@ bzgso.com CNAME .
 *.bzgso.com CNAME .
 cactusskyonline.com CNAME .
 *.cactusskyonline.com CNAME .
+candicegilmerauthor.com CNAME .
+*.candicegilmerauthor.com CNAME .
 capcaifu.com CNAME .
 *.capcaifu.com CNAME .
 capsulink.com CNAME .
@@ -2380,6 +2384,8 @@ linkedin-jobmkt.com CNAME .
 *.linkedin-jobmkt.com CNAME .
 linkexpander.com CNAME .
 *.linkexpander.com CNAME .
+linkfat.com CNAME .
+*.linkfat.com CNAME .
 linkfuly.com CNAME .
 *.linkfuly.com CNAME .
 linkgol88.com CNAME .
@@ -2464,6 +2470,8 @@ manyi3dcreations.com CNAME .
 *.manyi3dcreations.com CNAME .
 marketclan.com CNAME .
 *.marketclan.com CNAME .
+marveliness.com CNAME .
+*.marveliness.com CNAME .
 matchurl.com CNAME .
 *.matchurl.com CNAME .
 mathmayr.com CNAME .
@@ -2524,6 +2532,8 @@ mntrmeme.com CNAME .
 *.mntrmeme.com CNAME .
 mnvne.com CNAME .
 *.mnvne.com CNAME .
+mollyminx.com CNAME .
+*.mollyminx.com CNAME .
 mondoagram.com CNAME .
 *.mondoagram.com CNAME .
 moourl.com CNAME .
@@ -3654,6 +3664,8 @@ i99.cz CNAME .
 *.i99.cz CNAME .
 jdem.cz CNAME .
 *.jdem.cz CNAME .
+kratsi.cz CNAME .
+*.kratsi.cz CNAME .
 kuc.cz CNAME .
 *.kuc.cz CNAME .
 nbzp.cz CNAME .
@@ -6400,6 +6412,8 @@ mono-gog-o.life CNAME .
 *.mono-gog-o.life CNAME .
 monteiro-run-ckxmmvr-9829.life CNAME .
 *.monteiro-run-ckxmmvr-9829.life CNAME .
+movevibe.life CNAME .
+*.movevibe.life CNAME .
 mpo228.life CNAME .
 *.mpo228.life CNAME .
 mr-kern-al7.life CNAME .
@@ -6416,6 +6430,8 @@ mycecianajada271928.life CNAME .
 *.mycecianajada271928.life CNAME .
 mydemetrius.life CNAME .
 *.mydemetrius.life CNAME .
+myduke.life CNAME .
+*.myduke.life CNAME .
 myfreesex.life CNAME .
 *.myfreesex.life CNAME .
 myhap.life CNAME .
@@ -6748,6 +6764,8 @@ iwr.link CNAME .
 *.iwr.link CNAME .
 jaga.link CNAME .
 *.jaga.link CNAME .
+jeruk.link CNAME .
+*.jeruk.link CNAME .
 kaos.link CNAME .
 *.kaos.link CNAME .
 kgs.link CNAME .
@@ -7976,6 +7994,8 @@ lin-k.me CNAME .
 *.lin-k.me CNAME .
 linkbear.me CNAME .
 *.linkbear.me CNAME .
+linkfly.me CNAME .
+*.linkfly.me CNAME .
 linkit4.me CNAME .
 *.linkit4.me CNAME .
 linkjago.me CNAME .
@@ -8712,6 +8732,8 @@ wwp.news CNAME .
 *.wwp.news CNAME .
 a.nf CNAME .
 *.a.nf CNAME .
+nn.nf CNAME .
+*.nn.nf CNAME .
 booki.ng CNAME .
 *.booki.ng CNAME .
 simpl.com.ng CNAME .
@@ -8994,6 +9016,8 @@ mtiny.org CNAME .
 *.mtiny.org CNAME .
 nanourl.org CNAME .
 *.nanourl.org CNAME .
+netizen303.org CNAME .
+*.netizen303.org CNAME .
 on.nypl.org CNAME .
 *.on.nypl.org CNAME .
 tiny.oldsouth.org CNAME .

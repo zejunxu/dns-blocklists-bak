@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750088100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750118280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Jun 2025 15:35 UTC
-; Version: 2025.0616.1535.08
+; Last modified: 16 Jun 2025 23:58 UTC
+; Version: 2025.0616.2358.04
 ; Syntax: RPZ
-; Number of entries: 20178
+; Number of entries: 20220
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1117,6 +1117,8 @@ laze.cc CNAME .
 *.laze.cc CNAME .
 limetorrent.cc CNAME .
 *.limetorrent.cc CNAME .
+limetorrents.cc CNAME .
+*.limetorrents.cc CNAME .
 limetorrentx.cc CNAME .
 *.limetorrentx.cc CNAME .
 lk21official.cc CNAME .
@@ -1315,6 +1317,8 @@ streamingcommunity.center CNAME .
 *.streamingcommunity.center CNAME .
 tantifilm.center CNAME .
 *.tantifilm.center CNAME .
+tr.kxmp.cf CNAME .
+*.tr.kxmp.cf CNAME .
 altadefinizione.cfd CNAME .
 *.altadefinizione.cfd CNAME .
 cb01.cfd CNAME .
@@ -4709,6 +4713,8 @@ katunblock.com CNAME .
 *.katunblock.com CNAME .
 katzddl.com CNAME .
 *.katzddl.com CNAME .
+kavkisfile.com CNAME .
+*.kavkisfile.com CNAME .
 kawaiifu.com CNAME .
 *.kawaiifu.com CNAME .
 kayoanime.com CNAME .
@@ -4915,6 +4921,8 @@ luckypatchers.com CNAME .
 *.luckypatchers.com CNAME .
 lumpysoft.com CNAME .
 *.lumpysoft.com CNAME .
+backupz.lunaticsworld.com CNAME .
+*.backupz.lunaticsworld.com CNAME .
 lunchboards.com CNAME .
 *.lunchboards.com CNAME .
 lunchflix.com CNAME .
@@ -5091,6 +5099,8 @@ minecrapk.com CNAME .
 *.minecrapk.com CNAME .
 mininova.com CNAME .
 *.mininova.com CNAME .
+minionstream.com CNAME .
+*.minionstream.com CNAME .
 minorstudio.com CNAME .
 *.minorstudio.com CNAME .
 miobt.com CNAME .
@@ -5173,12 +5183,16 @@ modzozo.com CNAME .
 *.modzozo.com CNAME .
 mojblink.com CNAME .
 *.mojblink.com CNAME .
+mojobb.com CNAME .
+*.mojobb.com CNAME .
 monoschinos.com CNAME .
 *.monoschinos.com CNAME .
 mooslo.com CNAME .
 *.mooslo.com CNAME .
 morpheustvhd.com CNAME .
 *.morpheustvhd.com CNAME .
+motivationalhacks.com CNAME .
+*.motivationalhacks.com CNAME .
 movie2kproxy.com CNAME .
 *.movie2kproxy.com CNAME .
 moviebeamz.com CNAME .
@@ -5213,6 +5227,8 @@ moviesdvdr.com CNAME .
 *.moviesdvdr.com CNAME .
 moviesfoundonline.com CNAME .
 *.moviesfoundonline.com CNAME .
+movieswbb.com CNAME .
+*.movieswbb.com CNAME .
 movietly.com CNAME .
 *.movietly.com CNAME .
 moviful.com CNAME .
@@ -8563,6 +8579,8 @@ illimitestreaming.fr CNAME .
 *.illimitestreaming.fr CNAME .
 tracker.iriseden.fr CNAME .
 *.tracker.iriseden.fr CNAME .
+manga-addict.fr CNAME .
+*.manga-addict.fr CNAME .
 megadl.fr CNAME .
 *.megadl.fr CNAME .
 mes-meilleurs-films.fr CNAME .
@@ -9287,6 +9305,8 @@ lapache.info CNAME .
 *.lapache.info CNAME .
 legittorrents.info CNAME .
 *.legittorrents.info CNAME .
+limetorrents.info CNAME .
+*.limetorrents.info CNAME .
 lk21official.info CNAME .
 *.lk21official.info CNAME .
 m4ufree.info CNAME .
@@ -9297,6 +9317,8 @@ megashare.info CNAME .
 *.megashare.info CNAME .
 monlive.info CNAME .
 *.monlive.info CNAME .
+moviesmania.info CNAME .
+*.moviesmania.info CNAME .
 moviespur.info CNAME .
 *.moviespur.info CNAME .
 mp3scene.info CNAME .
@@ -10571,6 +10593,8 @@ movies.levrx.lol CNAME .
 *.movies.levrx.lol CNAME .
 limetorrents.lol CNAME .
 *.limetorrents.lol CNAME .
+lordfilmhd.lol CNAME .
+*.lordfilmhd.lol CNAME .
 myflixer.lol CNAME .
 *.myflixer.lol CNAME .
 nyafilmer.lol CNAME .
@@ -12629,6 +12653,8 @@ web1.nugs.net CNAME .
 *.web1.nugs.net CNAME .
 nullforums.net CNAME .
 *.nullforums.net CNAME .
+nullphp.net CNAME .
+*.nullphp.net CNAME .
 nullsclash.net CNAME .
 *.nullsclash.net CNAME .
 nullsroyale.net CNAME .
@@ -14597,6 +14623,8 @@ tracker.kamigami.org CNAME .
 *.tracker.kamigami.org CNAME .
 kaoskrew.org CNAME .
 *.kaoskrew.org CNAME .
+kaztorka.org CNAME .
+*.kaztorka.org CNAME .
 kcnawatch.org CNAME .
 *.kcnawatch.org CNAME .
 kickass2.org CNAME .
@@ -14713,6 +14741,8 @@ mesfichiers.org CNAME .
 *.mesfichiers.org CNAME .
 metalarea.org CNAME .
 *.metalarea.org CNAME .
+metalbits.org CNAME .
+*.metalbits.org CNAME .
 mgtracker.org CNAME .
 *.mgtracker.org CNAME .
 mindwarppavilion.org CNAME .
@@ -14767,6 +14797,8 @@ movieszone.org CNAME .
 *.movieszone.org CNAME .
 movietown.org CNAME .
 *.movietown.org CNAME .
+mp3-juice.org CNAME .
+*.mp3-juice.org CNAME .
 mp4hdmovies.org CNAME .
 *.mp4hdmovies.org CNAME .
 mp4hydra.org CNAME .
@@ -14817,6 +14849,8 @@ newz-complex.org CNAME .
 *.newz-complex.org CNAME .
 nfhh.org CNAME .
 *.nfhh.org CNAME .
+nicoblog.org CNAME .
+*.nicoblog.org CNAME .
 nima4k.org CNAME .
 *.nima4k.org CNAME .
 nitesgate.org CNAME .
@@ -15921,6 +15955,8 @@ kinoua.pro CNAME .
 *.kinoua.pro CNAME .
 limetor.pro CNAME .
 *.limetor.pro CNAME .
+limetorrents.pro CNAME .
+*.limetorrents.pro CNAME .
 live7.pro CNAME .
 *.live7.pro CNAME .
 tv2.lk21official.pro CNAME .
@@ -16607,6 +16643,8 @@ retracker.local.msn-net.ru CNAME .
 *.retracker.local.msn-net.ru CNAME .
 multi-torrent.ru CNAME .
 *.multi-torrent.ru CNAME .
+multreactor.ru CNAME .
+*.multreactor.ru CNAME .
 myflixer.ru CNAME .
 *.myflixer.ru CNAME .
 myflixerhd.ru CNAME .
@@ -17835,6 +17873,8 @@ katz.to CNAME .
 *.katz.to CNAME .
 kickass.to CNAME .
 *.kickass.to CNAME .
+kickasstorrents.to CNAME .
+*.kickasstorrents.to CNAME .
 kinomax.to CNAME .
 *.kinomax.to CNAME .
 kinos.to CNAME .
@@ -18623,6 +18663,8 @@ megaflix.tv CNAME .
 *.megaflix.tv CNAME .
 mejortorrent.tv CNAME .
 *.mejortorrent.tv CNAME .
+mendax.tv CNAME .
+*.mendax.tv CNAME .
 miomio.tv CNAME .
 *.miomio.tv CNAME .
 miruro.tv CNAME .
